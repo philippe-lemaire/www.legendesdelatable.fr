@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Les Légendes de la Table</title>
+    <link>https://www.legendesdelatable.fr/</link>
+    <description>Recent content on Les Légendes de la Table</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 22 Oct 2021 15:01:59 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.legendesdelatable.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Articles</title>
+      <link>https://www.legendesdelatable.fr/articles/</link>
+      <pubDate>Fri, 22 Oct 2021 15:01:59 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donjon Rampe Classiques</title>
+      <link>https://www.legendesdelatable.fr/articles/donjon-rampe-classiques/</link>
+      <pubDate>Fri, 22 Oct 2021 15:01:59 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/donjon-rampe-classiques/</guid>
+      <description>&lt;p&gt;Salut à tous,
+Plusieurs moins sans alimenter le site mais la passion dévorante et nuisible pour le porte monnaie de m’a pas quitté.&lt;/p&gt;
+&lt;p&gt;Récemment grâce à un de mes joueurs j’ai découvert le monde merveilleur de l’OSR alias Renaissance de la Vieille École dans la langue de Molière, et j’ai craqué pour la version française de &lt;a href=&#34;https://goodman-games.com/store/product/dungeon-crawl-classics-rpg-softcover-edition/&#34;&gt;Dungeon Crawl Classics&lt;/a&gt; publiée par &lt;a href=&#34;http://www.akileos.fr/catalogue/dungeon-crawl-classics-livre-de-regles/&#34;&gt;Akileos&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;J’ai aussi passé quelques mois à apprendre Python et la Data Science en vue de reconversion professionnelle et je m’amuse à développer une web-app pour créer et faire évoluer ses personnages pour ce jeu.&lt;/p&gt;
+&lt;p&gt;Si vous jouer à Dungeon Crawl Classics, ça peut être un outil sympa, surtout si vous jouer en ligne.&lt;/p&gt;
+&lt;p&gt;Ça se passe sur &lt;a href=&#34;https://donjonrampeclassiques.herokuapp.com/&#34;&gt;Donjon Rampe Classiques&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Préparatifs pour l’Apocalypse</title>
+      <link>https://www.legendesdelatable.fr/articles/preparatifs-pour-l-apocalypse/</link>
+      <pubDate>Thu, 08 Apr 2021 08:01:51 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/preparatifs-pour-l-apocalypse/</guid>
+      <description>&lt;p&gt;Je suis en plein préparatifs pour le lancement d’une nouvelle campagne du jeu &lt;a href=&#34;http://apocalypse-world.com/&#34;&gt;Apocalypse World&lt;/a&gt; de D. Vincent et Meguey Baker.&lt;/p&gt;
+&lt;p&gt;Apocalypse World est un jeu qui en son temps a grandement innové sur le partage de l&amp;rsquo;autorité  entre le Maître de Cérémonie et les joueurs, et
+facilité l’improvisation collective avec son système de &lt;em&gt;moves&lt;/em&gt; à résolution en trois niveaux : échec, succès partiel, succès total.&lt;/p&gt;
+&lt;p&gt;Les principes et mécaniques de base du jeu ont été repris par un grand nombre d&amp;rsquo;auteurs qui ont créé des adaptations dans des genres différents : fantasy, western, cyberpunk, super-héros, et bien d&amp;rsquo;autres… Ces jeux sont estampillés &lt;strong&gt;Powered by the Apocalypse&lt;/strong&gt;, PbtA pour faire court.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;espère après une campagne réussie de 5 à 8 sessions avoir des joueurs motivés pour essayer d’autres jeux de la grande famille PbtA dans d&amp;rsquo;autres thèmes, comme &lt;a href=&#34;https://magpiegames.com/root-rpg/&#34;&gt;Root&lt;/a&gt;, &lt;a href=&#34;http://wmakers.net/comrades&#34;&gt;Comrades&lt;/a&gt; ou &lt;a href=&#34;https://www.kickstarter.com/projects/1735046512/stonetop&#34;&gt;Stonetop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai fait quelques découvertes intéressantes lors de ces préparatifs, et je voulais en faire profiter mes nombreux lecteurs.&lt;/p&gt;
+&lt;h2 id=&#34;la-base&#34;&gt;La base&lt;/h2&gt;
+&lt;p&gt;Après avoir lu, relu, re-relu le bouquin de base, si votre jeu n&amp;rsquo;est pas hyper connu, il peut être bon de rédiger un mini pitch qui explique en quoi le jeu consiste et qui donne envie, en plus des horaires et de la durée de la campagne prévue.&lt;/p&gt;
+&lt;p&gt;L’étape suivante, et peut-être la plus difficile, trouver 2 à 4 joueurs.&lt;/p&gt;
+&lt;p&gt;Tappez dans vos amis, vos collègues, votre famille, vous anciens joueurs si vous en avez, et jamais ça ne suffit pas, j&amp;rsquo;ai entendu du bien des gens qui participent au forum &lt;a href=&#34;https://www.aubergevirtuelle.fr&#34;&gt;Auberge Virtuelle&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En général je m&amp;rsquo;en remets à un de mes joueurs historiques, qui participe à une dizaine de groupes en parallèle, et qui m&amp;rsquo;aide à trouver un joueur ou deux dans son réseau incroyable pour compléter ma table.&lt;/p&gt;
+&lt;h2 id=&#34;loutillage-du-maître-de-cérémonie-30&#34;&gt;L’outillage du Maître de Cérémonie 3.0&lt;/h2&gt;
+&lt;p&gt;En farfouillant les internets à propos du dernier bouquin que j&amp;rsquo;ai acheté (Ryuutama), je suis tombé sur une fiche de perso dans un format que je n&amp;rsquo;avais pas envisagé : un board &lt;a href=&#34;https://www.trello.com&#34;&gt;Trello&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Trello est un outil qui permet de créer des tableaux constitués de colonnes dans lesquelles on ajoute des cartes. Ces cartes peuvent contenir du texte, une image, du formatage markdown, et être facilement réorganisées par glisser déposer, mais également être envoyées d&amp;rsquo;un tableau à un autre au sein du groupe.&lt;/p&gt;
+&lt;p&gt;L&amp;rsquo;intérêt ici c&amp;rsquo;est d&amp;rsquo;avoir sous les yeux les éléments mécaniques de son personnage, et de pouvoir cliquer sur une carte pour y voir plus de détail, par exemple sur les règles d&amp;rsquo;un &lt;em&gt;move&lt;/em&gt; particulier. Souvent dans les jeux PbtA, les &lt;em&gt;moves&lt;/em&gt; ont une liste d&amp;rsquo;options à choisir sur un résultat supérieur à 7, et avant de les connaître par cœur, on doit bien se référer aux règles en cours de jeu. Là il suffit de cliquer sur la carte du &lt;em&gt;move&lt;/em&gt; pour avoir le détail sous les yeux.&lt;/p&gt;
+&lt;p&gt;Pour le &lt;em&gt;Maître de Cérémonie&lt;/em&gt;, c&amp;rsquo;est un bon moyen de garder sous les yeux sa liste de &lt;em&gt;moves&lt;/em&gt; spécifiques, mais également des listes de noms de PNJs, déjà établis ou gardés sous le coude quand il faut nommer quelqu’un dans le feu de l’action.&lt;/p&gt;
+&lt;p&gt;Voici à quoi ça ressemble :&lt;/p&gt;
+&lt;p&gt;Livret de personnage (à compléter quand un playbook est choisi) :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/apocalypse-world/apocalypse-world-trello-board-PJ1.png&#34; alt=&#34;Trello Board Livret de personnage 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/apocalypse-world/apocalypse-world-trello-board-PJ2.png&#34; alt=&#34;Trello Board Livret de personnage 2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Tableau du MC :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/apocalypse-world/apocalypse-world-trello-board-mc.png&#34; alt=&#34;Trello Board Panneau du Maître de Cérémonie&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Une fois votre feuille de perso de base établie, il n&amp;rsquo;y a plus qu&amp;rsquo;à la copier et à la partager à chaque joueur.&lt;/p&gt;
+&lt;h2 id=&#34;cartes-et-repères-visuels&#34;&gt;Cartes et repères visuels&lt;/h2&gt;
+&lt;p&gt;Même si les jeux PbtA ne nécessitent pas l’usage de cartes quadrillées pour gérer les déplacements au pied près, il est toujours utile de partager des cartes des lieux de la fiction pour que tout le monde puisse avoir une image mentale à peu près alignée.&lt;/p&gt;
+&lt;p&gt;Plutôt que de faire la carte de votre côté et de partager votre écran, un moyen plus économique en bande passante, plus pérenne et plus collaboratif consiste tout simplement à créer une présentation dans &lt;a href=&#34;https://docs.google.com&#34;&gt;Google Docs&lt;/a&gt; et à la partager avec vos joueurs. Ainsi chacun peut la consulter à loisir et y ajouter des éléments.&lt;/p&gt;
+&lt;p&gt;Voici à quoi ressemble la carte, avant le démarrage de la campagne (les étiquettes sont juste à titre d&amp;rsquo;exemple) :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/apocalypse-world/google-slides-map.png&#34; alt=&#34;Google Slide avec carte&#34;&gt;&lt;/p&gt;
+&lt;p&gt;La carte noir et blanc a été créée à partir de &lt;a href=&#34;http://maps.stamen.com/#terrain/&#34;&gt;cet outil, basé sur Google Maps&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;La bonne pratique pour éviter que l&amp;rsquo;image ne soit déplacée, redimensionnée ou supprimée par erreur, consiste à la définir comme image de fond de votre slide.&lt;/p&gt;
+&lt;p&gt;Google Slide sera également utilisé pour dessiner grossièrement des cartes de zones fictives, ou des cartes relationnelles des différents personnages et factions, ou pour montrer des images ou portraits à tous.&lt;/p&gt;
+&lt;h2 id=&#34;un-serveur-et-un-bot-discord-apocabot&#34;&gt;Un serveur et un bot discord : ApocaBot&lt;/h2&gt;
+&lt;p&gt;Enfin, pour se retrouver et avoir un moyen simple de chatter, faire une conférence vidéo et faire ses lancers de dés, j’aime bien utiliser &lt;a href=&#34;https://app.discord.com&#34;&gt;Discord&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Le truc que j&amp;rsquo;apprécie le plus, c’est l&amp;rsquo;écosystème de bots pour gérer les jets de dés, plus ou moins complexes selon les jeux. Les lancers d&amp;rsquo;Apocalypse World sont très simples, mais c&amp;rsquo;est toujours plus rigolo d&amp;rsquo;avoir le résultat de ses jets en public, aussi j’ai invité le bot &lt;a href=&#34;https://top.gg/bot/723981824455344180&#34;&gt;ApocaBot&lt;/a&gt; à joindre mon serveur Discord.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Voilà, maintenant, plus qu’à attendre la première session…&lt;/p&gt;
+&lt;p&gt;Et vous, vous avez un outil simple qui permet d&amp;rsquo;améliorer l&amp;rsquo;expérience de jeu à distance ?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ironsworn - le jeu solo qui affûte l’improvisation</title>
+      <link>https://www.legendesdelatable.fr/articles/ironsworn/</link>
+      <pubDate>Fri, 01 Jan 2021 09:24:22 +0100</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/ironsworn/</guid>
+      <description>&lt;p&gt;Le jeu de rôle est un délicat exercice d’équilibriste : d’un côté, c’est une forme de narration à la fois libre et guidée, généralement élaborée collectivement, et de l’autre, c’est un jeu avec des règles, des contraintes, la possibilité de choisir entre plusieurs options et d’en choisir la plus favorable, de bien jouer et de mal jouer, de gagner ou de perdre.&lt;/p&gt;
+&lt;p&gt;Si vous allez trop loin dans le narratif, il n’y a plus réellement de jeu, car il n’y a plus de contrainte, et plus de bon coup à jouer.&lt;/p&gt;
+&lt;p&gt;Si vous restez trop près des mécaniques, il n’y a plus d&amp;rsquo;enjeu narratif, plus d’attache, et votre jeu dégénère en un exercice de manipulation de figurines sur une grille et de lancers de dés.&lt;/p&gt;
+&lt;p&gt;Tout jeu de rôle existe dans cet entre-deux, dans un spectre entre la narration et la mécanique pure. Certains sont plus narratifs, d’autres plus &amp;ldquo;simulation&amp;rdquo; de combat.&lt;/p&gt;
+&lt;p&gt;Mais dans tous les cas, ce qui fait l’intérêt du hobby, c’est son aspect social, le fait de jouer ensemble, non ?
+Peut-on imaginer un jeu de rôle qui se joue seul, sans qu’il ne perde tout intérêt ?&lt;/p&gt;
+&lt;p&gt;C’est le défi qu’à relevé Shawn Tomkin avec son jeu Ironsworn. Et pour le joueur qui veut en profiter au maximum, tout va résider dans le délicat équilibre entre la fiction et la mécanique.&lt;/p&gt;
+&lt;h2 id=&#34;le-système&#34;&gt;Le système&lt;/h2&gt;
+&lt;p&gt;Ironsworn est un jeu de rôle aux règles simples, inspirées d’Apocalypse World, et concu pour être joué soit seul, soit en petit groupe, avec ou sans maître de jeu.&lt;/p&gt;
+&lt;p&gt;Le jeu est disponible sous la forme d’un PDF gratuit, ou d’un livre trouvable dans les bonnes librairies (comme chez mes amis de Trollune, à Lyon). À ce document principal, il vous faudra pour votre confort personnel faire cracher à votre imprimante quelques pages de récapitulation des &lt;em&gt;moves&lt;/em&gt; les plus fréquents, une page remplie de barres de progression à remplir lors de vos aventures, un ensemble de cartes représentant les atouts de votre personnage, et votre fiche de personnage, très épurée et extrèmement pratique.&lt;/p&gt;
+&lt;p&gt;Au niveau matériel, il vous faudra 1d6, 2d10, optionnellement 1d100, un crayon, une gomme, et bizarrement 4 trombones, à faire glisser sur les jauges imprimées sur les côtés de votre fiche de personnage pour indiquer le niveau actuel de votre santé physique, mentale, de vos ressources et de votre &lt;em&gt;momentum&lt;/em&gt; (votre élan, votre tempo).&lt;/p&gt;
+&lt;h3 id=&#34;moves-et-momentum&#34;&gt;Moves et Momentum&lt;/h3&gt;
+&lt;p&gt;Ironsworn utilise un système de &lt;em&gt;moves&lt;/em&gt; inspiré d’Apocalypse World.
+Le principe est simple : quand ce que vous faites dans la fiction correspond aux conditions de déclenchement d’un &lt;em&gt;move&lt;/em&gt;, vous lancez vos dés, ajoutez le bonus d’une de vos statistiques, l’éventuel bonus d’un atout ou d’un &lt;em&gt;move&lt;/em&gt; précédent, et interprétez le résultat obtenu, qui tombe toujours dans l’une des trois catégories : succès total, succès partiel, ou échec.&lt;/p&gt;
+&lt;p&gt;Jurer de mener une quête à bien, se faufiler derrière un ennemi discrètement, ordonner à votre dragonnet d’attaquer, se prendre un coup de massue, partir cueillir des fruits des bois, frôler la mort, ou même prendre votre retraite d’aventurier, tout ça, ce sont des amorces de &lt;em&gt;moves&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;lancers&#34;&gt;Lancers&lt;/h3&gt;
+&lt;p&gt;Quand vous déclenchez un move, vous lancez 1d6 et 2d10 en même temps. Vous ajoutez la stats et les bonus appropriés au d6, et vous le comparez aux d10. Si votre d6 et ses bonus sont strictement supérieurs à chaque d10, vous avez un franc succès, vous restez en contrôle de la situation, vous infligez des dégâts à votre adversaire tout en gardant la main sur le combat, vous trouvez votre chemin, vous réussissez à convaincre un PNJ de faire ce que vous demandiez, ou de devenir un ami pour la vie.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/ironsworn/dice-roll.png&#34; alt=&#34;Explication des lancers de dés&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Si votre d6 + bonus ne bat qu’un seul des dés, c’est un succès partiel. Vous progressez vers votre but, mais au prix d’une complication. Vous perdez le contrôle de la situation. Le &lt;em&gt;move&lt;/em&gt; utilisé vous indique plus précisemment comment.&lt;/p&gt;
+&lt;p&gt;Si vous ne battez aucun des deux d10, alors c’est un échec. Préparez-vous à faire le move &lt;em&gt;Pay the Price&lt;/em&gt;. Mais peut-être que vous aviez emmagasiné suffisamment de &lt;em&gt;momentum&lt;/em&gt;, et que vous pouvez transformer cet échec en succès finalement.&lt;/p&gt;
+&lt;h3 id=&#34;momentum&#34;&gt;Momentum&lt;/h3&gt;
+&lt;p&gt;Le momentum est une ressource abstraite qui représente à quel point vous vous en sortez bien dans votre quête. De nombreux &lt;em&gt;moves&lt;/em&gt; et &lt;em&gt;assets&lt;/em&gt; vous permettent de gagner progressivement du momentum. Vous commencez par défaut à +2, et pouvez accumuler ainsi votre momentum jusqu’à +10, mais peut-être moins si vous souffrez de conditions.&lt;/p&gt;
+&lt;p&gt;Quand vous avez accumulé assez de momentum, vous pouvez choisir de le consommer (et de retomber à +2) pour substituer votre momentum actuel à votre d6 + bonus. Concrètement, si vous avez +10 de momentum, vous pouvez ainsi battre les d10 qui afficheraient jusqu’à 9 (mais pas 10), et transformer un échec en succès, franc ou partiel, selon la situation.&lt;/p&gt;
+&lt;p&gt;Cette mécanique permet de contrôler légèrement l’aspect aléatoire des lancers, et de thésauriser une partie de votre bonne chance dans les moments plus anodins de votre aventure, pour en bénéficier plus tard, quand votre chance a tourné et que les enjeux sont plus importants.&lt;/p&gt;
+&lt;p&gt;Ainsi, votre franc succès sur un lancer pour vous découvrir des informations il y a quelques minutes pourra aussi vous aider à esquiver une attaque plus tard, et reprendre la main en cours de combat.&lt;/p&gt;
+&lt;h3 id=&#34;remplis-les-petites-boîtes&#34;&gt;Remplis les petites boîtes&lt;/h3&gt;
+&lt;p&gt;Ironsworn n’utilise pas de point de vie pour vos adversaires, mais un système de barres de progression à remplir.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/ironsworn/progress-track.png&#34; alt=&#34;progress track&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Vous pouvez vous imprimer une page entière remplie de ces boîtes, le pdf est fourni sur le site officiel.&lt;/p&gt;
+&lt;p&gt;Que ce soit pour mesurer les dégâts infligés à un ennemi, votre progression vers une destination lointaine à travers une contrée dangereuse, ou même à quel point vous vous approchez de la conclusion de votre quête, vous allez remplir une de ces barres de progression, à un rythme qui dépendra de la difficulté que vous aurez choisie (ou que la fiction aura imposé). 3 barres par point de dégât ou par étape pour les tâches et adversaires les plus simples, et seulement 1/4 de case par étape pour les missions et adversaires les plus épiques.&lt;/p&gt;
+&lt;p&gt;Quand vous le sentez, ou après un franc succès lors d’un &lt;em&gt;move&lt;/em&gt; quelconque en combat, vous pouvez tenter le &lt;em&gt;move&lt;/em&gt; qui achève l’ennemi, le voyage, ou la quête : vous lancez simplement les 2d10 habituels, et les comparez aux nombre de cases entièrement noircies de la barre de progression. Et vous obtiendrez un des 3 résultats habituels. Pas de momentum qui tienne.&lt;/p&gt;
+&lt;p&gt;Si vous avez bien suivi, vous réalisez que même avec une barre de progression entièrement remplie, avec ses 10 belles cases noircies, vous n’avez pas la garantie de battre les dés 10, juste une très grande probabilité.&lt;/p&gt;
+&lt;h3 id=&#34;demande-à-loracle&#34;&gt;Demande à l’Oracle&lt;/h3&gt;
+&lt;p&gt;Mais attends un peu Philippe, vous allez me dire, tout ça c’est bien beau, mais comment suis-je censé·e déterminer les actions de mes adversaires, les difficultés trouvées sur la route, les contreparties que les PNJs vont demander de moi quand je n’aurais qu’un succès partiel sur mon &lt;em&gt;move&lt;/em&gt; pour les convaincre de m’aider, les problèmes qui menancent ma communauté ? Je dois faire tout ça tout·e seul·e ?&lt;/p&gt;
+&lt;p&gt;En partie, oui, en suivant honnêtement ce que la fiction établie en jeu exige, mais si jamais tu manques d’imagination à un moment donné, ou si tu souhaites être surpris·e par la tournure des événements, tu peux demander à l’Oracle.&lt;/p&gt;
+&lt;p&gt;L’Oracle dans Ironsworn est un ensemble de tables aléatoires sur lesquelles lancer 1d100 pour déterminer un nom, un lieu, une complication, un thème, l’action d’un advesaire en combat, un prix à payer quand des dégâts infligés au corps ou au moral ne conviendraient pas dans la fiction.&lt;/p&gt;
+&lt;p&gt;Demander à l’Oracle, c’est le petit coup de pouce du destin pour rendre la partie plus intéressante qu’une simple rêverie solitaire.&lt;/p&gt;
+&lt;h3 id=&#34;les-atouts&#34;&gt;Les Atouts&lt;/h3&gt;
+&lt;p&gt;Pour personnaliser votre personnage, vous donner de quoi dépenser votre expérience accumulée, et vous donner un léger ascendant face à l’adversité, vous pourrez choisir lors de la création de votre personnage 3 atouts, qui modifient certains &lt;em&gt;moves&lt;/em&gt; de base, en vous donnant l’option d’utiliser une stat différente, de gagner un bonus au lancer et plus de momentum en cas de succès, ou de booster vos dégâts si vous cramez votre momentum, comme dans l’exemple ci-dessous :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/ironsworn/asset-swordmaster.png&#34; alt=&#34;Asset Swordmaster&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Lorsque vous faites l’acquisition d’un atout, vous n’obtenez qu’un de 3 bénéfices décrits sur la carte (généralement le premier, mais parfois un au choix, selon si la première case est noircie de base ou pas), mais vous pouvez acquérir le autres plus tard pour 2 XP, ou obtenir une nouvelle carte de talent pour 3 XP.&lt;/p&gt;
+&lt;p&gt;Ces talents représentent des techniques de combat, des rituels mystiques, des animaux alliés, ou des modifications de votre personnage après avoir subi de terribles blessures, avoir fait face à la mort, ou avoir été maudit.&lt;/p&gt;
+&lt;p&gt;Par exemple, mon personnage actuel est une chasseuse de monstres, mais elle a également un jeune dragon dressé comme atout. Lors de ma première session, elle a subit une blessure terrible, sa main gauche a été arrachée par un serpent géant. Cette blessure m’a débloqué l’accès à l’atout &amp;ldquo;estropié&amp;rdquo;, qui permet de booster la stat de &lt;em&gt;Cœur&lt;/em&gt; suite à une blessure grave. Et la stat de &lt;em&gt;Cœur&lt;/em&gt; est justement celle qui me permet de diriger ma petite troupe de monstres en combat.&lt;/p&gt;
+&lt;h2 id=&#34;lunivers-proposé&#34;&gt;L’univers proposé&lt;/h2&gt;
+&lt;p&gt;Ironsworn inclus un univers proposé, que je qualifierais de &lt;em&gt;low magic grim dark Scandinavian fantasy&lt;/em&gt;. Pardon pour l’anglais.&lt;/p&gt;
+&lt;p&gt;Géographie, ennemis, thématiques sur la colonisation de terres sauvages, du très classique, et par touches légères. Vous n’êtes absolument pas obligés de tout prendre, ni même de jouer dans cet univers. Mais la touche de génie, c’est que chaque élément, que ce soit les descriptions des differents paysages, des créatures, des communautés, des croyances religieuses et politique, chaque option donc, contient un germe de quête proposé, sous la forme d’une question, qui vous servira à amorcer vos quêtes. Une bonne réserve d’amorces, qui combinées à votre imagination vous donneront l’élan nécessaire pour vous jeter dans l’aventure.&lt;/p&gt;
+&lt;h2 id=&#34;retours-dexpérience&#34;&gt;Retours d’expérience&lt;/h2&gt;
+&lt;h3 id=&#34;tout-seul&#34;&gt;Tout seul&lt;/h3&gt;
+&lt;p&gt;J’ai joué environ 5 sessions d’une heure en mode solo. Au départ avec un premier personnage plutôt fourbe et discrète, accompagnée de son araignée géante et de sa dague, mais qui ne m’inspirait pas trop. Mais c’est comme les crèpes, la première qu’on cuit est généralement peu réussie. J’ai recommencé avec une chasseuse de monstres qui malgré elle se retrouve à dresser les bébés monstres de ses victimes, et j’ai beaucoup plus de plaisir à la jouer.&lt;/p&gt;
+&lt;p&gt;Au départ j’étais très sceptique sur la capacité du jeu à engendre des histoires cohérentes et intésessantes, mais à force de joueur, j’ai appris à interpréter les oracles et à accepter les prises de risques et les complications allant avec. Tenter de conclure une quête difficile avec une progression de seulement 6/10, et trouver le fun dans la victoire très amère qui s’en est suivie, par exemple.&lt;/p&gt;
+&lt;h3 id=&#34;guidé-avec-les-enfants&#34;&gt;Guidé, avec les enfants&lt;/h3&gt;
+&lt;p&gt;J’ai également joué en mode guidé avec mes deux fils.
+Dans le mode guidé, un maître de jeu remplace l’Oracle (même s’il ou elle peut y faire appel en cas de panne d’inspiration).&lt;/p&gt;
+&lt;p&gt;Nous avons joué dans l’univers de Pokémon Donjon Mystère. Dans PDM, il n’y a pas d’humains, les Pokémon parlent et les plus héroïques forment des équipes d’exploration ou de sauvetage pour partir à l’aventure. La substitution d’univers se fait super facilement et le reste des &lt;em&gt;moves&lt;/em&gt; suit très bien, il me suffit juste de déterminer pour eux quels &lt;em&gt;moves&lt;/em&gt; ils déclenchent dans la fiction, et les mécaniques de dés sont suffisamment simples pour qu’ils déterminent le résultat de leurs actions en autonomie.&lt;/p&gt;
+&lt;p&gt;Si vous êtes curieux, j’ai fait &lt;a href=&#34;https://www.reddit.com/r/Ironsworn/comments/kmz0bl/ironsworn_guided_mode_with_a_pok%C3%A9mon_mystery/&#34;&gt;un fil de discussion sur cette expérience sur reddit&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Je recommande chaudement le jeu, surtout pour les MJs éternels qui ont envie de jouer un personnage pour une fois, sans pour autant avoir à rejoindre un autre groupe ou à passer le rôle de MJ à un autre joueur.&lt;/p&gt;
+&lt;p&gt;Et même si vous n’avez jamais maîtrisé de partie, ça peut être un bon exercice d’improvisation que d’avoir ce rôle hybride. De plus, pas d’angoisse de décevoir vos joueurs, en mode solo. Qui sait, peut-être que l’expérience sera le coup de pouce qui vous donnera envie de maîtriser des parties  avec votre groupe plus tard.&lt;/p&gt;
+&lt;p&gt;Mais attention, pour vraiment apprécier la chose, vous devrez vous forcer à penser fiction, à imaginer les scènes, à accepter les coups durs et à jouer vraiment votre rôle. Sans quoi, vous tomberez dans un enchaînement de lancers de dés, qui perdra très vite toute saveur.&lt;/p&gt;
+&lt;h2 id=&#34;liens-utiles&#34;&gt;Liens utiles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ironswornrpg.com/&#34;&gt;site officiel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ironswornrpg.com/downloads&#34;&gt;télécharger le pdf gratuitement sur le site officiel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/Ironsworn/&#34;&gt;Communauté Ironsworn sur Reddit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;post-scriptum&#34;&gt;Post-Scriptum&lt;/h2&gt;
+&lt;p&gt;J’ai découvert après avoir écrit cet article qu’il existait une traduction française du jeu. Si vous préférer jouer dans la langue de Molière, allez voir par ici pour &lt;a href=&#34;http://ironsworn.pbta.fr/telechargements/&#34;&gt;la version française d’Ironsworn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il y a également un addenda pour explorer des cavernes et des donjons apparemment, appelé &lt;a href=&#34;https://www.ironswornrpg.com/product-ironsworn-delve&#34;&gt;Ironsworn - Delve&lt;/a&gt;, que j’ai pas encore mais que j’achèterai sûrement lors de mon prochain passage chez Trollune.&lt;/p&gt;
+&lt;p&gt;Enfin, j’ai appris que le créateur du jeu travaille sur une version futuriste du jeu, Ironsworn Starforged, que je surveillerai de près.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thousand Year Old Vampire - Introduction</title>
+      <link>https://www.legendesdelatable.fr/articles/thousand-year-old-vampire-introduction/</link>
+      <pubDate>Mon, 21 Dec 2020 08:47:36 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/thousand-year-old-vampire-introduction/</guid>
+      <description>&lt;p&gt;À force de parcourir les internets à la recherche du prochain livre de jeu de rôle qui allait me donner une nouvelle perspective sur le hobby, je suis tombé sur un genre de jeu qui m’a initialement laissé très sceptique : les jeux en solitaire.&lt;/p&gt;
+&lt;p&gt;J’ai pourtant énormément joué aux &amp;ldquo;Livres dont vous êtes le héros&amp;rdquo; quand j’étais en primaire. Sorcellerie, Loup Solitaire, Astre d’Or (spin off de Loup Solitaire), que du bon.&lt;/p&gt;
+&lt;p&gt;L’idée de jouer sans rien demander à personne avait de l’attrait, mais je ne voyais pas bien comment ça pouvait fonctionner.&lt;/p&gt;
+&lt;p&gt;Et puis j’ai trouvé &lt;a href=&#34;https://timhutchings.itch.io/tyov&#34;&gt;Thousand Year Old Vampire&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Dans ce jeu, vous créez un personnage qui va devenir un vampire, quelques PNJs, ressources et compétences autour de votre personnage, puis vous vous laissez entraîner par un système de d’instructions numérotées qui vous guident dans un exercice d’écriture extrèmement plaisant.&lt;/p&gt;
+&lt;p&gt;Ces instructions vous donnent une légère impulsion narrative, et vous demandent généralement de créer ou détruire une de vos ressources, ou un PNJ, ou encore de marquer une de vos compétences, ce qui veut dire que vous l’avez utilisée et qu’elle n’est plus utilisable plus tard.&lt;/p&gt;
+&lt;p&gt;Pour passer d’une instruction à l’autre, on lance simplement 1d10 - 1d6, et on avance ou recule du résultat obtenu. Si jamais on reste sur place ou qu’on retombe sur un numéro déjà joué, on utilise la deuxième instruction de la page, qui est liée à la première, qu’on a déjà suivie.&lt;/p&gt;
+&lt;p&gt;À chaque fois, vous devez noter dans votre carnet une expérience, &lt;em&gt;ie&lt;/em&gt; une simple phrase évocative, résumant ce que votre personnage a retenu des événements. Ces expériences sont enregistrées avec les expériences précédentes partageant un thème commun, sur votre feuille de personnage, regroupées dans des Souvenirs.&lt;/p&gt;
+&lt;p&gt;Cependant, et c’est un peu là le génie du jeu, votre mémoire est limitée. Vous ne pouvez retenir que 3 expériences par Souvenir, et pas plus de 5 Souvenirs à la fois.&lt;/p&gt;
+&lt;p&gt;Si une expérience ne rentre pas, alors il vous faut soit consigner un Souvenir dans un carnet, et faire de la place dans votre tête, soit carrément oublier tout un Souvenir.&lt;/p&gt;
+&lt;p&gt;Pour noter tout ça, après avoir envisagé de jouer sur un carnet de notes physique, j’ai craqué et j’ai démarré le jeu dans un train, avec un bon vieux fichier Google Doc. Si vous voulez jeter un œil à ma partie, voici un &lt;a href=&#34;https://docs.google.com/document/d/1QPx8ohaZejfzi_Q84s0SgYq7hnCWncgTRtmPmxFe3Ro/edit?usp=sharing&#34;&gt;lien vers mon fichier&lt;/a&gt;. C’est beaucoup plus pratique pour struturer le texte, gérer la taille variable des différents Souvenirs, et rayer les éléments oubliés.&lt;/p&gt;
+&lt;p&gt;Voilà j’espère vous avoir donné envie de tester le jeu, n’hésitez pas à me dire ce que vous en avez pensé.&lt;/p&gt;
+&lt;p&gt;Bisous pointus dans le cou,&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Root Le JDR offre son Kit De Démarrage Mis à Jour</title>
+      <link>https://www.legendesdelatable.fr/articles/root-le-jdr-nouveau-kit-de-de%CC%81marrage/</link>
+      <pubDate>Mon, 03 Aug 2020 14:47:48 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/root-le-jdr-nouveau-kit-de-de%CC%81marrage/</guid>
+      <description>&lt;p&gt;ROOT est un jeu de rôle narratif en cours de finition basé sur le jeu de plateau du même nom et sur les mécaniques empruntées à Apocalypse World.&lt;/p&gt;
+&lt;p&gt;Récemment, à l’occasion du Free RPG Day, ses créateurs ont mis à disposition du public, en magasin (aux États-Unis) et sur drivethrurpg &lt;a href=&#34;https://www.drivethrurpg.com/product/318429/Root-The-Pellenicky-Glade-Quickstart&#34;&gt;un fascicule de démarrage gratuit&lt;/a&gt; qui présente les règles de base, un environnement de jeu avec une situation, une clairière et des PNJs, et 6 personnages prétirés.&lt;/p&gt;
+&lt;p&gt;C’est l’occasion de rejeter un œil à ce jeu dont j’attends la publication. Un précédent kit de démarrage gratuit était déjà disponible, mais il commençait à dater un peu et ne reflétait plus l’état actuel du design du jeu.&lt;/p&gt;
+&lt;p&gt;Dans ROOT, le jeu de plateau, on commande une faction d’animaux mignons en guerre pour dominer la forêt. Ces factions comprennent les Chats du Marquisat, les nouveaux venus qui ont su rapidement conquérir la forêt grâce à leur maitrise de l’industrie ; les oiseaux de la Dynastie Eyrie, qui dominaient autrefois mais ont chu à cause de rivalités intestines ; et les rebelles anarchistes de l’alliance des sous-bois, qui regroupe des guerilleros lapins, renards, et souris qui en ont marre de se faire marcher sur les pattes. La dernière faction du jeu de plateau de base, est constituée d’un seul membre : le vagabond, qui vit dans les bois et évite les routes, pointe parfois son museau dans une clairière et offre son aide aux villageois en échange d’objets utiles comme une torche, une cafetière, ou encore des bottes, et survit comme il le peut au milieu de tous les conflits opposant les autres factions.&lt;/p&gt;
+&lt;p&gt;Dans ROOT le JDR, vous allez incarner un groupe de vagabonds, en quête de gloire, d’un bout de pain, ou de justice, qui sait ?&lt;/p&gt;
+&lt;p&gt;Mais qu’est-ce qui distingue ce jeu d’une campagne de DnD 5e située dans un univers animalier comme &lt;a href=&#34;https://www.kickstarter.com/projects/hitpointpress/humblewood-campaign-setting-for-5e-dnd?lang=fr&#34;&gt;HumbleWood&lt;/a&gt; ?&lt;/p&gt;
+&lt;h2 id=&#34;les-mécaniques-narratives-de-lapocalypse&#34;&gt;Les mécaniques narratives de l’Apocalypse&lt;/h2&gt;
+&lt;p&gt;ROOT emprunte le système d’Apocalypse World.&lt;/p&gt;
+&lt;p&gt;Les joueur·euse·s ont accès à une série d’actions universelles pour gérer les attaques, détruire des objets ou obstacles, influencer les PNJs, et lire des situations tendues ou les intentions cachées d’un personnage.
+En plus de ces actions universelles, ils ont accès à un groupe d’actions appelés les &amp;ldquo;Roguish Feats&amp;rdquo;, qui regroupe toutes les actions typiques d’un roublard : faire les poches de quelqu’un, désamorcer un piège, crocheter une serrure, se planquer… Parmi ces actions, ils ou elles n’en maitrisent que 2 au départ, et peuvent en apprendre d’autres.
+Enfin, il existe des actions spéciales liées aux armes, comme par exemple faire une parade, porter un coup vicieux, ou tirer une flèche à bout portant puis se repositionner. À nouveau, les personnages ne maitrisent pas tous ces coups à leur création mais peuvent en apprendre en cours de jeu.&lt;/p&gt;
+&lt;p&gt;Enfin, selon leur livret de personnage (un archétype choisi au départ parmi 6), ils ou elles ont accès à certaines actions spécifiques, ou à des modifications des actions universelles.&lt;/p&gt;
+&lt;p&gt;Pour résoudre une action, on lance 2d6 + un modificateur qui va de -1 à +3, et on obtient trois types de résultats :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10 ou plus : succès franc&lt;/li&gt;
+&lt;li&gt;7 à 9 : succès partiel, avec une complication, un coût, un choix difficile à faire&lt;/li&gt;
+&lt;li&gt;6 ou moins : échec et la main passe au MJ pour jouer un coup tordu et introduire une complication ou infliger des dégâts aux personnages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En parlant de dégâts, le jeu utilise un système de point de vie assez simple, plus des jauges de consommation sur les outils et munitions, une jauge mesurant la fatigue des personnages et enfin une jauge supplémentaire pour les PNJs mesurant leur volonté de se battre.&lt;/p&gt;
+&lt;p&gt;Le combat comme le reste est envisagé sous l’angle narratif, vous ne jouerez pas avec une carte quadrillée, des distances précises, et un ordre déterminé par un test d’initiative. On est dans le domaine de la fiction d’abord, et c’est au MJ de mener le combat de manière dynamique, en passant la main d’un joueur à l’autre, suivant l’évolution de la situation et des dangers.&lt;/p&gt;
+&lt;p&gt;Quand les personnages ratent un jet, qu’ils ou elles hésitent un peu et se tournent vers le MJ pour voir ce qui va se passer, ou bien lorsqu’ils ou elles donnent une occasion en or au MJ, celui ci doit piocher parmi ses actions celle qui va le mieux avec la fiction et la jouer (mais sans l’annoncer aux joueur·euse·s).&lt;/p&gt;
+&lt;p&gt;Exemples d’actions du MJ :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Séparer les personnages&lt;/li&gt;
+&lt;li&gt;Révéler une vérité indésirable&lt;/li&gt;
+&lt;li&gt;Montrer les signes d’une menace imminente&lt;/li&gt;
+&lt;li&gt;Retourner leur action contre les joueur·euse·s&lt;/li&gt;
+&lt;li&gt;Mettre quelqu’un en danger&lt;/li&gt;
+&lt;li&gt;Infliger des dégâts aux joueur·euse·s ou à leur équipement&lt;/li&gt;
+&lt;li&gt;Leur offrir un marché en échange de ce qu’iels veulent&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Personnellement j’adore mener des parties avec ces mécaniques parce que c’est simple, rapide à résoudre, et que ça produit toujours des résultats dynamiques et inattendus. Un jet raté et c’est un nouvel ennemi qui apparaît par derrière, un oiseau qui attrape un PJ et le plante dans un arbre, une alarme qui s’enclenche et force les plans à changer.&lt;/p&gt;
+&lt;p&gt;Les préparatifs sont généralement très rapides pour le MJ, et c̛’est également très appréciable.&lt;/p&gt;
+&lt;p&gt;Bref on fait moins de maths et on s’immerge davantage que dans un jeu d20.&lt;/p&gt;
+&lt;h2 id=&#34;la-progression-et-la-recharge-qui-incitent-au-role-play&#34;&gt;La progression et la recharge qui incitent au role-play&lt;/h2&gt;
+&lt;p&gt;ROOT utilise un système original, qui n’est pas directement pris d’Apocalypse World pour gérer le repos et l’amélioration des personnages.&lt;/p&gt;
+&lt;p&gt;Chaque personnage choisi selon son archétype une nature parmi deux options, qui lui donne un moyen d’oublier toute sa fatigue s’il se trouve dans une certaine situation.
+Par exemple, un personnage qui utilise l’archétype du Voleur peut avoir comme nature &amp;ldquo;&lt;strong&gt;Kleptomane&lt;/strong&gt; : effacez toute votre fatigue quand vous volez égoïstement quelque chose d’important ou de précieux&amp;rdquo;. Le Scélérat peut avoir une nature de &lt;strong&gt;Pyromane&lt;/strong&gt;, qui recharge ses batteries quand il détruit ou endommage gravement une structure importante.&lt;/p&gt;
+&lt;p&gt;Pour la progression de personnage, chacun choisi encore selon son archétype 2 &amp;ldquo;moteurs&amp;rdquo; parmi 4. En accomplissant ce qui motive son personnage, on peut gagner ainsi un &amp;ldquo;level up&amp;rdquo; par session et par moteur, donc 2 par session.
+Ces améliorations permanentes permettent d’améliorer une stat, d’apprendre un coup spécial spécifique à une arme, un Roguish Feat, ou bien une action spéciale de son archétype, ou même d’un archétype différent (dans la limite de 2).&lt;/p&gt;
+&lt;p&gt;Exemple de moteur : &lt;strong&gt;Justice&lt;/strong&gt; : progressez quand vous réparez les torts infligés par quelqu’un de puissant.&lt;/p&gt;
+&lt;p&gt;Ces deux systèmes sont des incitations bienvenues à jouer son personnage selon sa personnalité et son historique, et ont le bon goût de découpler le gain d’expérience du découpage en tranche de monstres ou de PNJs.&lt;/p&gt;
+&lt;p&gt;Le combat reste une option, mais c’est très loin d’être l’unique option pour résoudre une situation. La finesse, la compassion, la roublardise sont tout aussi valides.&lt;/p&gt;
+&lt;h2 id=&#34;un-jeu-pour-qui-&#34;&gt;Un jeu pour qui ?&lt;/h2&gt;
+&lt;p&gt;Alors oui, c’est un jeu où l’on joue des animaux anthropomorphiques dans une forêt, donc on est pas dans le sérieux ni dans le trip de puissance.&lt;/p&gt;
+&lt;p&gt;Cependant le fun qui va avec l’ambiance cartoon de l’univers est authentique.&lt;/p&gt;
+&lt;p&gt;Les mécaniques simples et narratives sont immédiatement comprises, même par les grand·e·s débutant·e·s, de 7 à 77 ans.&lt;/p&gt;
+&lt;p&gt;Le manque de profondeur tactique peut lasser à la longue, aussi je pense que ce jeu est plus adapté à des campagnes courtes, de 3 à 10 sessions.&lt;/p&gt;
+&lt;p&gt;Le jeu réclame un MJ avec un bon sens de l’improvisation pour rebondir action par action suite aux réussites ou échecs des joueur·euse·s, et des joueur·euse·s prêt·e·s à se lâcher un peu et à entrer dans la fiction.&lt;/p&gt;
+&lt;h2 id=&#34;ps-liens-utiles&#34;&gt;PS : Liens utiles&lt;/h2&gt;
+&lt;p&gt;Vous pouvez trouver un très bon exemple de partie par l’équipe du site Dicebreaker.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/G5iQF4gz13M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.magpiegames.com/root-rpg/&#34;&gt;Le site officiel du jeu&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burning Wheel : Créer Une Situation</title>
+      <link>https://www.legendesdelatable.fr/articles/burning-wheel-creer-une-situation/</link>
+      <pubDate>Tue, 28 Jul 2020 10:48:37 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/burning-wheel-creer-une-situation/</guid>
+      <description>&lt;p&gt;Burning Wheel est un jeu de rôle créé par Luke Crane. Dans Burning Wheel, les mécaniques de jeu sont centrées sur les personnages des joueur·euse·s et leurs croyances à propos du monde et de la situation dans laquelle ils se  sont retrouvés.&lt;/p&gt;
+&lt;p&gt;Le MJ a pour mission de mettre à l’épreuve les croyances des personnages, de les plonger dans des situations où leurs croyances vont créer des conflits, des dilemmes, révéler qu’elles sont erronées…
+En un mot, du &lt;em&gt;drama&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;La situation présentée par le MJ dépend des croyances des personnages, mais au départ les joueur·euse·s doivent également connaître la situation pour choisir leurs croyances, nous sommes dans un cas classique de &lt;em&gt;l’œuf ou de la poule&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Il est recommandé à la personne désignée comme MJ de venir à la table pour la session de création de personnage avec une ou plusieurs ébauches de situation en tête, et de les soumettre aux joueur·euse·s.&lt;/p&gt;
+&lt;p&gt;L’idée qui stimulera le plus l’imagination et l’excitation des joueur·euse·s deviendra l’idée de départ de la campagne, et les détails pourront ensuite être précisés, par l’ensemble des joueur·euse·s.&lt;/p&gt;
+&lt;p&gt;Voici quelques exemples de situations que je vais soumettre à mes joueurs lorsque nous nous retrouverons autour de la table à la rentrée, si tout va bien.&lt;/p&gt;
+&lt;h2 id=&#34;situation-pour-personnages-monstrueux-ou-mauvais-au-départ&#34;&gt;Situation pour personnages monstrueux ou mauvais (au départ)&lt;/h2&gt;
+&lt;p&gt;Les PJs font partie de l’armée d’un Nécromancien, qui veut conquérir un royaume. Ils sont par exemple des Orcs, Trolls, Rodens (rats humanoïdes), des Loups Géants (pensez &lt;em&gt;Princesse Mononoke&lt;/em&gt;) ou des humains fanatisé·es dans un culte macabre, ou un mélange de tout ça.&lt;/p&gt;
+&lt;p&gt;En revenant de leurs missions respectives à la base du Nécromancien, les PJs découvrent avec horreur que leur chef est mort, et que les zombies et autres squelettes sont désormais hors de contrôle.&lt;/p&gt;
+&lt;p&gt;Cette situation est très ouverte pour les personnages. Ils ou elles peuvent être ambitieux et vouloir reprendre l’armée de monstres et morts-vivants en main pour poursuivre les projets du Nécromancien, ou bien ils ou elles peuvent chercher à le ressusciter, peut-être même en faire une Liche, ou encore profiter du chaos pour s’enfuir et tracer leur route, voire même changer d’attitude face au monde extérieur en cours de jeu, et devenir bons.
+Idéalement, il devrait y avoir une volonté au sein du groupe de joueur·euse·s de rester ensemble car leurs liens sont forts, mais il y aura probablement un conflit sur la marche à suivre, ou une rivalité interne si par exemple deux personnages veulent prendre la tête de l’armée du Nécromancien.&lt;/p&gt;
+&lt;h2 id=&#34;situation-pour-une-population-opprimée-par-exemple-rondens&#34;&gt;Situation pour une population opprimée, par exemple Rondens&lt;/h2&gt;
+&lt;p&gt;Les Rodens sont une espèce de rats humanoïdes, qui sont mécaniquement assez proche des humains, au sens où ils ont accès en jeu aux mêmes mécaniques que les humains pour la magie, que ce soit la sorcellerie ou la foi.
+Mais ils ont une thématique qui se prête plus à être un peuple grégaire et opprimé par les autres espèces intelligentes, en raison de leur apparence.&lt;/p&gt;
+&lt;p&gt;Chassé·es de leur nid par des créatures souterraines, une bande de Rodens cherchent un bout de lopin tranquille où s’installer en paix. Mais les humains du coin les agressent et les pourchassent sans cesse. Désespérée, la doyenne de la tribu de rongeurs demande aux personnages de monter une expédition, qui sera évidemment semée d’embûches pour aller plaider leur cause auprès d’un Roi pour obtenir la citoyenneté et la paix.&lt;/p&gt;
+&lt;p&gt;Très classique, on a ici une quête, avec des voyages dangereux, face au monde sauvage mais surtout face aux préjudices des Nains, Humains, des Elfes, au choix, ou tous à la fois.&lt;/p&gt;
+&lt;h2 id=&#34;situation-davantage-high-fantasy&#34;&gt;Situation davantage High-Fantasy&lt;/h2&gt;
+&lt;p&gt;Le Dieu de la Mort a été fait prisonnier par un invocateur inconnu.&lt;/p&gt;
+&lt;p&gt;Plus personne ne connait le repos éternel. Les morts reviennent à la vie, mais vieillissent à l’envers, jusqu’à devenir des nouveaux nés. De plus, ils oublient chaque journée vécue, une à une, à mesure qu’ils rajeunissent. S’ils sont blessés ou tués, le processus continue après une nuit.&lt;/p&gt;
+&lt;p&gt;Morphée, dieu des rêves, apparaît à un·e des joueur·euse·s et lui demande d’aller chercher un objet magique qui permettra de localiser la Mort.&lt;/p&gt;
+&lt;p&gt;Cette situation est plus cosmique et fantastique, et permet aux joueur·euse·s d’explorer la foi, des conflits de religion, entre croyants et entre dieux directement.&lt;/p&gt;
+&lt;h2 id=&#34;situation-pour-magiciens-ou-fans-de-harry-potter&#34;&gt;Situation pour magiciens ou fans de Harry Potter&lt;/h2&gt;
+&lt;p&gt;Les PJs sont des élèves, enseignant·e·s, gardes, artisans ou autres travaillant ou étudiant dans une école de Sorcellerie.&lt;/p&gt;
+&lt;p&gt;Un beau jour, des inquisiteurs débarquent et accusent la Grande Archimage de pratiquer la Nécromancie.
+Un procès doit se tenir bientôt à la capitale, et le sort de l’Archimage est très mal engagé.&lt;/p&gt;
+&lt;p&gt;J’avoue ça ressemble beaucoup à la première situation, avec un·e leader qui est retiré brutalement de sa position de pouvoir, en laissant le soin aux joueur·euse·s de choisir comment corriger le tir ou profiter de la situation.
+Cette situation est finalement plus ouverte au niveau des types de personnages qui peuvent raisonablement exister au sein d’une École de Sorcellerie. Si un joueur veut être un monstre devenu sociable, comme par exemple un Troll, il est très facile d’imaginer que ce Troll a été trouvé enfant par l’Archimage, et élevé au sein de l’école, loin de sa culture native.&lt;/p&gt;
+&lt;h2 id=&#34;en-conclusion&#34;&gt;En conclusion&lt;/h2&gt;
+&lt;p&gt;Voilà pour ces quelques ébauches. Elles ne sont pas plus détaillées que ça, car nous n’avons besoin de rien de plus à ce stade.
+Quand nous aurons choisi notre  situation, et que les concepts de personnages seront établis par les joueur·euse·s, alors il sera temps de détailler davantage le monde, de trouver des noms aux lieux, aux PNJs.
+Ce qui est important, c’est de démarrer le processus, ensuite l’histoire s’écrira naturellement en fonction des croyances des personnages, des succès ou échecs de leurs plans, et de leurs choix en jeu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burning Wheel : Créons Un Personnage</title>
+      <link>https://www.legendesdelatable.fr/articles/burning-wheel-creons-un-personnage/</link>
+      <pubDate>Sat, 25 Jul 2020 12:08:32 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/burning-wheel-creons-un-personnage/</guid>
+      <description>&lt;p&gt;Burning Wheel est un jeu de rôle dans un univers médiéval, où on est libre de créer des personnages réalistes, très loin des classiques du genre heroic-fantasy.&lt;/p&gt;
+&lt;p&gt;Pour vos donner une idée, voici un exemple de personnage absolument non martial, mais qui peut carrément fonctionner dans ce jeu, si le concept vous intéresse.&lt;/p&gt;
+&lt;p&gt;Premièrement, il nous faut une situation de départ. Créer un personnage ne peut se faire que dans le contexte d’une situation.&lt;/p&gt;
+&lt;p&gt;NB : les captures d’écran viennent de l’outil en ligne extrêmement pratique pour créer des personnages de Burning Wheel : &lt;a href=&#34;https://charred-black.herokuapp.com/#/&#34;&gt;Charred black&lt;/a&gt;. Avoir le livre aide quand même pour voir le contenu des lifepaths et leurs prérequis en amont, ce que l’application web ne permet pas.&lt;/p&gt;
+&lt;h2 id=&#34;situation-et-concept-de-personnage&#34;&gt;Situation et concept de personnage&lt;/h2&gt;
+&lt;p&gt;Imaginons l’ébauche de situation suivante :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;La ville portuaire de Bonne-Lise, enrichie par le commerce maritime, est sur le point d’être assiégée par une armée levée par un roi voisin. Les nobles et les clercs locaux sont suspectés d’organiser leur fuite par la mer et d’abandonner la ville avant le siège.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Et maintenant, avec ce début de situation, je peux penser à un concept de personnage.
+Disons que j’ai envie de jouer un personnage qui est un membre du tiers-état, mais plutôt riche, et qui a tout à perdre dans cette situation. Un banquier paranoïaque, qui a été auparavant un criminel, mais qui le cache bien.&lt;/p&gt;
+&lt;h2 id=&#34;lifepaths&#34;&gt;Lifepaths&lt;/h2&gt;
+&lt;p&gt;Dans Burning Wheel, on &lt;strong&gt;brûle&lt;/strong&gt; son personnage en choisissant des morceaux de vie, appelés &lt;strong&gt;lifepaths&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Il faut démarrer par un &lt;strong&gt;lifepath&lt;/strong&gt; de naissance, dans un environnement adapté au concept.&lt;/p&gt;
+&lt;p&gt;Nous avons un personnage actuellement citadin. Il aurait pu naître dans un autre environnement, mais nous ici nous allons le faire naître directement dans l’environnement &lt;strong&gt;City Dweller&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Voici à quoi ressemble mon début de parcours avec cette première tranche de vie :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/bw/1-city-born.png&#34; alt=&#34;Burning Wheel - premier lifepath City Born&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Explications :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;12 yrs : Cette tranche de vie dure 12 ans&lt;/li&gt;
+&lt;li&gt;10 res : J’ai accès à 10 points de &lt;strong&gt;ressources&lt;/strong&gt; à dépenser en fin de création pour des biens matériels, des affiliations, des réputations ou bien des relations avec des PNJs de mon choix.&lt;/li&gt;
+&lt;li&gt;Servitude, Court, Noble, Outcast, College : ce sont les autres environnements vers lequels je peux bifurquer à partir de maintenant pour aller y choisir un prochain &lt;strong&gt;lifepath&lt;/strong&gt;, mais je ne vais pas le faire.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Skills:&lt;/strong&gt; 4 pts: General  : je gagne 4 points à dépenser dans des compétences de mon choix, à la fin du processus de création.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Traits:&lt;/strong&gt; 1 pt: - : je gagne 1 point pour m’acheter des traits, en fin de création de personnage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Maintenant, enchaînons avec un lifepath suivant, toujours dans l’environnement City Dweller : je suis devenu un commerçant.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/bw/2-shop-keeper.png&#34; alt=&#34;Burning Wheel - second lifepath Shop Keeper&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Cette tranche de vie dure 6 ans, me rapporte 16 points de Ressources, et me donne un +1 point pour mes stats mentales (Volonté ou Perception, au choix), et me permettrait de bifurquer dans les lifepaths des environnements Villageois ou Paysan (ce que je ne vais pas faire ici).&lt;/p&gt;
+&lt;p&gt;Au niveau compétences, je gagne 4 points à dépenser dans les compétences débloquées par mes lifepaths, et en parlant de ça, ce lifepath me débloque :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Merchant-wise&lt;/em&gt; (connaissance du monde des marchands)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Haggling&lt;/em&gt; (marchander)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Accounting&lt;/em&gt; (comptabilité)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Observation&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Je n’acquière pas automatiquement toutes ces compétences, mais elles font partie de celles que je peux acquérir avec les points de compétences donnés par mes lifepaths (hors points généraux). Cependant je serai obligé de dépenser 1 point minimum dans &lt;em&gt;Merchant-wise&lt;/em&gt;, car la première compétence listée est obligatoire.&lt;/p&gt;
+&lt;p&gt;Il manque le côté criminel de mon personnage. Il va devenir très riche et finir banquier, mais avant cela il va faire le début de sa fortune dans la contrefaçon de pièces de monnaie, avec le lifepath &lt;strong&gt;Coin Clipper&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/bw/3-coin-clipper.png&#34; alt=&#34;Burning Wheel - troisième lifepath Coin Clipper&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ici, on voit que je gagne accès à des compétences plutôt liées à la duplicité et au crime, mais rien de martial.&lt;/p&gt;
+&lt;p&gt;Au niveau des &lt;strong&gt;Traits&lt;/strong&gt;, je gagne 1 point et l’accès au trait &lt;strong&gt;Light Sleeper&lt;/strong&gt;. C’est le premier et seul élément de la liste de traits débloqués, je serai donc obligé de l’acheter à la fin.&lt;/p&gt;
+&lt;p&gt;Enfin, pour finir, je fais prendre le lifepath &lt;strong&gt;Moneylender&lt;/strong&gt; puis le lifepath &lt;strong&gt;Banker&lt;/strong&gt; :&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/bw/4-et-5-moneylender-banker.png&#34; alt=&#34;Burning Wheel - 4ème et 5ème lifepaths Moneylender et Banker&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ici particularité on voit que je ne pouvais pas prendre &lt;strong&gt;Banker&lt;/strong&gt; directement, car il a des prérequis. Mais avoir pris Moneylender satisfait cette contrainte.&lt;/p&gt;
+&lt;p&gt;Je vais m’arrêter là, avec 5 lifepaths au total.&lt;/p&gt;
+&lt;h2 id=&#34;stats-compétences-traits-possessions-et-relations-de-départ&#34;&gt;Stats Compétences, traits, possessions et relations de départ&lt;/h2&gt;
+&lt;h3 id=&#34;stats&#34;&gt;Stats&lt;/h3&gt;
+&lt;p&gt;Il est temps de calculer mon âge, mes ressources, mes points de compétences et de traits, et de dépenser ces points pour finir de personnaliser mon personnage.&lt;/p&gt;
+&lt;p&gt;Mon personnage a 42 ans, c’est la somme des années des lifepaths choisis, + 1 an par changement d’environnement, mais ici je suis toujours resté dans le même.&lt;/p&gt;
+&lt;p&gt;Mon âge détermine combien j’ai de points à distribuer dans mes stats mentales et physiques, auxquels s’ajoutent les éventuels points bonus de mes lifepaths, ici +1 aux stats mentales venant du lifepath &lt;strong&gt;Shopkeeper&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;J’ai donc 12 points physiques à répartir dans 4 stats physiques, et 9 points mentaux à répartir dans mes 2 stats mentales. Je ne serai pas un athlète, mais plutôt correct au niveau méninges.&lt;/p&gt;
+&lt;p&gt;Les compétences que je vais acquérir démarreront à une valeur égale à la moitié de la statistique sur laquelle elles sont basées. Comme beaucoup des compétences que je veux sont basées sur la perception, je vais opter pour la répartition suivante :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Statistiques mentales :
+&lt;ul&gt;
+&lt;li&gt;Volonté : 3&lt;/li&gt;
+&lt;li&gt;Perception : 6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Statistiques physiques :
+&lt;ul&gt;
+&lt;li&gt;Puissance : 2&lt;/li&gt;
+&lt;li&gt;Forte : 3 (Forte représente la résistance physique)&lt;/li&gt;
+&lt;li&gt;Agilité : 4&lt;/li&gt;
+&lt;li&gt;Vitesse : 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;compétences&#34;&gt;Compétences&lt;/h3&gt;
+&lt;p&gt;Ensuite je vais dépenser mes points de compétence pour acquérir des compétences ou renforcer celles que j’ai été forcé à prendre.&lt;/p&gt;
+&lt;p&gt;Voici où j’en suis après avoir dépensé les 17 points venant de mes lifepaths, et avant d’avoir utilisé mes 6 points généraux pour des compétences de mon choix, en dehors de celles débloquées par mes lifepaths.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/bw/6-Skills-1.png&#34; alt=&#34;Skills avec points des lifepaths dépensés&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ici &lt;strong&gt;Accounting B4&lt;/strong&gt; signifie que si je dois passer un test avec ma compétence de comptabilité, je vais lancer 4 dés 6. On dit que l’exposant de ma compétence est 4.&lt;/p&gt;
+&lt;p&gt;Le &lt;strong&gt;B&lt;/strong&gt; indique que la couleur de ma compétence est noire, ce qui signifie que sur mes lancers, des dés affichant 4, 5, ou 6 seront des succès. Plus tard, si j’améliore beaucoup ma compétence, elle pourra devenir grise, alors les 3 seront aussi comptés comme des succès. Encore plus tard, ma compétence pourra devenir blanche, et les dés affichant un résultat de 2 seront aussi des succès.&lt;/p&gt;
+&lt;p&gt;J’ai pas mal de compétences qui ont un exposant faible, cependant, elles vont s’avérer utiles tout de même car je peux combiner mes compétences sur un lancer, si c’est raisonnable dans la fiction.
+Quand on fait ça, on ajoute à l’exposant de la compétence principale un dé par autre compétence qui entre en jeu, quel que soit son exposant.
+Par exemple, on peut très bien imaginer que je fasse un test de &lt;strong&gt;Haggling&lt;/strong&gt; pour obtenir un bon prix auprès d’un marchand en faisant jouer en complément mes compétences de &lt;strong&gt;Falsehood&lt;/strong&gt;, &lt;strong&gt;Intimidation&lt;/strong&gt; et &lt;strong&gt;Merchant-wise&lt;/strong&gt;, ce qui ajouterait 3 dés à mes 3 dés de base, augmentant considérablement mes chances de réussir mon test. Cependant je dois le justifier en jeu.&lt;/p&gt;
+&lt;p&gt;Il me reste donc 6 points généraux à dépenser pour des compétences supplémentaires, parmi toutes celles du jeu. Je vais choisir des compétences sociales en ajoutant &lt;strong&gt;Soothing Platitudes&lt;/strong&gt;, &lt;strong&gt;Persuasion&lt;/strong&gt; et &lt;strong&gt;Oratory&lt;/strong&gt;. Elles serviront si je me retrouve embarqué dans une joute orale, ce qui est probable. Un point chacune pour les acquérir, puis 3 points pour améliorer l’exposant de départ de &lt;strong&gt;Persuasion&lt;/strong&gt;. Ces trois compétences démarrent à la moitié de ma Volonté, arrondie à l&amp;rsquo;inférieur (donc 1), et les 3 points finaux investis dans &lt;strong&gt;Persuasion&lt;/strong&gt; la montent à B4.&lt;/p&gt;
+&lt;h3 id=&#34;traits&#34;&gt;Traits&lt;/h3&gt;
+&lt;p&gt;Passons aux traits.&lt;/p&gt;
+&lt;p&gt;J’ai acquis 4 points de traits avec mes lifepaths, et j’ai déjà dû prendre les 3 traits &lt;strong&gt;Intense&lt;/strong&gt;, &lt;strong&gt;Light sleeper&lt;/strong&gt; et &lt;strong&gt;Penny-wise&lt;/strong&gt;. Il me reste un point pour prendre un dernier trait. Je vais prendre &lt;strong&gt;Paranoid&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Les traits sont là pour guider mon role-play, et me rapporter des points d’Artha lorsqu’ils me mettent en difficulté. Voir l&amp;rsquo;article &lt;a href=&#34;https://www.legendesdelatable.fr/articles/burning-wheel-se-battre-pour-ses-croyances/&#34;&gt;Burning Wheel - Se Battre Pour Ses Croyances&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;relations-et-possessions&#34;&gt;Relations et possessions&lt;/h3&gt;
+&lt;p&gt;Enfin, je vais dépenser mes points de ressources. J’en ai beaucoup, en raison des lifepaths choisis.&lt;/p&gt;
+&lt;p&gt;Je vais en investir une grande partie dans des propriétés comme ma banque et mon hôtel particulier. Ces investissements vont faire grimper ma Stat de &lt;strong&gt;Resource&lt;/strong&gt; à B6. C’est la statistique que je vais tester quand viendra le moment de faire de gros achats en cours de jeu. La plupart des personnages commencent avec B0 en &lt;strong&gt;Resources&lt;/strong&gt;, ce sera donc le point fort du personnage. Pour vous donner une idée, louer les services d’un garde du corps serait un test de &lt;strong&gt;Resource&lt;/strong&gt; avec un Obstacle de 4 (il faut au moins 4 dés affichant un succès pour le réussir). En réussissant un test de négociation au préalable, je pourrais obtenir des dés bonus à ajouter à mon lancer, de même, je pourrai dépenser de l’Artha pour booster mes dés de différentes manières,  et avoir ainsi de bonnes chances de réussir avec mes 6 dés de base en &lt;strong&gt;Resources&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Après avoir &amp;ldquo;payé&amp;rdquo; ma banque et mon hôtel particulier, il me reste 21 points pour le reste.
+Je vais acheter une relation, ma femme, qui me hait et veut récupérer ma fortune. Elle ne me coûte rien en fait, car c’est un personnage au statut mineur (5 points), moins 2 points car elle fait partie de ma famille, moins 2 points car c’est une relation romantique, et moins 1 point car elle me hait.&lt;/p&gt;
+&lt;p&gt;Je vais continuer avec un banquer rival, qui est un personnage plus important en statut (10 points), moins 2 points car c’est mon rival, soit 8 points.&lt;/p&gt;
+&lt;p&gt;Il me reste 13 points pour quelque possessions personnelles :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vêtements : 1 point&lt;/li&gt;
+&lt;li&gt;Chaussures : 1 point&lt;/li&gt;
+&lt;li&gt;Vêtements d’apparat : 5 points&lt;/li&gt;
+&lt;li&gt;Babiole personnelle (la clé ouvragée du coffre fort de ma banque) : 1 point&lt;/li&gt;
+&lt;li&gt;Mule : 5 points&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Voilà la partie purement mécanique de mon personnage est prête, et je peux télécharger ma feuille de personnage. Vous pouvez la trouver ici : &lt;a href=&#34;https://www.legendesdelatable.fr/charsheets/sven-burning-wheel.pdf&#34;&gt;Sven, le banquier malhonnête&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;croyances-et-instincts&#34;&gt;Croyances et instincts&lt;/h2&gt;
+&lt;p&gt;Il me reste le plus important, établir mes croyances et mes instincts.&lt;/p&gt;
+&lt;p&gt;Un bon guide est de choisir une croyance immédiatement en lien avec la situation, une autre en lien avec un autre PJ, et une troisième à propos d’un élément de mon passé. Supposons qu’il y a une joueuse dans mon groupe dont le personnage est membre de la Cour de Bonne-Lise, appelée Octavia.&lt;/p&gt;
+&lt;p&gt;Croyances :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La ville va être mise à sac et je vais y perdre ma fortune ! Je dois à tout prix convaincre le Roi d’organiser les défenses de la ville plutôt que de fuir.&lt;/li&gt;
+&lt;li&gt;Octavia est une oie blanche, mais elle me sera utile pour accéder au Roi. Il faut que je reste dans ses bonnes grâces.&lt;/li&gt;
+&lt;li&gt;Ma femme complote dans mon dos pour me voler, je la surveillerai de près.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Instincts :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Je négocie toujours les prix, quelle que soit la transaction.&lt;/li&gt;
+&lt;li&gt;Je garde toujours la clé de mon coffre fort sur moi.&lt;/li&gt;
+&lt;li&gt;Je ne laisse jamais passer une occasion de m’enrichir.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et voilà, mon personnage est prêt ! Un bon personnage social et fourbe, qui dès le départ est paranoïaque, a 2 ennemis sérieux, et tout à perdre dans la situation annoncée, et donc un cap clair sur ce qu’il veut accomplir.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jeux en Attente De Livraison</title>
+      <link>https://www.legendesdelatable.fr/articles/jeux-en-attente-de-livraison/</link>
+      <pubDate>Thu, 23 Jul 2020 08:47:36 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/jeux-en-attente-de-livraison/</guid>
+      <description>&lt;p&gt;Je dois avouer un Sombre Secret me concernant.&lt;/p&gt;
+&lt;p&gt;Je consacre beaucoup plus de temps et de ressources à acheter et lire des livres de jeu de rôle qu’à jouer ou mener des parties.&lt;/p&gt;
+&lt;p&gt;Les étagères sont pleines, les jeux acquis ne seront pas tous testés, c’est une certitude.&lt;/p&gt;
+&lt;p&gt;Mais ce n’est pas bien grave…&lt;/p&gt;
+&lt;p&gt;Voici une petite liste des jeux dont j’ai fait l’acquisition et qui arriveront un jour dans ma boîte au lettres, pour mon plus grand plaisir de lecture, et parfois au désespoir de ma femme quand je passe en mode obsessionnel en découvrant un système ou un univers.&lt;/p&gt;
+&lt;h2 id=&#34;forbidden-lands&#34;&gt;Forbidden Lands&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://frialigan.se/en/games/forbidden-lands/&#34;&gt;Forbidden Lands&lt;/a&gt; est un jeu dans la mouvance Old School Renaissance, et qui a reçu plusieurs prix en 2019.&lt;/p&gt;
+&lt;p&gt;Dans ce jeu, on explore une vaste carte divisée en hexagones, peuplée procéduralement par le ou la MJ, qui prépare le terrain grâce à un système de tables aléatoires de rencontres, de lieux, et de trésors.&lt;/p&gt;
+&lt;p&gt;Les mécaniques du jeu font la part belle à la gestion de ressources, l’exploration, la survie en milieu hostile, et l’univers semble bien rude.&lt;/p&gt;
+&lt;p&gt;La maquette des livres et les illustrations ont un look rétro magnifique.&lt;/p&gt;
+&lt;p&gt;Petite vidéo trailer du jeu :&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/WgpOkhsvPvM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;J’ai commandé le &lt;a href=&#34;https://frialigan.se/en/store/?product_id=2164877295664&#34;&gt;Bundle Raven&lt;/a&gt; qui contient les 2 livres de base, 2 campagnes, la carte, les cartes pour les combats, et un jeu de dés spéciaux.&lt;/p&gt;
+&lt;h2 id=&#34;root-the-tabletop-rpg&#34;&gt;ROOT the Tabletop RPG&lt;/h2&gt;
+&lt;p&gt;ROOT est à la base un excellent jeu de plateau où chaque joueur·euse dirige une faction animale en guerre pour contrôler une forêt. L’originalité du jeu est que chaque faction fonctionne différement, dans sa situation de départ, ses mécaniques de recrutement et de gain de points de victoire, ce qui offre un jeu très stratégique, dans un univers graphique super mignon.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/root-board.jpg&#34; alt=&#34;Root board game picture&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Le jeu de plateau a été financé sur Kickstarter et a même eu droit à une traduction en français.
+J’y ai pas mal joué avec mes enfants l’an dernier, et quand j’ai vu qu&amp;rsquo;il y avait un jeu de rôle en cours de création, j&amp;rsquo;ai craqué et précommandé le jeu.&lt;/p&gt;
+&lt;p&gt;Le jeu de rôle est basé sur le moteur d’Apocalypse World, et ressemble un peu à Dungeon World.&lt;/p&gt;
+&lt;p&gt;Et très sympa, les créateurs du jeu &lt;a href=&#34;https://www.drivethrurpg.com/product/288366/Root-The-Tabletop-Roleplaying-Game-Quickstart&#34;&gt;offrent un kit de démarrage rapide du jeu&lt;/a&gt; si vous avez envie de le tester.&lt;/p&gt;
+&lt;p&gt;J’ai déjà fait jouer mes enfants de 8 et 4 ans, qui connaissaient le jeu de plateau et avaient envie d’en découdre, et on a réussi à faire quelques sessions plutôt réussies. Le moteur de l’Apocalypse donne des combats vraiment marrants, dynamiques et chaotiques.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.magpiegames.com/root-rpg/&#34;&gt;Site officiel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;La chaîne Dicebreaker a enregistré une partie live, et les joueur·euse·s y sont excellent·e·s !&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/G5iQF4gz13M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;hyper-light-drifter&#34;&gt;Hyper Light Drifter&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/hld-rpg.webp&#34; alt=&#34;Hyper Light Drifter RPG banner and boxart&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Encore une fois c’est un jeu de rôle qui est l’adaptation d’un jeu existant, mais cette fois-ci l’excellent jeu vidéo Hyper Light Drifter, disponible sur Nintendo Switch, PC, PS4, Xbox One.&lt;/p&gt;
+&lt;p&gt;Et encore une fois, Andreas Walters, le créateur du jeu de rôle a la gentillesse de nous &lt;a href=&#34;https://metalweave.games/product/hld-basic-rules/&#34;&gt;fournir gratuitement un livret de règles de base&lt;/a&gt;, bien noter cependant que le jeu est toujours en cours de design, et que ce produit final sera différent.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hld-rpg.com/&#34;&gt;Site officiel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Passage en revue du livret de base par Adam Koebel :&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/6PgboHzR8cw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;torchbearer-2nde-édition&#34;&gt;Torchbearer 2nde édition&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/torchbearer2.webp&#34; alt=&#34;Torchbearer 2nd edition cover image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Torchbearer est un jeu d’exploration et de survie dans de sombres donjons, dérivé du système de Mouse Guard, et créé par Luke Crane et Thor Olavsrud.&lt;/p&gt;
+&lt;p&gt;Très récemment les créateurs du jeu ont &lt;a href=&#34;https://www.kickstarter.com/projects/burningwheel/torchbearer-2nd-edition/&#34;&gt;financé une seconde édition sur kickstarter&lt;/a&gt;, et j&amp;rsquo;ai été un des premiers à foncer.&lt;/p&gt;
+&lt;p&gt;L’objectif annoncé du jeu est de rendre la logistique et la difficulté physique de la plongée dans des tombeaux oubliés fun et intéressantes !&lt;/p&gt;
+&lt;p&gt;Le jeu sera fourni avec beaucoup d&amp;rsquo;accessoires physiques (cartes, dés, et même pièces de monnaie) pour rendre l’expérience plus physique et immersive.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.legendesdelatable.fr/images/torchbearer2-table.webp&#34; alt=&#34;Torchbearer 2 matos de jeu sur une table&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Pas mal de bonnes choses en chemin, j’ai vraiment hâte de recevoir tout ça et de vous raconter les parties !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Burning Wheel - Se Battre Pour Ses Croyances</title>
+      <link>https://www.legendesdelatable.fr/articles/burning-wheel-se-battre-pour-ses-croyances/</link>
+      <pubDate>Wed, 22 Jul 2020 15:16:45 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/burning-wheel-se-battre-pour-ses-croyances/</guid>
+      <description>&lt;p&gt;Une fois n’est pas coutume je vais me permettre de parler d’un jeu auquel je n’ai encore jamais joué.
+Cependant ce tort sera rapidement corrigé car fin août je démarre un nouveau groupe pour jouer à Burning Wheel.&lt;/p&gt;
+&lt;h2 id=&#34;burning-wheel-cest-quoi-&#34;&gt;Burning Wheel, c’est quoi ?&lt;/h2&gt;
+&lt;p&gt;Burning Wheel est un jeu de rôle médiéval fantastique créé par Luke Crane.
+Ce jeu est à l’origine de jeux dérivés du même auteur &lt;a href=&#34;https://www.burningwheel.com/mouse-guard/&#34;&gt;Mouse Guard&lt;/a&gt; et &lt;a href=&#34;https://www.burningwheel.com/torchbearer/&#34;&gt;Torchbearer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Burning Wheel dispose de mécaniques de jeu qui sont très différentes des grands classiques systèmes D20 tels que D&amp;amp;D ou Pathfinder.&lt;/p&gt;
+&lt;p&gt;Comme le dit l’auteur lui même dans le supplément &lt;a href=&#34;https://www.burningwheel.com/burning-wheel-codex/&#34;&gt;Codex&lt;/a&gt;, Burning Wheel est un jeu bourré de contradictions. C’est un jeu sans univers pré-établi, mais le système de création de personnages impose un univers médiéval, avec plus ou moins de fantastique selon vos choix. C’est un jeu centré sur les personnages et leurs conflits personnels, et qui donc se prête à un jeu en mode très narratif, mais qui contient une tonne de règles très minutieuses pour simuler des combats, dans 3 sous-systèmes différents pour les joutes orales, les combats à distance et les combats rapprochés.&lt;/p&gt;
+&lt;p&gt;C’est avant tout un jeu qui a la simple idée de récompenser mécaniquement les joueur·euse·s pour avoir incarné leur personnage, avoir agi d’une manière qui les a mis dans des situations périlleuses, pour avoir accompli leur quête personnelle, ou tout simplement pour avoir déclenché l’hilarité générale autour de la table, mais &lt;em&gt;in character&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Burning Wheel est un jeu qui interpelle, voire qui intimide.
+Beaucoup de règles, beaucoup de systèmes qui semblent étrangers, peu de conseils sur comment mener les parties ou construire des scenarii, si ce n’est &amp;ldquo;utilisez les croyances, les instincts et les traits des personnages pour les confronter&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Cependant la simple lecture  de ce livre est déjà une immense source de plaisir, et un coup de pied vigoureux dans l’imagination.&lt;/p&gt;
+&lt;p&gt;C’est un jeu qui veut forcer le ou la rôliste à sortir de sa zone de confort et à s’exposer en jeu, dans la fiction mais aussi autour de la table, parce que c’est le seul moyen de progresser.&lt;/p&gt;
+&lt;h2 id=&#34;comment-le-jeu-atteint-ses-objectifs&#34;&gt;Comment le jeu atteint ses objectifs&lt;/h2&gt;
+&lt;p&gt;Burning Wheel utilise un système de réserve de D6s pour résoudre tous les tests.
+Que l’on teste un attribut directement (Test de Puissance), qu’on teste une compétence (Test de Sorcellerie pour lancer un sort) ou qu’on teste en opposition contre un PNJ ou un·e autre joueur·euse, on prend un certain nombre de D6, on les lance, et on compte le nombre de dés ayant obtenu 4,5, ou 6 comme des succès.&lt;/p&gt;
+&lt;p&gt;Si le nombre de succès atteint l’obstacle fixé par le MJ, ou bien si on dépasse le nombre de succès de l&amp;rsquo;adversaire lors d&amp;rsquo;un test en opposition, alors on obtient ce qu’on voulait.&lt;/p&gt;
+&lt;p&gt;Règle très importante, on ne teste qu’une fois. Si c’est réussi, vous obtenez ce que vous vouliez, sinon, vous subissez les conséquences, mais il n’est pas possible de retester avant un changement significatif des conditions de la fiction.&lt;/p&gt;
+&lt;p&gt;Jusque là, c’est très simple.&lt;/p&gt;
+&lt;p&gt;Mais ce n’est pas tout. Avant de lancer les dés, les joueur·euse·s ont plusieurs moyens d’ajouter des dés à lancer, pour augmenter les chances de succès :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;chaque compétence dans laquelle le personnage est entraîné et qui peut raisonnablement contribuer au test va ajouter 1 dé à la réserve. Par exemple, si je négocie un prix avec un marchand, je vais tester ma compétence de Négociation. Mais je peux ajouter un dé supplémentaire si j’ai également la compétence Persuasion, et encore 1 dé si j’ai la compétence &amp;ldquo;Platitudes apaisantes&amp;rdquo;. Je dois décrire ou idéalement jouer la scène en montrant que j’exploite ces compétences dans ma négociation.&lt;/li&gt;
+&lt;li&gt;un·e autre joueur·euse qui a également la compétence testée peut m’aider, en me donnant un dé supplémentaire. Il ou elle s’expose ainsi à un certain risque si le test échoue.&lt;/li&gt;
+&lt;li&gt;Un·e joueur·euse qui s’est positionné·e dans la fiction dans une situation avantageuse peut également obtenir 1 ou 2 dés supplémentaires dit &amp;ldquo;dés d’avantage&amp;rdquo;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;On voit déjà là un début d’incitation mécanique à jouer son rôle, mais attendez, ce n’est que le début !&lt;/p&gt;
+&lt;p&gt;Burning Wheel donne aux joueur·euse·s accès à une méta monnaie, des points d’&lt;em&gt;Artha&lt;/em&gt;, qui sont distribués en fin de partie selon leur prestation.&lt;/p&gt;
+&lt;p&gt;Ces points viennent en trois variétés, et peuvent être dépensés pour augmenter les chances de réussite d’un test à fort enjeu.&lt;/p&gt;
+&lt;p&gt;Les points de &lt;em&gt;Destin&lt;/em&gt;, les plus simples à obtenir, permettent par exemple de faire exploser ses 6. Un 6 obtenu sur le test compte comme un succès, mais permet en plus de lancer un dé supplémentaire pour obtenir encore plus de succès.&lt;/p&gt;
+&lt;p&gt;Les points de &lt;em&gt;Persona&lt;/em&gt;, qui sont attribués pour avoir par exemple été l’élément moteur sur une session, ou pour s’être distingué·e en role-play, permettent en les dépensant d’avoir un effet encore plus fort sur un lancer, voire même d’échapper à la mort, juste pour cette fois.&lt;/p&gt;
+&lt;p&gt;Les points d’&lt;em&gt;Exploits&lt;/em&gt; vont avoir un effet encore plus radical, comme par exemple doubler le nombre de dés à lancer pour un test.&lt;/p&gt;
+&lt;p&gt;Cette méta monnaie, récompensant le role-play, pour booster les chances de réussir un lancer, c’est le truc qui me donne envie de maîtriser Burning Wheel, pour voir mes joueur·euse·s sortir le grand jeu.&lt;/p&gt;
+&lt;p&gt;Luke Crane a même pensé à l’incitation ultime du système, pour éviter que les joueur·euse·s de thésaurisent trop ces points : chaque point d’Artha dépensé dans une compétence ou un attribut est noté, et à force, cet attribut ou cette compétence peut recevoir une amélioration permanente, non pas simplement en nombre de dés lancés, mais plutôt se mettre à considérer les résultats de 3 sur un dé comme un succès, puis après une ultime amélioration légendaire, considérer tout résultat sauf un 1 comme un succès.&lt;/p&gt;
+&lt;h2 id=&#34;croyances-instincts-traits&#34;&gt;Croyances, instincts, traits&lt;/h2&gt;
+&lt;p&gt;On l’a vu, Burning Wheel récompense le role-play par un système de points d’Artha qui permettent aux joueur·euse·s d’augmenter leurs chances de succès sur un lancer, et à plus long terme sont un investissement dans certaines compétences pour les rendre plus puissantes en élargissant les résultats considérés comme un succès sur les dés.&lt;/p&gt;
+&lt;p&gt;Mais comment donner une vie aux personnages, et comment guider les joueur·euse·s vers cet idéal ?&lt;/p&gt;
+&lt;p&gt;Grâce aux croyances, instincts et traits.&lt;/p&gt;
+&lt;p&gt;Commençons par les traits :&lt;/p&gt;
+&lt;p&gt;Chaque personnage de Burning Wheel est créé avec un certain nombre de traits qui aident à définir son apparence, ses manies, et peuvent lui conférer des avantages et des inconvénients.
+Par exemple : Arrogant, Ambitieux, Gros, Laid, Alcoolique, Agoraphobe.&lt;/p&gt;
+&lt;p&gt;Les traits qui donnent un avantage peuvent être utiles, mais les traits négatifs sont encore plus intéressants : lorsqu’ils vous mettent dans la mouise, ou qu’ils entraînent l’histoire dans une direction imprévue, ils vous donnent un point de destin.&lt;/p&gt;
+&lt;p&gt;Si les traits doivent être achetés parmi une liste et selon l’historique de votre personnage, les instincts sont plus libres. Chaque joueur en a 3, et ils sont une expression de quelque chose d’automatique à propos du personnage. Par exemple &amp;ldquo;Je dis toujours la vérité, même quand elle n’est pas bonne à dire.&amp;rdquo;, ou bien &amp;ldquo;Je ne laisse jamais filer une opportunité de gagner de l’argent.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Les instincts peuvent servir à se prémunir de certaines situations, par exemple &amp;ldquo;je dors toujours avec une dague sous mon oreiller&amp;rdquo;, mais ils sont aussi une mine de points de destin quand ils vous les jouez et qu’ils vous mettent dans le pétrin.&lt;/p&gt;
+&lt;p&gt;Les Croyances enfin, sont les principes fondamentaux de vos personnages : leur guide moral, leur objectif, leur foi…
+Quelques exemples, tirés du livre de base : &amp;ldquo;Les malfrats du coin sont une bande d’incapables désorganisés. Je prendrai leur tête et avec eux je dominerai la ville.&amp;rdquo; ; &amp;ldquo;Si Druath ne peut pas être ramené à la raison, alors mon devoir est de le tuer moi-même.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Les croyances des personnages sont la chose la plus importante, elles doivent guider le ou la MJ dans ses préparatifs : taper dans les croyances des personnages, c’est sa mission.&lt;/p&gt;
+&lt;p&gt;Les croyances, c&amp;rsquo;est le moteur à scène dramatique du jeu, et elles sont entièrement sous le contrôle des joueur·euse·s. Elles sont le moyen de dire à tous ce qui vous intéresse, ce que vous voulez faire et surtout subir. Énoncez vos croyances, et vous serez exaucé·e.&lt;/p&gt;
+&lt;h2 id=&#34;pour-qui-&#34;&gt;Pour qui ?&lt;/h2&gt;
+&lt;p&gt;Burning Wheel est relativement complexe, et se prête à un jeu plutôt dramatique. Le niveau de fantastique peut être très variable, du simulateur de village médiéval à la guerre intestine entre dieux rivaux.&lt;/p&gt;
+&lt;p&gt;Je dirais que c’est un jeu qui s’adresse plutôt aux joueur·euse·s expérimenté·es, qui ont envie de prendre les rennes de l’histoire et d’y raconter des choses personnelles, et difficiles.&lt;/p&gt;
+&lt;h2 id=&#34;liens-utiles&#34;&gt;Liens utiles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.burningwheel.com/&#34;&gt;Burning Wheel HQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.burningwheel.com/mouse-guard/&#34;&gt;Mouse Guard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.burningwheel.com/torchbearer/&#34;&gt;Torchbearer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HIZtcfmETpo&#34;&gt;Vidéo - Luke Crane fait jouer &amp;ldquo;The Sword&amp;rdquo; à la GenCon 2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=E79DDGdX62I&#34;&gt;Vidéo - Why I love the Burning Wheel par Adam Koebel, co-créateur de Dungeon World&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Images © Burning Wheel - Luke Crane&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Créer Un Aventurier Avec Des Failles</title>
+      <link>https://www.legendesdelatable.fr/articles/creer-un-aventurier-avec-des-failles/</link>
+      <pubDate>Tue, 21 Jul 2020 09:24:50 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/creer-un-aventurier-avec-des-failles/</guid>
+      <description>&lt;p&gt;Si vous êtes comme moi davantage un joueur qu’un acteur ou un dramaturge, votre instinct lorsque vient le moment de créer un personnage pour un jeu de rôle, est de choisir une combinaison de classe, historique, statistiques, dons et équipement pour optimiser vos chances de survie et votre efficacité en combat. Il n’y a rien de mal à ça, mais cela s’avère souvent insuffisant.&lt;/p&gt;
+&lt;p&gt;Cependant, même pour les min-maxers chevronnés, une grande partie du plaisir de jouer ou de faire jouer à un jeu de rôle peut venir de ces scènes où les joueur·euse·s entrent dans la peau de leur personnage, et se mettent à agir selon la fiction, et non plus comme fins stratèges.&lt;/p&gt;
+&lt;p&gt;Mais pour que ces scènes puissent avoir une chance d&amp;rsquo;émerger en jeu, il convient lors de la création de personnage de réfléchir à une faille, une idée, une personne à laquelle on tient, un rival énervant, ou tout autre élément qui fait que le personnage ne peut que réagir quand l’histoire prend un certain tournant. Il ne s&amp;rsquo;agit pas de rendre votre personnage faible ou sous optimal, mais simplement de laisser le potentiel à des situations tendues ou dramatiques. Si tous les membres de votre famille sont morts avant même le début de l’histoire, et que vous n’avez plus rien à perdre, c&amp;rsquo;est bien beau mais c&amp;rsquo;est surtout cliché et d&amp;rsquo;un ennui mortel.&lt;/p&gt;
+&lt;p&gt;Voyons comment certains jeux intègrent ces idées dans leur création de personnage. Quel que soit le jeu auquel vous jouez, ces techniques peuvent s’y appliquer.&lt;/p&gt;
+&lt;h2 id=&#34;dans-dungeon-world&#34;&gt;Dans Dungeon World&lt;/h2&gt;
+&lt;p&gt;Un des principes qui guident le Maître de Jeu dans &lt;a href=&#34;https://www.500nuancesdegeek.fr/dungeon-world-v2/&#34;&gt;Dungeon World&lt;/a&gt; est de poser des questions, et de prendre sincèrement les réponses en compte. Ainsi les joueur·euse·s ont leur mot à dire sur le monde, ils en sont les co-auteurs avec le MJ.&lt;/p&gt;
+&lt;p&gt;Le joueur ou la joueuse qui choisit d&amp;rsquo;incarner un Clerc a une autorité spéciale pour définir son dieu et les rites de sa religion, celui ou celle qui a choisi d’être un Elfe aura sans doute plus de poids pour définir les Elfes.&lt;/p&gt;
+&lt;p&gt;Mais les autres joueur·euse·s pourront également contribuer à ces sujets, il suffit que le MJ se tourne vers eux et leur demande : et toi, que penses-tu de cette religion ? Et pour vous, les Halfelins, qu’est-ce que vous pensez des Elfes, en général ?&lt;/p&gt;
+&lt;p&gt;Parmi ces questions à poser aux joueur·euses lors de la phase ultime de la création de personnage où les joueur·euse·s introduisent leur personnage à la table, il suffit d’introduire des questions sur les choses, idées ou personnes auxquels chaque personnage peut être attaché·e, ou en conflit. Ces questions peuvent naturellement être liées à la classe ou à l’héritage du personnage.&lt;/p&gt;
+&lt;p&gt;Exemples :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voleur, ta précédente tentative de larcin a été une catastrophe et tu as failli te faire prendre. Qui t&amp;rsquo;as trahi ? Quelle est la chose la plus précieuse que tu aies volé ? Qui te recherche pour ce méfait ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Clerc, tu as quitté ton monastère pour vivre une vie d&amp;rsquo;aventures. Quelle est la raison qui t&amp;rsquo;y a forcé ? Avec quelle partie de ta religion es-tu en désaccord ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Guerrier, tu es expert du combat avec ton arme favorite. Cependant tu as un rival qui prétend te surpasser, et il t’as déjà humilié à l’entraînement. Qui est-il ?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;dans-forbidden-lands&#34;&gt;Dans Forbidden Lands&lt;/h2&gt;
+&lt;p&gt;Je suis en train de découvrir &lt;a href=&#34;https://frialigan.se/en/games/forbidden-lands/&#34;&gt;Forbidden Lands&lt;/a&gt;, qui est un jeu d’inspiration vieille école mais avec un système très moderne.&lt;/p&gt;
+&lt;p&gt;Dans ce jeu, chaque personnage a un Sombre Secret choisi à sa création. Les classes de personnages en fournissent une liste, mais les joueur·euse·s peuvent évidemment créer le leur de toutes pièces.&lt;/p&gt;
+&lt;p&gt;Quelques exemples :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Guerrier] Tu te saoules parfois pour oublier tous ceux que tu as tués.&lt;/li&gt;
+&lt;li&gt;[Chasseur] Une fois, tu as fui face à un adversaire terrible dans les bois, en abandonnant un compagnon blessé à son sort.&lt;/li&gt;
+&lt;li&gt;[Ménestrel] Tu es secrètement amoureux·se d’un PNJ ou d’un autre PJ.&lt;/li&gt;
+&lt;li&gt;[Marchand] Tu dois de l’argent à un individu puissant. Beaucoup d’argent.&lt;/li&gt;
+&lt;li&gt;[Sorcier] Tu brûles d’accumuler plus de puissance magique, et c’est plus fort que toi.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Les joueur·euses sont qui plus est &lt;strong&gt;encouragés mécaniquement&lt;/strong&gt; à jouer le jeu, car en fin de session, ils ou elles reçoivent un point d&amp;rsquo;expérience si leur Sombre Secret les a fait souffrir pendant la session.&lt;/p&gt;
+&lt;h2 id=&#34;dans-burning-wheel&#34;&gt;Dans Burning Wheel&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.burningwheel.com/burning-wheel/&#34;&gt;Burning Wheel&lt;/a&gt; a un système de création de personnages original, dont je parlerai sans doute dans un autre article, où les joueur·euse·s enchaînent des tranches de vie, en commençant par la naissance.&lt;/p&gt;
+&lt;p&gt;Chaque bout de vie choisi ajoute des années, ouvre l&amp;rsquo;accès à des compétences, et procure un certain nombre de points pour monter des compétences, acheter des traits, ainsi que des points de ressources pour se procurer vêtements, armes, sorts, bicoque et matériel au départ de l&amp;rsquo;aventure.&lt;/p&gt;
+&lt;p&gt;Avec cette monnaie virtuelle, les personnages sont également encouragés à se payer non pas des possessions matérielles, mais des relations, soit avec des factions, soit avec des personnages.
+Le coût d’une telle relation dépend de la puissance du personnage non-joueur ainsi défini, mais il peut être réduit si le personnage en question est un membre de la famille du personnage joueur·euse, une relation amoureuse, un rival, ou l’objet d’une relation interdite. On peut cumuler les réductions. Par exemple, se créer un PNJ qui serait une princesse va coûter 15 points, mais une princesse qui est votre sœur tout en étant votre maîtresse et donc dans une relation interdite avec vous, ça ne coûte que 10 points ! Et bien entendu ça donne du grain à moudre intéressant pour le MJ et l&amp;rsquo;occasion d’avoir des scènes tendues ou dramatiques !&lt;/p&gt;
+&lt;p&gt;Qui plus est, le jeu &lt;strong&gt;récompensant mécaniquement le role-play&lt;/strong&gt;, avoir une telle relation n’est absolument pas un handicap, mais au contraire une mine d’or à exploiter pour les joueur·euse·s!&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Avoir des failles ou des attaches à des PNJ particuliers est une excellente matière pour encourager le role-play et introduire de la tension dans l’histoire pour le Maître de Jeu. Trop souvent, les joueur·euse·s peuvent négliger cet aspect du jeu, mais il existe des solutions. Il suffit souvent d’une petite incitation sous la forme de récompense en fin de session pour encourager les joueurs à s’exposer un peu et à se livrer en jeu.&lt;/p&gt;
+&lt;p&gt;Si vos joueur·euse·s ont des difficultés à se lâcher, n’hésitez pas à les encourager en les récompensant même pour des prestations minimalistes.&lt;/p&gt;
+&lt;p&gt;Enfin, n’oubliez pas qu’en tant que Maître de Jeu, vous avez l’occasion de montrer l’exemple en jouant chaque PNJ comme vous aimeriez que vos joueur·euse·s jouent leurs personnages. Et pour vous aider, peut-être pouvez-vous donner un sombre secret à chaque PNJ ?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dungeon World : La Synthèse Parfaite ?</title>
+      <link>https://www.legendesdelatable.fr/articles/dungeon-world-la-synthese-parfaite/</link>
+      <pubDate>Sun, 19 Jul 2020 14:50:41 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/dungeon-world-la-synthese-parfaite/</guid>
+      <description>&lt;p&gt;Parfois je me dis que ma quête du bouquin de jeu de rôle parfait est déjà depuis un moment accomplie. Avec &lt;em&gt;Dungeon World&lt;/em&gt; j’ai déjà la synthèse parfaite entre le jeu fantasy classique et le système &amp;ldquo;la fiction d’abord&amp;rdquo; d’&lt;a href=&#34;http://apocalypse-world.com/&#34;&gt;Apocalypse World&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;cest-quoi-&#34;&gt;C’est quoi ?&lt;/h2&gt;
+&lt;p&gt;Dungeon World est un jeu créé en 2012 par deux américains, &lt;a href=&#34;http://www.adam-koebel.com/&#34;&gt;Adam Koebel&lt;/a&gt; et &lt;a href=&#34;http://www.latorra.org/&#34;&gt;Sage La Torra&lt;/a&gt;.
+On peut résumer le jeu comme la fusion de l’univers et des clichés de D&amp;amp;D (mais en réalité du genre fantasy dans son ensemble) et du moteur de jeu d’&lt;a href=&#34;http://apocalypse-world.com/&#34;&gt;Apocalypse World&lt;/a&gt; de Vincent Baker.&lt;/p&gt;
+&lt;p&gt;L’influence de D&amp;amp;D, j’imagine que vous voyez assez facilement ce que ça implique en terme de classes, de monstres, et d’univers, mais pour Apocalypse World, peut-être qu’une explication est de mise.&lt;/p&gt;
+&lt;p&gt;Le moteur d’Apocalypse World peut-être résumé ainsi :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la fiction d’abord : le jeu est une conversation, entre les joueurs et joueuses, MJ inclus·e. Les règles sont au service de la fiction, pour faire avancer l’action sans jamais aboutir à une impasse.&lt;/li&gt;
+&lt;li&gt;l’improvisation guidée comme principe : le MJ ne doit pas préparer une histoire toute tracée, avec ses passages obligés et son dénouement prédéterminé. C’est le jeu et l’enchaînement d’actions des joueurs et joueuses et du MJ qui feront émerger l’histoire.&lt;/li&gt;
+&lt;li&gt;Une absence d’univers pré-établi : établir l’univers ensemble fait partie du jeu&lt;/li&gt;
+&lt;li&gt;Un partage important du rôle d’auteur du monde et de la situation entre le MJ et les autres joueurs et joueuses&lt;/li&gt;
+&lt;li&gt;Le MJ est guidé par des principes et un agenda, et doit quand l’occasion se présente et selon les besoins de la fiction piocher dans sa liste d’actions.&lt;/li&gt;
+&lt;li&gt;Un système de résolution universel, basé sur 2d6+MOD, avec 3 niveaux de résultats : 10+ = franc succès, 7-9 (succès partiel avec des conséquences, au choix du joueur ou MJ, selon les cas), et 6 ou moins, qui donne la main au MJ et l’autorise à sortir un sale coup aux joueur·euse·s, en respectant la fiction et ses principes&lt;/li&gt;
+&lt;li&gt;Un système de classes par &lt;em&gt;livrets&lt;/em&gt;, très simple, qui ajoute un arsenal d’actions spécifiques aux actions de base accessibles à tous les personnages, ou les améliore.&lt;/li&gt;
+&lt;li&gt;des combats dynamiques et flexibles, qui obéissent aux mêmes principes que le reste, et évitent l’échange statique de dégâts entre joueur·euse·s et monstres.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ça n’a peut-être l’air de rien, mais c’est radicalement différent des jeux traditionnels, particulièrement ceux où on joue un module pré-écrit.&lt;/p&gt;
+&lt;h2 id=&#34;quest-ce-que-ça-change-&#34;&gt;Qu’est-ce que ça change ?&lt;/h2&gt;
+&lt;p&gt;Mais tout !&lt;/p&gt;
+&lt;p&gt;Finis les combats interminables avec une table d’initiative rigide, les grilles de combat où on se plante devant un monstre pour l’attaquer pendant 6 tours pour le toucher 3 fois, chacun restant campé sur ses positions pour éviter de se prendre une attaque d’opportunité pour avoir osé bouger.&lt;/p&gt;
+&lt;p&gt;Finis les rails déployés consciemment ou pas sous les pied des joueurs et des joueuses pour les mener du début à la fin du scénario, en passant par les rencontres qu’on a passé des heures à préparer ou à potasser dans le module.&lt;/p&gt;
+&lt;p&gt;Et fini les test de compétences échoués qui mènent à une impasse. Quand le voleur fait 6 ou moins en tentant de crocheter une porte, il n’échoue pas simplement à l’ouvrir, la main passe au MJ et celui-ci via une de ses actions fait avancer la fiction, en improvisant un monstre, un piège, ou toute autre complication qui n’avait pas besoin d’être prévue à l’avance !&lt;/p&gt;
+&lt;p&gt;Ça donne un jeu beaucoup plus fluide, surprenant, et surtout amusant pour le maître de jeu, qui a beaucoup moins a préparer, et qui plus est a le plaisir de découvrir le fil du récit qui émerge autant que les joueur·euse·s !
+Il ou elle peut certes avoir des préparatifs à faire, mais peut se contenter que quelques notes sur un post-it listant les grandes lignes des forces en présence et les grandes étapes des plans des adversaires, si jamais les personnages n’interviennent pas. Ces préparatifs lui permettent de guider son improvisation en ayant toujours sous la main les signes avant coureurs des futurs problèmes se dressant devant les personnages.&lt;/p&gt;
+&lt;h2 id=&#34;comment-les-joueureuses-peuvent-se-faire-plaisir&#34;&gt;Comment les joueur·euse·s peuvent se faire plaisir&lt;/h2&gt;
+&lt;p&gt;Pour les joueurs et joueuses, jouer à Dungeon Wold, c’est l’occasion de se détacher un peu de la course à la puissance comme source de fun, se détacher des considérations d’optimisation de build et de tactique, et se concentrer sur la fiction.&lt;/p&gt;
+&lt;p&gt;Et faire du coup plus de blagouzes et de role-play, peut-être ?&lt;/p&gt;
+&lt;h2 id=&#34;quels-sont-les-écueils-pour-le-mj-les-joueureuses&#34;&gt;Quels sont les écueils pour le MJ, les joueur·euse·s&lt;/h2&gt;
+&lt;p&gt;Pour les joueurs et les joueuses, si leur plaisir dans le jeu de rôle vient principalement de la conception et de la mise en place progressive de leur build, ou de la bonne exécution de tactique en combat, ils ou elles risquent d’être un peu décontenancé·es et frustré·es par Dungeon Wold.&lt;/p&gt;
+&lt;p&gt;Pour le MJ, il peut s’avérer difficile de faire le vrai lâcher prise demandé par le jeu, et si vous restez dans un entre deux, à mi chemin vers le jeu plus traditionnellement scénarisé, vous allez faire jouer quelque chose de très bancal.&lt;/p&gt;
+&lt;h2 id=&#34;quel-public-pour-dungeon-world-&#34;&gt;Quel public pour Dungeon World ?&lt;/h2&gt;
+&lt;p&gt;Dungeon Wold est à mon avis parfaitement jouable par toute personne qui a une connaissance même superficielle de la fantasy, et ce très jeune. Les moins de 7 ans auront besoin de plus d’accompagnement pour ne pas être paralysés par le vertige des possibilités, mais dans un environnement bienveillant, ils peuvent vite piger le truc et proposer des actions un peu folles auxquelles un joueur plus âgé ne penserait pas, et bien contribuer au fun.&lt;/p&gt;
+&lt;p&gt;J’ai réussi à faire des session vraiment bien avec ma femme, qui n’avait jamais joué à un jeu de rôle ni été exposée à autre chose qu’au Seigneur des Anneaux adolescente, et mes enfants âgés de 8 et 4 ans. Je peux même vous dire que le joueur le plus ingénieux et efficace s’est rapidement révélé être le petit druide de 4 ans, qui prenait grand plaisir à se transformer en animal pour se faufiler et attaquer ses ennemis.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Si vous vous sentez l’envie de retrouver les plaisirs simples du jeu fantasy classique, mais sans les lourdeurs qui vont avec les jeux plus traditionnels, que ce soit en tant que joueur ou MJ, je ne peux que vous recommander très chaudement Dungeon World. Le jeu a une communauté très active sur internet, et vous trouverez sans peine des PDFs de livrets de personnages à imprimer, des amorces de situation si vous coincez, et de l’aide en ligne pour répondre à toutes vos questions sur le jeu.&lt;/p&gt;
+&lt;h2 id=&#34;liens-utiles&#34;&gt;Liens utiles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dungeon-world.com/&#34;&gt;le site officel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dungeonworld.pbta.fr/&#34;&gt;le site francophone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.500nuancesdegeek.fr/dungeon-world-v2/#comments&#34;&gt;la VF papier chez 500 nuances de geek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pbta.fr/wiki/doku.php?id=dungeonworld:sommaire&#34;&gt;règles complètes en français&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dungeonworldsrd.com/&#34;&gt;règles complètes en anglais&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.adam-koebel.com/&#34;&gt;Adam Koebel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.latorra.org/&#34;&gt;Sage La Torra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.reddit.com/r/dungeonworld&#34;&gt;le subreddit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B8_Fz4m5hcoiTXpTbklDOF9iUHc/view&#34;&gt;le guide (en)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://spoutinglore.blogspot.com/&#34;&gt;Spouting Lore, un excellent blog sur DW&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numenera, le jeu pour les MJs qui en ont marre de faire des maths</title>
+      <link>https://www.legendesdelatable.fr/articles/numenera-le-jeu-pour-les-mjs-qui-en-ont-marre-de-faire-des-maths/</link>
+      <pubDate>Sun, 19 Jul 2020 06:16:51 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/numenera-le-jeu-pour-les-mjs-qui-en-ont-marre-de-faire-des-maths/</guid>
+      <description>&lt;p&gt;J’ai découvert Numenera et le Cypher System grâce à la chaîne YouTube &lt;em&gt;Web DM&lt;/em&gt; qui une fois n’est pas coutume a consacré &lt;a href=&#34;https://youtu.be/aJC67M_AtsI&#34;&gt;une vidéo d’une demi-heure à ce jeu&lt;/a&gt; à autre chose que D&amp;amp;D.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;– Quoi, il existe d’autres jeux de rôle que D&amp;amp;D™ ?!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;J’étais pour le moins intrigué. Le jeu avait l’air plus simple que D&amp;amp;D™ que je redoutait un peu de maîtriser à l’époque, et j’ai toujours adoré la science-fiction aussi j’ai craqué et je me suis procuré d’un coup d’un seul les 2 livres de base de la nouvelle édition révisée :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Numenera Discovery&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Numenera Destiny&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et plus tard, bien des suppléments…&lt;/p&gt;
+&lt;h2 id=&#34;numenera-cest-quoi-&#34;&gt;Numenera, c’est quoi ?&lt;/h2&gt;
+&lt;p&gt;Numenera, c’est un jeu de rôle créé par &lt;strong&gt;Monte Cook&lt;/strong&gt;, qui a travaillé à la grande époque sur D&amp;amp;D™ et notamment est l’auteur derrière l’univers Planescape.&lt;/p&gt;
+&lt;p&gt;L’idée de base de l’univers de Numenera est basé sur une des &lt;a href=&#34;https://fr.wikipedia.org/wiki/Trois_lois_de_Clarke&#34;&gt;Trois Lois de Clarke&lt;/a&gt; :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Toute technologie suffisamment avancée est indiscernable de la magie.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Imaginez la Terre, dans 1 milliard d’années. 8 grandes civilisations technologiques se sont succédées sur la Terre, et l’ont profondément modifiée, en laissant des traces évidentes de leur passage : ruines étranges, créatures artificielles, robots fous… Dans les ruines de ces 8 anciens mondes, se dresse aujourd’hui le 9ème monde, une civilisation naissante, étrangement constituée d’êtres humains, qui survivent aux dangers de ce monde hostile en exploitant les richesses technologiques incroyables des mondes anciens.&lt;/p&gt;
+&lt;h2 id=&#34;personnages&#34;&gt;Personnages&lt;/h2&gt;
+&lt;p&gt;Numenera propose un système de personnage extrêmement simple. Pour créer un personnage, il suffit d’assembler 3 éléments :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Un descripteur : fougueux, intelligent, malin, etc… Le descripteur va vous donner une poignée de bonus ou malus dans certaines stats ou pour certaines compétences.&lt;/li&gt;
+&lt;li&gt;Un type : c’est l’équivalent de la classe de votre personnage. Discovery en propose 3 : le Glaive, qui est axé sur la force et la performance physique, le Nano qui est spécialisé sur la manipulation de nano-technologies invisibles et omniprésentes, et le Jack, le touche à tout, piochant dans les capacités des deux autres types, tout en ayant des techniques de roublard qui lui sont propres. Le livre &lt;em&gt;Numenera Destiny&lt;/em&gt; ajoute 3 types supplémentaires : l’Arkus, qui est un archétype social / beau parleur, le Delve, qui est l’expert de l’exploration en environnement hostile, et le Wright, qui est l’ingénieur du groupe.&lt;/li&gt;
+&lt;li&gt;Un focus : le focus est un ensemble de capacités sur un thème donné qui va vraiment rendre votre personnage unique. Je ne suis pas un simple Glaive, je suis un Glaive qui absorbe l’énergie et la restitue en coups dévastateurs, par exemple.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Au final, un personnage peut se décrire en une simple phrase : &amp;ldquo;Je suis une Nano obsessive qui chevauche la foudre&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Pour faire un peu de liant entre les personnages joueur·euse·s, chaque focus propose en outre quelques liens particuliers à établir avec chaque autre joueur, par exemple un personnage peut avoir un focus illusionniste, mais ses illusions ne fonctionnent pas sur un autre personnage. Ces liens sont là pour donner un début de matière pour le role-play au sein du groupe, mais vos joueur·euse·s pourront en inventer d’autres puis spontanément créer des liens en jeu, évidemment.&lt;/p&gt;
+&lt;h2 id=&#34;grands-thèmes&#34;&gt;Grands thèmes&lt;/h2&gt;
+&lt;p&gt;Numenera se veut un jeu où le moteur principal des joueur·euse·s sont l’exploration et la découverte d’un monde étrange, à la fois merveilleux et dangereux, et la protection d’une communauté humaine face aux hostilités du 9ème monde.&lt;/p&gt;
+&lt;p&gt;Le côté étrange du monde est renforcé à tout bout de champ, dans les lieux, les créatures, les scenarii proposés.&lt;/p&gt;
+&lt;h3 id=&#34;exploration&#34;&gt;Exploration&lt;/h3&gt;
+&lt;p&gt;Mécaniquement, l’aspect exploration et découverte se retrouve dans deux principaux systèmes :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Le gain d’expérience : dans Numenera, aucun point d’expérience n’est distribué pour avoir terrassé un ennemi. On peut se battre, mais ça n’est qu’un moyen de faire avancer l’histoire, et pas le cœur du jeu. L’expérience est distribuée aux joueur·euse·s en fonction des découvertes faites en jeu : un nouvel artefact, une nouvelle vérité sur le monde par exemple. L’idée est d’encourager les joueur·euse·s à partir à la découverte du monde, par ce système incitatif.&lt;/li&gt;
+&lt;li&gt;Les Cyphers. Les Cyphers sont des objets technologico-magiques qui donnent aux personnages une capacité spéciale temporaire. Ils sont souvent très puissants, mais leur usage unique et le fait que les personnages ne peuvent en transporter que 2 ou 3 selon leur type limitent leur capacité à &amp;ldquo;casser le jeu&amp;rdquo;. Le Maître de Jeu est encouragé à les distribuer de manière généreuse, et aléatoire. Ainsi, les joueur·euse·s ont toujours dans leur poche 2 ou 3 objets qui peuvent changer la donne dans une situation où leurs capacités de base peuvent s’avérer insuffisantes. Leur profusion est là pour que les joueur·euse·s, qui sont toujours incroyablement économes de leurs objets consommables, puissent se détendre et les utiliser sans s’inquiéter de se retrouver à court.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;communauté-et-crafting&#34;&gt;Communauté et crafting&lt;/h3&gt;
+&lt;p&gt;Cet élément est le sujet principal du second livre de base, &lt;em&gt;Numenera Destiny&lt;/em&gt;. Les joueur·euse·s préférant jouer une bande d’aventuriers / explorateurs / vagabonds pourront se contenter du livre Discovery.
+Mais si vous êtes du genre à vouloir établir une base, à vous attacher aux personnages qui peuplent votre village, ou que vous voulez incarner un super ingénieur capable de fabriquer des défenses impénétrables ou tout bêtement un puits pour vos protégés, alors &lt;em&gt;Numenera Destiny&lt;/em&gt; sera un ajout important au jeu de base.&lt;/p&gt;
+&lt;p&gt;Mécaniquement, le jeu introduit la notion de communautés avec différents rangs, représentant leur défenses et leur accès à des technologies anciennes.
+Chaque type de personnage a accès à une capacité spéciale dans le contexte où il agit pour sa communauté.
+Enfin, &lt;em&gt;Numenera Destiny&lt;/em&gt; introduit tout un système de crafting avec une grande variété de plans (ou recettes) et des ingrédients de base pouvant être obtenus en explorant des ruines ou en recyclant Cyphers ou créatures adverses.&lt;/p&gt;
+&lt;h3 id=&#34;numenera-is-strange&#34;&gt;Numenera is Strange&lt;/h3&gt;
+&lt;p&gt;L’auteur Monte Cook insiste, Numenera doit être bizarre, chaque aventure fait intervenir des technologies insondables, dont la fonction initiale doit rester un mystère, chaque créature non-humaine est un amalgame de biologie et technologie, une abomination venant d’une autre dimension, ou une créature de cauchemar qui revêt peau humaine pour mieux nous dévorer.&lt;/p&gt;
+&lt;p&gt;Dans ce fatras bizarre, la seule chose qui semble familière, normale, banale, ce sont les humains, mais en même temps, on ne sait pas ce qu’ils font là, car après tout, un milliard d’années, c’est beaucoup trop de temps pour que la présence d’humains soit naturelle.&lt;/p&gt;
+&lt;h2 id=&#34;système-de-résolution&#34;&gt;Système de résolution&lt;/h2&gt;
+&lt;p&gt;Concrètement, comment se passe la résolution d’action ?&lt;/p&gt;
+&lt;p&gt;Très simplement, si vous maîtrisez bien votre table de 3. Le Maître de Jeu détermine une difficulté pour votre tâche, de 0 à 10. Pour la réussir, vous devez obtenir sur un D20 au moins le triple de la difficulté.&lt;/p&gt;
+&lt;p&gt;Le lecteur attentif aura remarqué que toute difficulté supérieure ou égale à 7 semble impossible. C’est juste, mais les joueur·euse·s ont plusieurs moyens de réduire la difficulté d’une tâche avant de faire le lancer.&lt;/p&gt;
+&lt;p&gt;Si vous êtes entraîné dans un type de tâches, vous réduisez la difficulté d’un cran. Si vous êtes non pas simplement entraîné, mais spécialisé, alors la difficulté est réduite de 2 crans.&lt;br&gt;
+Vous avez un outil qui peut vous aider dans votre entreprise ? Encore un cran ou deux de difficulté en moins.&lt;br&gt;
+Enfin, vous êtes prêt à puiser dans vos réserves de Force, Intellect ou Vitesse ? Alors au pris de quelques points en moins dans vos précieuses réserves, et vous pouvez réduire la difficulté d’un cran, voire plusieurs crans à plus haut niveau.&lt;/p&gt;
+&lt;p&gt;Ainsi, un personnage avancé avec de bonnes ressources et un entraînement adéquat peut réduire une tâche qui semblait impossible à quelque chose de trivial, et même obtenir un succès automatique.&lt;/p&gt;
+&lt;p&gt;Le système maintient l’élément aléatoire traditionnel de ce bon vieux d20, mais offre aux joueur·euse·s un degré de contrôle inédit : en dépensant ses points de Force, Intellect ou Vitesse, qui lui servent à la fois de point de vie et de carburant pour ses capacités spéciales, il ou elle peut améliorer ses chances de manière très significative, car chaque cran de difficulté en moins représente 15% de chances supplémentaires de réussir.&lt;/p&gt;
+&lt;h2 id=&#34;oui-mais-et-la-baston-&#34;&gt;Oui, mais et la baston ?&lt;/h2&gt;
+&lt;p&gt;Alors oui, bien sûr qu’il y a de la baston !&lt;/p&gt;
+&lt;p&gt;Les 3 types de base que sont le Glaive, le Nano et le Jack ainsi que la plupart des Foci regorgent d’options martiales, donc oui on peut trucider du monstre dans Numenera.&lt;/p&gt;
+&lt;p&gt;Mais le système reste très simple en la matière : les armes sont divisées en 3 grandes catégories de légères, moyennes et lourdes, avec des dégâts fixes de respectivement 2, 4 et 6 dégâts.
+Si vous réussissez une attaque, tâche dont la difficulté est déterminée par le niveau de votre cible, vous infligez vos dégâts, auxquels le MJ devra simplement retirer la valeur d’armure de l’adversaire, et c’est tout.
+Vous pouvez puiser dans vos points de Force pour augmenter vos chances d’atteindre votre cible, ou bien pour infliger davantage de dégâts, ou une combinaison des deux à plus haut niveau.&lt;/p&gt;
+&lt;p&gt;Les actions moins martiales fonctionnent de même : si vous souhaitez faire les yeux doux à un PNJ, la difficulté de la tâche est son niveau, et votre entraînement en relations sociales plaisantes va venir réduire la difficulté d’un cran ou deux.&lt;/p&gt;
+&lt;p&gt;Vous voulez passer discrètement derrière un monstre terrifiant : la difficulté reste fondamentalement la même, mais votre entraînement et vos outils sont peut-être plus adaptés qu’une approche frontale.&lt;/p&gt;
+&lt;h2 id=&#34;pour-le-maître-de-jeux&#34;&gt;Pour le Maître de jeux&lt;/h2&gt;
+&lt;p&gt;Ce système est un vrai plaisir à jouer pour le maître de jeu parce qu’il le libère de plusieurs maux qu’on retrouve dans les jeux d20 classiques comme D&amp;amp;D ou Pathfinder.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Le MJ n’a pas à faire de lancer. Quand les PNJs attaquent, c’est aux joueur·euse·s de faire des jets de défense. Pas de jets pour les dégâts, ils sont fixes.&lt;/li&gt;
+&lt;li&gt;Le MJ peut improviser facilement la difficulté de toute action tentée par les joueur·euse·s, il suffit de la choisir dans une échelle de 0 à 10. Instantané. Et si on y est allé un peu trop fort ou au contraire on a été un peu trop généreux, &lt;strong&gt;ce n’est pas bien grave !&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Les joueur·euse·s font les petits calculs savants nécessaires, vous êtes déchargé de ça et vous pouvez vous concentrer sur la description des scènes et l’ambiance. Ça n’a l’air de rien mais c’est très difficile de garder de la place mentale pour décrire les scènes de combat dans un système d20 où vous devez faire une addition, une soustraction, et une comparaison puis un lancer de dégât complémentaire pour déterminer le résultat d’une simple attaque.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Le jeu propose un système spécial pour le MJ appelé &amp;ldquo;Intrusions du MJ&amp;rdquo;, qui permet au MJ d’ajouter selon son bon vouloir une difficulté supplémentaire à toute situation. Pour amortir le coup porté au joueur victime de ce coup du sort, ce dernier reçoit un point d’expérience, et un point supplémentaire qu&amp;rsquo;il doit offrir à un petit camarade. Notez qu&amp;rsquo;un point d’expérience est non négligeable, c&amp;rsquo;est un quart des points nécessaires pour s&amp;rsquo;offrir une amélioration permanente sur sa fiche de personnage.&lt;/p&gt;
+&lt;p&gt;Les bestiaires de Numenera sont particulièrement réussis. En une page pour la plupart des créatures, vous avez leur stats de base, leur taille mise à l’échelle d’un humain, mais surtout des informations sur leur comportement et des idées de situations dans lesquelles les utiliser. C’est une vrai mine d’or pour créer des amorces de scenarii.&lt;/p&gt;
+&lt;h2 id=&#34;que-faire-jouer-&#34;&gt;Que faire jouer ?&lt;/h2&gt;
+&lt;p&gt;Le jeu se prête très bien à un modèle de campagne épisodique où les personnages sont amenés à explorer une série de ruines étranges.
+Alternativement, les joueur·euse·s peuvent créer leur communauté et se mettre en quête de ressources pour améliorer et protéger leur installation.
+Enfin, si vous avez besoin d’un grand objectif central pour votre campagne, vous pouvez très bien imaginer un groupe de personnages en quête de la réponse à une question fondamentale sur le monde. D’où viennent les humains du 9ème monde, par exemple.&lt;/p&gt;
+&lt;p&gt;Si vous préférez faire jouer des scenarii et campagnes pré-écrits, vous trouverez un grand nombre de publications sur le site de &lt;a href=&#34;https://www.montecookgames.com/store/product-category/all-products/numenera/&#34;&gt;Monte Cook Games&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Il y a là des campagnes entières (Into the Deep, Into the Night…) et des reliures de one-shots (les deux volumes de &amp;ldquo;Instant Adventures&amp;rdquo;) qui proposent un format original d’aventure courtes présentées en 4 pages et pouvant être jouées avec un minimum de préparation par le MJ.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Numenera a énormément de potentiel. Simple sans être simpliste, plutôt bien fourni au niveau bestiaire avec 3 volumes de monstres et créatures originales, le jeu offre une bonne synthèse entre le familier et l’étrange.&lt;/p&gt;
+&lt;p&gt;La principale difficulté pour moi restera de maintenir cet équilibre pour intéresser les joueur·euse·s. Si tout est extrêmement étrange, les joueur·euse·s risquent en effet de se détacher de l’univers, car il est difficile de s’intéresser à un monde où l’on n’arrive pas à se projeter un minimum. Mais si vous restez trop dans le familier heroic-fantasy, à quoi bon jouer à ce système dont les combat et l’évolution de personnage n’offrent pas la profondeur tactique de Pathfinder ou D&amp;amp;D. Au Maître de Jeu de faire l’effort de proposer des situations intrigantes tout en conservant des enjeux humains. Aux joueur·euse·s de faire un peu l’effort de se projeter dans ce monde bizarre et d’y avoir des objectifs qui sortent de la course à la puissance.&lt;/p&gt;
+&lt;p&gt;Il fait partie en tout cas des jeux que j’ai beaucoup aimé mener et que je compte revisiter, au moins le temps d’une campagne courte ou d’une série limitée d’épisodes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Premier Article - Ou comment je suis revenu au jeu de rôle à 37 ans</title>
+      <link>https://www.legendesdelatable.fr/articles/mon-premier-article/</link>
+      <pubDate>Sat, 18 Jul 2020 19:33:57 +0200</pubDate>
+      
+      <guid>https://www.legendesdelatable.fr/articles/mon-premier-article/</guid>
+      <description>&lt;p&gt;Aussi loin que je peux me souvenir, j’ai toujours aimé les jeux de rôle dans leur incarnation en jeux vidéo.
+Vers 8 ans, mes premiers grands jeux vidéo du genre furent Legend of Zelda premier du nom sur NES, puis au collège j’ai eu la chance de jouer à A Link to the Past sur Super NES, qui m’a amené à Secret of Mana, puis Final Fantasy VI puis Chrono Trigger. En parallèle, j’étais à cette époque un grand fan du vénérable jeu de cartes à collectionner Magic The Gathering™.&lt;/p&gt;
+&lt;p&gt;Bref mes loisirs préférés étaient baignés de l’influence de D&amp;amp;D™, mais je ne connaissais pas les jeux de rôle authentiques, ceux qu’on joue en frappant la table vigoureusement avec des dés multicolores aux formes étranges.&lt;/p&gt;
+&lt;p&gt;Bien plus tard, arrivé en École de Management™, j’ai pu rencontrer plus nerd que moi, et être initié, à coup de D&amp;amp;D 3.0, Nephilim, et Vampire The Masquerade.
+À vrai dire, on a joué un one-shot de chaque, personne ne captais rien à part notre MJ qui regrettait sans doute un peu de nous avoir embarqués dans sa passion, et on en est restés là.&lt;/p&gt;
+&lt;p&gt;Bien plus tard, début 2018 donc, je ne sais plus trop comment exactement, mais probablement sous l’influence de quelque marketing pernicieux, j’ai eu l’envie irrépressible de m’acheter le Player’s Handbook de D&amp;amp;D™ 5ème édition.
+Fort de cette replongée dans la matrice du JdR, je me suis lancé à la recherche d’un groupe sur le forum lyonnais dédié à notre vice, et j’y ai trouvé avec une grande facilité un groupe démarrant la campagne &lt;em&gt;The Curse of Strahd&lt;/em&gt;, pas encore disponible dans sa version camembérisée.&lt;/p&gt;
+&lt;p&gt;L’expérience a failli me faire rebrousser définitivement chemin. Je pensais trouver un jeu à la fois immersif et tactique, entrecoupé de franches tranches de rigolade, mais malheureusement c’était mou, poussif, zéro role-play, et notre MJ se débattait avec la langue de Vin Diesel et pénait beaucoup à nous traduire l’ambiance de Barovia. Après 3 sessions, les joueurs se sont débinés comme un seul homme.&lt;/p&gt;
+&lt;p&gt;Un peu dégouté des Gros Bills sans épaisseur de jeu, je me suis rabattu sur la maîtrise de partie, pour mon fils Valentin qui avait 6 ans, et deux de ses camarades de classe.
+Et bizarrement, malgré le côté étrange et contraignant des règles de D&amp;amp;D™ pour des enfants de cet âge, les tranches de franche rigolade étaient enfin là !
+Les gamins ont adoré les quelques sessions que j’ai organisées pour eux. Ils ont trucidé des gobelins et fait pisser de trouille leur roi, ils ont tué sans remord les enfants d’une guenaude des marais qui avaient pourtant encore forme humaine, ils ont dompté un louveteau après avoir terrassé sa mère féroce, bref, de bons moments passés ensemble.&lt;/p&gt;
+&lt;p&gt;C’était décidé, pour avoir l’expérience que je voulais, et jouer comme je l’entendais, il fallait se rendre à l’évidence : la seule solution, c’était de devenir &lt;strong&gt;Maître de Jeu&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
