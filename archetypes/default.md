@@ -4,6 +4,6 @@ date: {{ .Date }}
 draft: true
 author: Philippe Lemaire
 description:
-featured_image: "/images/"
+featured_image: "/images/book-shelf.jpg"
 ---
 
