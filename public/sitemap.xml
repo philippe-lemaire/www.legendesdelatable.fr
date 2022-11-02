@@ -1,193 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.legendesdelatable.fr/articles/</loc>
     <lastmod>2021-10-22T15:01:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/donjon-rampe-classiques/</loc>
     <lastmod>2021-10-22T15:01:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/</loc>
     <lastmod>2021-10-22T15:01:59+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/preparatifs-pour-l-apocalypse/</loc>
     <lastmod>2021-04-08T08:01:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/ironsworn/</loc>
     <lastmod>2021-01-01T09:24:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/ironsworn/</loc>
     <lastmod>2021-01-01T09:24:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/jdr-solo/</loc>
     <lastmod>2021-01-01T09:24:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/</loc>
     <lastmod>2021-01-01T09:24:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/thousand-year-old-vampire/</loc>
     <lastmod>2020-12-21T08:47:36+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/thousand-year-old-vampire-introduction/</loc>
     <lastmod>2020-12-21T08:47:36+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/root-le-jdr-nouveau-kit-de-de%CC%81marrage/</loc>
     <lastmod>2020-08-03T14:47:48+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/burning-wheel/</loc>
     <lastmod>2020-07-28T10:48:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/burning-wheel-creer-une-situation/</loc>
     <lastmod>2020-07-28T10:48:37+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/burning-wheel-creons-un-personnage/</loc>
     <lastmod>2020-07-25T12:08:32+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/jeux-en-attente-de-livraison/</loc>
     <lastmod>2020-07-23T08:47:36+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/burning-wheel-se-battre-pour-ses-croyances/</loc>
     <lastmod>2020-07-22T15:16:45+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/creer-un-aventurier-avec-des-failles/</loc>
     <lastmod>2020-07-21T09:24:50+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/blogroll/</loc>
     <lastmod>2020-07-20T08:11:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/a-propos/</loc>
     <lastmod>2020-07-20T08:11:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/dungeon-world/</loc>
     <lastmod>2020-07-19T14:50:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/dungeon-world-la-synthese-parfaite/</loc>
     <lastmod>2020-07-19T14:50:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/pbta/</loc>
     <lastmod>2020-07-19T14:50:41+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/cypher-system/</loc>
     <lastmod>2020-07-19T06:16:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/tags/numenera/</loc>
     <lastmod>2020-07-19T06:16:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/numenera-le-jeu-pour-les-mjs-qui-en-ont-marre-de-faire-des-maths/</loc>
     <lastmod>2020-07-19T06:16:51+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/articles/mon-premier-article/</loc>
     <lastmod>2020-07-18T19:33:57+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.legendesdelatable.fr/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
