@@ -34,3 +34,7 @@ SectionPagesMenu = "main"
   cover = "/images/book-shelf.jpg"
   recent_posts_number = 5
   AuthorName = "Philippe Lemaire"
+
+[[params.ananke_socials]]
+name = "ludosphere.fr (mastodon)"
+url = "https://ludosphere.fr/@phil"
