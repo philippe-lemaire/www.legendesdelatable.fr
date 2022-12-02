@@ -37,7 +37,13 @@ Le décompte des cailloux a lieu à huis clos, sous la surveillance des deux can
 
 Maintenant que la mairie est à Rouloé, la suite du plan semble de recruter les fidèles de Toison d'Or.
 
-Le souriceau pyromane revient avec des nouvelles. La congrégation de la Paix Éternelle sont installés dans la petite maison de géant au fond du jardin, là où il y a une statue de géante en porcelaine. En revanche ils ont prétendu que Lin était un hérétique et ont chassé son messager.
+Mais avant ça, la nouvelle administration Rouloé décide de s'occuper des pourparlers de paix avec les Pies Bleues.
+
+Pour les amadouer, elles décident de récupérer un grand tube de papier brillant situé dans l’espace de préparation des repas des Géants. Rouloé, Orin et Lin se faufilent en ces lieux dangereux, mais ils sont repérés par **Sabrina**, la chatte sorcière. Après quelques négociation, elle accepte d'aider les souris et de tracter le rouleau de papier aluminium et de le faire tomber dans Port Brique, en échange du sort de non vie. Rouloé a pris soin d’épuiser toute la magie nécromantique du sort avant de le lâcher à Sabrina, mais celle-ci se voit déjà en maîtresse absolue du Domaine avec ce nouveau sort.
+
+Les Souris constituent quelques cubes de papier aluminium et partent négocier un traité de paix avec les Pies. Une pie mâle vient à leur rencontre. Rouloé lance son sort de compréhension et dispose de 10mn pour les pourparlers. Le mâle est vivement intéressé par le **qui brille**, pour faire un beau nid qui attirera les femelles, et assurera sa descendance. Il accepte de faire la paix avec les souris, mais réclamera davantage de **qui brille**. Cependant, il reuse catégoriquement de servir de monture volante aux Souris, car le brillant, c'est bon pour le prestige, mais faire la monture volante, c'est bon pour les pigeons.
+
+Après ces négociations au sommet, le souriceau pyromane revient avec des nouvelles. La congrégation de la Paix Éternelle sont installés dans la petite maison de géant au fond du jardin, là où il y a une statue de géante en porcelaine. En revanche ils ont prétendu que Lin était un hérétique et ont chassé son messager.
 
 Lin, Rouloé et Orin se rendent sur place, et rencontrent à l'entrée des souris en robe de bure, qui entretiennent un potager. Elles ont un comportement un peu léthargique, mais chantent littéralement les louanges de Toison d'Or qui apportera la Paix Éternelle sur le domaine. Elles proposent aux visiteurs de passer le rituel de purification, qui consiste à sauter dans un grand seau d'eau pas très claire. Les visiteurs se retirent poliment, et alors qu'ils échafaudent un plan pour récupérer ce qui donne tant d'influence à Toison d'Or, un jeune souriceau les interpelle et leur explique qu’il cherche à tirer sa sœur des griffes de ces fanatiques.
 
