@@ -36,5 +36,5 @@ SectionPagesMenu = "main"
   AuthorName = "Philippe Lemaire"
 
 [[params.ananke_socials]]
-name = "ludosphere.fr (mastodon)"
+name = "mastodon"
 url = "https://ludosphere.fr/@phil"
