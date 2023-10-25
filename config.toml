@@ -34,7 +34,8 @@ SectionPagesMenu = "main"
   cover = "/images/book-shelf.jpg"
   recent_posts_number = 5
   AuthorName = "Philippe Lemaire"
+  DateFormat = "02 January 2016"
 
 [[params.ananke_socials]]
 name = "mastodon"
-url = "https://ludosphere.fr/@phil"
+url = "https://dice.camp/@phil"
