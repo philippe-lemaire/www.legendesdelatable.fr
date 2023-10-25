@@ -56,17 +56,17 @@ Arrivés en vue de la ville de Granklin, qui occupe un pont sur la rivière tail
 
 ###  Rencontres en ville
 
-À la Taupe Maltée, les Joueurs ont rencontré un grand bûcheron du coin, qui leur a expliqué dans un drôle d'accent du nord que les bûcherons locaux ne sont pas de simples brutes munies de hâches, mais des exorcistes du bois. En effet chaque arbre de cette forêt abrite un Esprit qu'il faut amadouer et maîtriser pour pouvoir espérer abattre un arbre. Les gens du sud et leurs marchands présent dans la région sont avides de ce bois de luxe pour construire châlets et manoirs, mais l’exploitation ne peut se faire qu’à un rythme soutenable pour tous, malgré la pression du marché.
+À la Taupe Maltée, les Joueurs ont rencontré un grand bûcheron du coin, qui leur a expliqué dans un drôle d'accent du nord que les bûcherons locaux ne sont pas de simples brutes munies de hâches, mais des exorcistes du bois. En effet chaque arbre de cette forêt abrite un Esprit qu'il faut amadouer et maîtriser pour pouvoir espérer récupérer du bois en paix. Les gens du sud et leurs marchands présents dans la région sont avides de ce bois de luxe pour construire châlets et manoirs, mais l’exploitation ne peut se faire qu’à un rythme soutenable pour tous, malgré la pression du marché.
 
-Ce bûcheron-exorciste leur a également révélé la nature magique de l'écorce des pins mauves, qui permettent de lancer des sorts à usage unique, et le conflit qui oppose les exorcistes à une bande de fanatiques du Grand Élan Mystique qui veulent mettre le feu à la Forêt. Ces fous du feu se masquent le visage avec des crânes et des bois d'élan, et attaquent régulièrement les bûcherons qui travaille un peu plus au Nord.
+Ce bûcheron-exorciste leur a également révélé la nature magique de l'écorce des pins mauves, qui permettent de lancer des sorts à usage unique, et le conflit qui oppose les exorcistes à une bande de fanatiques du Grand Élan Mystique qui veulent mettre le feu à la Forêt. Ces fous du feu se masquent le visage avec des crânes et des bois d'élan, et attaquent régulièrement les bûcherons qui travaillent un peu plus au Nord.
 
-Autre rencontre dans la taverne, une bande de musiciens folkloriques du coin, toujours preneurs de nouvelles chansons. Une des leurs s’ouvre à Pisa qu'elle a perdu une mbira dans les marais au nord ouest, car une mite à bijou lui a volé l’instrument metallique et brillant. Elle lui apprend aussi que les chansons nouvelles ont une certaine valeur : non loin d'ici vivent une tribu de Truffier, cochons humanoïdes qui échangent des airs contre des truffes.
+Autre rencontre dans la taverne, une bande de musiciens folkloriques du coin, toujours preneurs de nouvelles chansons. Une des leurs s’ouvre à Pisa du fait qu'elle a perdu une [mbira](https://fr.wikipedia.org/wiki/Mbira) dans les marais au nord ouest, car une mite à bijoux lui a volé l’instrument metallique et brillant. Elle lui apprend aussi que les chansons nouvelles ont une certaine valeur : non loin d'ici vit une tribu de Truffiers, cochons humanoïdes qui échangent des airs contre des truffes.
 
 ### Premiers déplacements dans les bois
 
 Le lendemain, les joueurs ont entamé l’exploration des bois.
 
-Les mécaniques d’exploration de Cairn sont assez simples. : la journée est divisée en 3 périodes : matin, après-midi, et nuit.
+Les mécaniques d’exploration de Cairn sont assez simples. La journée est divisée en 3 périodes : matin, après-midi, et nuit.
 Pour chaque période, les joueurs décident de leur action :
 
 - se déplacer vers un nouveau lieu
@@ -81,18 +81,20 @@ Pour chaque période, les joueurs décident de leur action :
 - 5 : les personnages se fatiguent et perdent du temps ou une ressource
 - 6 : Découverte : les personnages trouvent une ressource, un trésor, ou tout simplement le point d'intérêt principal de la zone où ils sont.
 
+*NB* Cette table n'est pas exactement celle de Cairn 2e, mais celle proposée dans le module. Dans Cairn 2e, les rencontres sont seulement 1 coup sur 6, et il y a un risque de perte en plus du risque de fatigue. Mais c’est un micro-détail.
+
 Dans ce premier temps de jeu, les personnages ont joué de malchance et on tiré un 5 et Percy a perdu une de ses affaires.
 Lors de la seconde phase de leur voyage vers les Truffiers, j’ai encore tiré un 5 et infligé un point de fatigue à tous le monde (la fatigue occupe des emplacement d'inventaire qui sont limités).
 
 ### Rencontres, et découvertes
 
-Les joueurs ont rencontré et sympathisé avec les Truffiers, et chacun y a été de sa chansonnette, et obtenu une précieuse truffe. Il leur ont indiqué la direction du Marais, et que le Grand Élan Mystique était un esprit des bois plutôt effrayant car il aimait les grands feux de forêt.
+Les joueurs ont rencontré et sympathisé avec les Truffiers, et chacun y a été de sa chansonnette, et obtenu une précieuse truffe. Il leur ont indiqué la direction du Marais, et que le **Grand Élan Mystique** était un esprit des bois plutôt effrayant car il aimait les grands feux de forêt.
 
 ![Truffiers](/images/exalted-order/truffiers.png)
 
-Les Truffiers étant un peu fanfaronds et du genre à jouer de la musique toute la nuit, les personnages ont dormi dans les bois à quelque distance, décidés à se rendre au Marais pour retrouver l'instrument musical volé par les Mites à bijou.
+Les Truffiers étant un peu fêtards et du genre à jouer de la musique toute la nuit, les personnages ont dormi dans les bois à quelque distance, décidés à se rendre au Marais pour retrouver l'instrument musical volé par les Mites à bijou.
 
-La nuit, ils ont fait une rencontre étrange, un groupe de corbeaux à tête de brûleur d'encens leur a rendu visite. Sentant un danger, les oiseaux noirs ont frappé un arbre de leur tête métallique et ont ainsi fait émerger un crâne brûlant d'un feu mauve. Le crâne s'est présenté en ricanant et a prétendu être le Grand Élan pour leur faire peur. Il a exigé une offrande, et Percy a accepté de brûler sa truffe dans la flamme du crâne, qui l’a récompensé en l'emmenant dans les bois, à un endroit où était enterré un casque magique. Ce casque bloque la vue, mais augmente considérablement le sens de l’ouïe de celui qui le porte.
+La nuit, ils ont fait une rencontre étrange, un groupe de corbeaux à tête de brûleur d'encens leur a rendu visite. Sentant un danger, les oiseaux noirs ont frappé un arbre de leur tête métallique et ont ainsi fait émerger un crâne brûlant d'un feu mauve. Le crâne s'est présenté en ricanant et a prétendu être le **Grand Élan Mystique** pour leur faire peur. Il a exigé une offrande, et Percy a accepté de brûler sa truffe dans la flamme du crâne, qui l’a récompensé en l'emmenant dans les bois, à un endroit où était enterré un casque magique. Ce casque bloque la vue, mais augmente considérablement le sens de l’ouïe de celui qui le porte.
 
 ![corbeaux à tête d'encensoir](/images/exalted-order/corbeau-encensoir.png) ![crâne aux flammes violettes](/images/exalted-order/jacky-lantern.png)
 
