@@ -100,9 +100,9 @@ Plus loin, le temps s’est gâté sérieusement, et nos aventuriers trempés d�
 
 Enfin, à l'entrée du Marais, les aventuriers ont découvert une chapelle abandonnée, encore une fois en fin de journée au moment  de se décider à monter un camp. Comme la pluie continuait, ils ont décidé de dormir dans la nef dont le toit était moins percé que le reste.
 
-Percy a trouvé un livre de prière écrit tout en chauves-souris tracées à l’encre, chose bien mystérieuse mais dont Pisa a entendu parlé. Le livre vaut une fortune auprès de connaisseurs. Mais durant la nuit, une bande de Chauve-Souris géantes se pointe dans la Chapelle, et les pipistrelles (de la taille d’un sanglier) semblent courroucées de la disparition du livre. Percy le leur rend gentiment, et elles s’apaisent.
+Percy a trouvé un livre de prière écrit tout en chauves-souris tracées à l’encre, chose bien mystérieuse mais dont Pisa a entendu parler. Le livre vaut une fortune auprès de connaisseurs. Mais pendant la nuit, une bande de Chauve-Souris géantes se pointent dans la Chapelle, et les pipistrelles (de la taille d’un sanglier) semblent courroucées de la disparition du livre. Percy le leur rend gentiment, et elles s’apaisent.
 
-Pendant que tout le monde dort, sauf Ébon qui veillait en restant extraordinairement immobile, l’événement que les chauves-souris attendaient est arrivé. Une espèce de spectre mi-chauve-souris mi-dragon blanc a fait son apparition et a volé tout autour d’eux, passant par les trous du toit et l’entrée de la chapelle à plusieurs reprises. Après cette visite, les chauves-souris ont quitté les lieux, laissant leur précieux missel, que les personnages se sont refusés à leur chiper.
+Pendant que tout le monde dort, à l'exception d’Ebon qui veillait en restant extraordinairement immobile, l’événement que les chauves-souris attendaient est arrivé. Une espèce de spectre mi-chauve-souris mi-dragon a fait son apparition et a volé tout autour d’eux, passant par les trous du toit et l’entrée de la chapelle à plusieurs reprises. Après cette visite, les chauves-souris ont quitté les lieux, laissant leur précieux missel, que les personnages se sont refusés à leur chiper.
 
 ![Fantôme Dieu Chauve-Souris](/images/exalted-order/ghost-bat.png)
 
