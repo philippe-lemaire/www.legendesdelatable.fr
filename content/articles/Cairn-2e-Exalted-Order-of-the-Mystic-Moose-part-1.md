@@ -88,15 +88,23 @@ Lors de la seconde phase de leur voyage vers les Truffiers, j’ai encore tiré 
 
 Les joueurs ont rencontré et sympathisé avec les Truffiers, et chacun y a été de sa chansonnette, et obtenu une précieuse truffe. Il leur ont indiqué la direction du Marais, et que le Grand Élan Mystique était un esprit des bois plutôt effrayant car il aimait les grands feux de forêt.
 
+![Truffiers](/images/exalted-order/truffiers.png)
+
 Les Truffiers étant un peu fanfaronds et du genre à jouer de la musique toute la nuit, les personnages ont dormi dans les bois à quelque distance, décidés à se rendre au Marais pour retrouver l'instrument musical volé par les Mites à bijou.
 
 La nuit, ils ont fait une rencontre étrange, un groupe de corbeaux à tête de brûleur d'encens leur a rendu visite. Sentant un danger, les oiseaux noirs ont frappé un arbre de leur tête métallique et ont ainsi fait émerger un crâne brûlant d'un feu mauve. Le crâne s'est présenté en ricanant et a prétendu être le Grand Élan pour leur faire peur. Il a exigé une offrande, et Percy a accepté de brûler sa truffe dans la flamme du crâne, qui l’a récompensé en l'emmenant dans les bois, à un endroit où était enterré un casque magique. Ce casque bloque la vue, mais augmente considérablement le sens de l’ouïe de celui qui le porte.
+
+![corbeaux à tête d'encensoir](/images/exalted-order/corbeau-encensoir.png) ![crâne aux flammes violettes](/images/exalted-order/jacky-lantern.png)
 
 Plus loin, le temps s’est gâté sérieusement, et nos aventuriers trempés découvrent un pont sous lequel passer la nuit, mais il est occupé par des petits êtres de la forêt aux yeux grands comme des soucoupes. Ils ne sont pas bavards, mais très curieux, et ne lâcheront plus leurs nouveaux amis très intéressants.
 
 Enfin, à l'entrée du Marais, les aventuriers ont découvert une chapelle abandonnée, encore une fois en fin de journée au moment  de se décider à monter un camp. Comme la pluie continuait, ils ont décidé de dormir dans la nef dont le toit était moins percé que le reste.
 
-Percy a trouvé un livre de prière écrit tout en chauves-souris tracées à l’encre, chose bien mystérieuse mais dont Pisa a entendu parlé. Le livre vaut une fortune auprès de connaisseurs. Mais durant la nuit, une bande de Chauve-Souris géantes se pointe dans la Chapelle, et semble courroucées de la disparition du livre. Percy le leur rend gentiment, et elles s’apaisent. Pendant que tout le monde dort, sauf Ébon qui veillait en restant extraordinairement immobile, l’événement que les chauves-souris attendaient est arrivé, une espèce de spectre mi-chauve-souris mi-dragon blanc a fait son apparition et a volé tout autour d’eux, passant par les trous du toit et l’entrée de la chapelle à plusieurs reprises. Après cette visite, les chauves-souris ont quitté les lieux, laissant leur précieux missel, que les personnages se sont refusés à leur chiper.
+Percy a trouvé un livre de prière écrit tout en chauves-souris tracées à l’encre, chose bien mystérieuse mais dont Pisa a entendu parlé. Le livre vaut une fortune auprès de connaisseurs. Mais durant la nuit, une bande de Chauve-Souris géantes se pointe dans la Chapelle, et les pipistrelles (de la taille d’un sanglier) semblent courroucées de la disparition du livre. Percy le leur rend gentiment, et elles s’apaisent.
+
+Pendant que tout le monde dort, sauf Ébon qui veillait en restant extraordinairement immobile, l’événement que les chauves-souris attendaient est arrivé. Une espèce de spectre mi-chauve-souris mi-dragon blanc a fait son apparition et a volé tout autour d’eux, passant par les trous du toit et l’entrée de la chapelle à plusieurs reprises. Après cette visite, les chauves-souris ont quitté les lieux, laissant leur précieux missel, que les personnages se sont refusés à leur chiper.
+
+![Fantôme Dieu Chauve-Souris](/images/exalted-order/ghost-bat.png)
 
 ## Conclusion
 
