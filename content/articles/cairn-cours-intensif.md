@@ -15,33 +15,37 @@ featured_image: "/images/book-shelf.jpg"
 
 ## Introduction
 
-Hello there. There has been a lot of new blood injected into the OSR/NSR space recently. I'll leave the hot takes as to why to Twitter, but a direct result of this infusion is that I have seen a lot of questions revolving around the OSR/NSR in general and Cairn in particular. Thus, in this particular post I shall endeavor to explain some of the particulars of the OSR playstyle for those completely new to this part of the hobby, but mostly I'm going to focus on Cairn and the questions that frequently come up over on the Cairn Discord.
+Salut à tous et toutes. Il y a beaucoup de sang neuf dans le mouvement OSR/NSR dernièrement. Je laisserai les explications provocatrices à Twitter, mais un effet direct de cet afflux est que j'ai pu voir un *grand nombre* de questions à propos de l’OSR/NSR en général, et de Cairn en particulier. Donc, dans ce billet, je vais tenter d’expliquer certains des particularismes du style OSR pour celles et ceux pour qui cette partie de notre hobby est nouvelle, mais je vais principalement m’intéresser à Cairn et aux questions qui sont fréquemment posées sur le Discord de Cairn.
 
-So who should read this blog post? I mean, in general anyone who loves my writings (hi, Mom!), but in particular the following groups of people:
+À qui s'adresse ce billet ? En général, à celles et ceux qui adorent mes textes (salut Maman !), mais en particuliers aux groupes de personnes suivants :
 
-    People new to the OSR/NSR space, whether they are new to the hobby or just this corner of it, and don't want to read the 30+ page Principia Apocrypha.
-    People who are interested in Cairn but haven't played it/run it/read tons of blog posts by Chris McDowall.
-    People who want to understand why I seem to capitalize Fiction and Fictionally when I shouldn't.
+- Celles et ceux qui débarquent dans les espaces OSR/NSR, qu'elles soient nouvelles dans le hobby ou seulement dans ce petit recoin du hobby, et qui ne veulent pas lire les 30 pages et plus du [Principia Apocrypha](https://la-caravelle.itch.io/principia-apocrypha) *NdT: lien vers la VF par Eric Nieudan*
+- Les personnes intéressées par Cairn mais qui n’y ont pas encore joué, ne l’ont pas encore lu, ou n’ont pas lu une tonne de billets écrits par [Chris McDowall](https://www.bastionland.com/).
+- Les gens qui veulent comprendre pourquoi je mets une majuscule à Fiction et Fictivement quand je ne devrais pas.
 
-We'll start with a (really basic) overview of some mechanics and principles of OSR play. You can skip this upcoming section if you've ever read or played a version of B/X D&D or a retro-clone. I'm mostly writing this part for the people coming to us from the 5e or story-game space that have never dipped their toes into the OSR blogosphere or rulesets.
+On va démarre avec un survol (très basique) de certaines méchaniques et principes du style de jeu OSR. Vous pouvez sauter cette section si vous avez déjà lu ou joué une version de D&D B/X (*NdT D&D version Basic / Expert*) ou un retro-clone. J'écris cette partie à destination des joueurs et joueuses venant à nous des espaces où on joue à la 5è édition ou à des jeux plus narratifs, et qui n'ont jamais mis les pieds dans la blogosphère OSR ou ces livres de règles classiques.
 
-## OSR Basics
+## Les bases de l’OSR
 
 ![OSR Logo in blue and white](https://i.imgur.com/AT1SAJK.png)
 
-OSR stands for Old School Revival or Old School Renaissance, depending on who you ask. There's a lot of argument over what the OSR is, how old its principles actually are, whether it is dead, etc. Regardless of its origins or exact definition, it is a very different playstyle compared to anything that people who started with 3rd edition D&D (me) or later are likely to have developed on their own. This is my attempt to briefly explain some of the core conceits and mechanics of the playstyle that often seem to trip people up. It is not an exhaustive list by any means, and any attempt to make it so would just be rewriting an existing OSR primer.
+OSR signifie Old School Revival ou Old School Renaissance, selon à qui on demande.
+Il y a beaucoup de débats à propos de ce que c’est, de l’ancienneté réelle de ses principes, de la mort de l’OSR, etc.
+Quelles que soient ses origines et son exacte définition, c’est une manière de jouer très différente, comparée à tout ce que les personnes ayant démarré avec la 3ème Édition de D&D (l'auteur) ou plus récente encore ont pu développer par eux-mêmes. Ceci est une tentative d'explication des concepts clés et des mécaniques particulières de ce style de jeu qui confondent souvent les nouveaux joueurs. Ce n'est pas une liste exhaustive, sinon cela reviendrait à réécrire une introduction complète à l'OSR, comme il en existe déjà.
 
-### Conceit #1: Characters Earn Originality
+### Concept N°1: Les Personnages gagnent leur originalité en jeu.
 
-In a lot of more traditional roleplaying games, you spend a lot of time creating an original character concept, writing up backstories of varying lengths, and using elaborate character creation systems that are designed to facilitate this originality by providing opportunities for customization. A character in an OSR game can typically be generated in a few dice rolls and some scrawled notes on an index card. This is important because the world doesn't care about your character in an OSR game. Bad decisions, or bad luck, can kill your character and derail any attempts to weave elaborate backstories into the narrative. This tends to mean that characters that do develop originality do so by surviving and being successful, earning originality as they make their mark on the world through their in-game actions.
+Dans un paquet de jeux de rôle traditionnels, vous passez un bon moment à créer un personnal au concept original, en concoctant un historique de longueur variable, en utilisant un système élaboré de création de personnage qui est conçu pour faciliter l’originalité en vous donnant un grand nombre d'options. Un personnage dans un jeu OSR peut au contraire être créé suite à quelques jets de dés et des notes gribouillées sur un bout de papier. Cela a son importance, car le monde n’a que faire de votre précieux personnage dans un jeu OSR. Mauvais choix, ou simple « pas d’chance », et votre personnage va mourrir, ce qui fera dérailler toute velleité d’intégrer une origine élaborée dans la narration.
+Cela signifie que les personnages qui finissent par développer une originalité le  font en survivant et réussisant leurs aventures, gagnant leur originalité en influançant le monde via leurs actions en jeu.
 
-### Conceit #2: Discovery Through Interaction, Not Dice.
+### Concept N°2: Découverte par les interactions, et pas les dés.
 
-In more traditional games, it is typical for players to roll to determine if they spot traps, a secret door, or an enemy waiting in ambush. This is frowned upon in many OSR games, because secrecy and discovery are some of the main driving forces of the playstyle. As a result, you are expected to investigate places and objects via describing your character's actions, using critical thinking and common sense to uncover things and avoid hazards. For some games with a different focus this would be considered a waste of time, but sometimes a lack of mechanical focus tells you what a game or playstyle wants to spend time on.
+Dans des jeux plus traditionnels, les joueurs font des jets de dés pour déterminer si leurs personnages détectent des pièges, des portes secrètes, ou des ennemis en embuscade.
+C'est plutôt mal vu dans les jeux OSR, car les secrets et la découverte sont un des moteurs du style de jeu. C'est pourquoi on attend des joueuses qu'elles étudient les lieux et les objets d'une aventure en décrivant les actions de leurs personnages, en utilisant une pensée critique et logique pour découvrir des secrets et éviter le danger. Dans certains jeux se concentrant sur d'autres aspects, cela serait considéré comme une perte de temps, mais parfois une absence de mécanique dédiée en dit beaucoup sur les aspects sur lesquels le jeu ou le genre attend que vous passiez du temps.
 
-### Conceit #3: No Social Skills/Checks
+### Concept N°3: Pas de jet de compétences sociales
 
-Similar to the preceding point, characters are generally expected to talk to anything they come across, not roll a skill check to see how the social interaction went. This doesn't mean that everyone is talking in-character in funny voices at every OSR table (although sometimes this is true). In general the idea is to make players figure out the general premise of what their characters want to say and how they want to say it. This rewards player investigation into the people, places, and things of the world they are playing in. It also helps every player to feel like they can contribute to a conversation, not just the ones that have the attributes and skills for it.
+Comme dans le concept précédent, on présume que les personnages vont parler avec toutes les créatures rencontrées, et non pas faire un test mécanique pour voir comment l'intéraction sociale s'est passée. Ça ne veut pas dire que tout le monde joue un rôle à la première personne et une voix rigolote en permanence dans un groupe OSR (même si parfois c'est le cas). L'idée est que que les joueurs trouvent les grandes lignes de ce que leurs personnages veulent dire et de quelle manière. Cela valorise la découverte des personnages, lieux et objets du monde du jeu. Cela permet aussi à chaque joueur de contribuer aux conversations, et pas seulement ceux qui bénéficient de statistiques et attributs avantageux mécaniquement.
 
 ### Conceit #4: Game Master Neutrality
 
