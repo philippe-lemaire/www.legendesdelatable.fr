@@ -83,51 +83,60 @@ Un autre outil dans votre besace "rester neutre". Les PNJs font ces tests pour v
 
 C’est une mécanique utile à la fois pour gagner du temps (la fin d’une bataille clairement gagnée est plutôt barbante), pour déterminer justement le comportement adverse, et enfin, peut-être le plus important, pour mettre dans la tête des PJs que la fuite est une option viable.
 
-## Cairn Frequently Asked Questions and Misconceptions
+## Foire aux questions Cairn et erreurs fréquentes
 
-For Use With Cairn These are the things that come up a lot on the Cairn Discord, Reddit, etc. This list is obviously not definitive either, but if I have to answer it enough on the Cairn Discord it will likely be added.
-### What is HP?
+Voici une liste de questions et de clarifications qui reviennent souvent sur le Discord de Cairn, sur Reddit, etc.
 
-HP is short for Hit Protection. It's all of the vigor, skill, and luck that a PC or NPC possesses that allows them to avoid damage. If a PC still has HP, they have not been hit in a way that would cause them lasting harm. This is a really important thing to keep in mind when describing Combat for aesthetic reasons, but also because it helps you adjudicate things on the fly like poisons, draining touch attacks, and being mauled by a Grizzly Bear.
+### C’est quoi les PC (*NdT: HP en VO*)?
 
-A common mistake I see with HP is when adjudicating traps. Traps typically target attributes directly, often Strength. Fictionally this makes sense, but mechanically there is a very good reason for this as well: HP is easily recovered in Cairn, and so many traps would be trivialized as a result.
-### The How and Why of Critical Damage
+PC est l'abréviation de Protection des Coups. C'est toute la vigueur, l’habileté et la chance que possède un PJ ou PNJ qui leur permettent d’éviter des dégâts sérieux. Tant qu’il lui reste des PC, un personnage n’a pas subit de dégâts durables. C’est vraiment important à garder en tête pour décrire les combats, pour des raisons esthétiques, mais aussi parce que cela aide à arbitrer des situations à la volée comme le poison, une attaque vampirique au contact, ou bien se faire déchiqueter par un Grizzly.
 
-Critical Damage happens when a PC or NPC runs out of HP and the damage gets into their Strength. The important thing to remember here is that when STR damage occurs it means that a solid hit has taken place, but it doesn't mean that hit is a mortal wound. In order to determine that, a Critical Damage save is made using a PC or NPC's reduced Strength score.
+Une erreur fréquente que je vois avec les PC est dans l'interprétation des pièges. Les pièges réduisent les attributs directement, généralement la Force. Dans la Fiction c’est logique, le piège vous a pris par surprise, mais qui plus est il y a une bonne raison mécanique: les PC se restaurent très facilement dans Cairn, il suffit de se reposer quelques instants. Si les pièges n’infligeaient pas de dégâts directement aux attributs, ils seraient sans mordant.
 
-A character that passes this save has been weakened, but manages to avoid a critical injury. They are the character that, though stabbed, forces their attacker away before any serious damage to their vitals occurs. They are the PC that dislodges the snake before deadly venom can be pumped into their veins.
+### Le pourquoi et le comment des Dégâts Critiques
 
-A failure on a Critical Damage save means that the PC or NPC's strength has failed them. They are incapacitated at best, and potentially face more deadly or lasting consequences depending on the nature of the threat they are facing.
-### Armor: Mechanical and Fictional Benefits
+Les Dégâts Critiques interviennet quand un PJ ou PNJ a épuisé ses PC et que les dégâts reçus commencent à réduire leur Force. Il est important de se rappeler que quand la Force est réduite ainsi, cela veut dire qu’un coup sérieux a porté, mais cela ne signifie pas que le personage est mis hors d’état de nuire. Pour le déterminer, un jet de sauvegarde contre les Dégâts Critique doit être fait par la victime, avec son nouveau score de Force réduit.
 
-The first thing to understand about Armor is that you can never go above 3 Armor. This is important, as even an impaired attack has the potential to do damage, but higher Armor would render this impossible. If you are designing an NPC and you feel like they should have more than 3 Armor, they should probably just be immune to normal attacks (and this immunity should be clearly telegraphed to players).
+Un personnage qui réussi ce test a été affaibli, mais n’a pas subit de blessure critique. Ce sont les personnages qui, bien que transpercés par endroits, arrivent à repousser leur adversaire avant que leurs organes vitaux ne soient atteints. Ce sont les PJs qui arrachent le serpent qui vient de mordre avant que le poison ne leur soit injecté dans les veines.
 
-While there is no mechanical distinction between many of the various sources of Armor by default, Fictionally it matters a great deal what a PC is using. Chainmail and shield is functionally the same as Plate, but if you fall into a body of water you will be thankful if you have the former and dead if you are wearing the latter. Shields can be wedged into trap mechanisms (or the maws of monsters), while helmets can help protect your head from falling debris.
-### Scars
+Un échec sur un jet contre les Dégâts Critiques signifie que le corps a laché. Il est à terre au mieux, et risque la mort ou des conséquences durables selon la situation et la nature de l’adversité.
 
-Scars occur when a PC (not NPC) is reduced to exactly 0 HP, but does not suffer any Strength damage from the attack. If Armor prevents an attack from reducing a PC to 0 HP, a Scar is not inflicted. If even a single point of STR damage is inflicted, a Scar does not occur.
+### Armure : avantages mécaniques et dans la fiction
 
-A PC gets the Scar that corresponds to the amount of damage dealt to them that brought them to 0 HP (Armor reduces this amount). Thus, a PC with 2 Armor with 5 HP that was hit with a 7 damage attack would take Scar #5.
-### NPCs and Exceptions
+La première chose à comprendre avec l’armure est que le maximum est 3. C'est important, car même une attaque atténuée (1d4) a la capacité d’infliger des dégâts. Si vous créez un PNJ ou une créature et qu'il vous semble qu’elle devrait avoir plus de 3 Armure, elle devrait probablement plutôt être immunisées aux attaques normales (et cette immunité devraiet être clairement télégraphiée aux joueurs).
 
-NPCs follow most of the same rules as PCs, with a few exceptions:
+Il n’y a pas de différence mécanique entre différentes sources d’armure, dans la Fiction, le type d’armure utilisé est important. Côte de Mailles + Bouclier offre la même réduction de dégâts que Harnois (Armure 3), mais si vous tombez à l’eau, vous pourrez nager dans un cas et vous vous noierez à coup sûr dans l’autre. Les boucliers peuvent êtres coincés dans les mécanismes des pièges (ou la gueule des monstres), tandis que les casques peuvent protéger de chutes de débris.
 
-- NPCs must make Critical Damage saves just like PCs, but failure results in their death (unless the PC and Warden decide otherwise).
-- NPCs do not gain Scars.
-- NPCs do not always have all attributes listed. An unlisted attribute means that they have a 10 in said attribute, **not that they lack the attribute entirely**.
+### Les Cicatrices
 
-### Saves, Not Checks
+Un PJ (pas un PNJ) gagne une Cicatrice quand ses PC sont réduits à exactement 0, mais sans perte de Force suite à une attaque. Si l’Armure empêche la chute à 0 PC, alors pas de Cicatrice. Même si un seul point de Force est retranché, pas de Cicatrice.
 
-There are no such things as Ability Checks or Skill Checks in Cairn. In Cairn, your goal is generally to overcome obstacles through Teamwork, Planning, Caution, and critical thinking (notice that the capitalized terms are Player Principles). This blog post is useful when determining whether a situation calls for a Save or not.
+Un PJ obtient la Cicatrice qui correspond au montant de dégâts reçus qui les a amenés à 0 PC (après réduction de l'Armure). Par example, un PJ avec 2 Armure et 5 Protection des Coups qui subit une attaque de 7 dégâts se retrouve avec la cicatrice N°5 dans la table des Cicatrice. Ne lancez pas de dé dans cette table !
 
-If there is nothing at risk, there is no reason to Save. This is a hard habit to break for those who are used to calling for more traditional Checks in situations where you are uncertain of the outcome but there is nothing really at risk. If a situation is not risky, simply assign a cost in time or resources that seems reasonable (or just let them do it for things that are trivial enough).
+### PNJs et Exceptions
 
-If the player in question isn't satisfied with the cost as assigned in such situations, they can always put themselves in a risky situation in order to potentially change the cost to be more in their favor. A good blog to read on this subject would be Dilemmas: Pick or Push by Chris McDowall.
-### What About Difficulty?
+Les PNJs suivent les mêmes règles que les PJs, avec quelques exceptions :
 
-When a Save is made, you have the same odds regardless of the size of the risk you are taking. When grappling with this realization, many people instinctively reach for Advantage and Disadvantage as a way to fix this "problem".
+- Les PNJs doivent faire des jets contre les dégâts critiques comme les PJs, mais un échec signifie leur mort (sauf si les PJs et le Gardien en décident autrement).
+- Les PNJs ne gagnent pas de Cicatrice.
+- Les PNJs n’ont pas toujours toutes les caractéristiques affichées. Un attribut non fourni signifie une valeur de 10, **et non pas qu'ils n’ont pas du tout cette caractéristique.**.
 
-Instead of doing that, it is more helpful to instead ask yourself "What exactly is at risk if the Save results in a failure?". Just as not all risks are the same, the consequence of failure should not be either. For a more in-depth explanation of this approach, please read Difficulty in Bastionland by Chris McDowall and Advantage and Impact by Dreaming Dragonslayer.
+### Des Sauvegardes, pas des  Tests
+
+Il n’y a pas de Tests de caractéristiques ou de Compétences dans Cairn. Dans Cairn, votre objectif est généralement de surmonter les obstacles par le Travail d’Équipe, la Planification, la Prudence, et la jugeotte (vous noterez que les termes avec une majuscule sont dans les Principes pour les Joueurs annoncés en page 2 de Cairn).
+La suite vous aidera à déterminer si une situation justifie de demander un jet de sauvegarde ou pas.
+
+S’il n’y a pas de risque, alors il n’y a pas de raison de demander une Sauvegarde. C'est une habitude difficile à tordre pour les MJs habitués à demander un jet dans les situations où le résultat est incertain, mais il n’y a pas vraiment de risque. Si une situation est sans réel danger, attribuez simplement un coût en temps ou ressource qui semble raisonnable (ou bien dites simplement "oui" pour les choses triviales).
+
+Si la joueuse n’est pas satisfaite du coût proposé pour la situation, elle peut toujours prendre davantage de risques pour éventuellement changer la donne en sa faveur. Un bon billet à lire à ce sujet : [Dilemmas: Pick of Push](https://www.bastionland.com/2016/01/choices-and-consequences-pick-or-push.html) par Chris McDowall.
+
+
+### Et la Difficulté alors ?
+
+Quand on vous demande un Jet de Sauvegarde, vos chances sont les mêmes quels que soient les risques encourus. Devant cette réalisation, nombreux sont ceux qui pensent à ajouter un système d'Avantage et Désavantage pour corriger ce "problème".
+
+Plutôt que d’ajouter cette complexité, il vaut mieux vous demander : "Quels sont les risques en cas d’échec de la Sauvegarde ?". Tous les risques ne sont pas les mêmes, et donc toutes les conséquences non plus. Pour une explication plus détaillée de cette approche, je vous renvoie à [Difficulty in Bastionland](https://www.bastionland.com/2020/03/difficulty-in-bastionland.html) par Chris McDowall, et [Advantage and Impact](https://dreamingdragonslayer.wordpress.com/2020/03/28/advantage-and-impact/) par Dreaming Dragonslayer.
+
 ### Opposed Saves
 
 In Cairn, there is never a situation where there is a "roll-off" to see who wins in a situation where two sides are opposed. In such situations, the side that is most at risk is the one that must make the Save.
