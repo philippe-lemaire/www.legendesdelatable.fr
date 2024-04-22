@@ -47,37 +47,41 @@ C'est plutôt mal vu dans les jeux OSR, car les secrets et la découverte sont u
 
 Comme dans le concept précédent, on présume que les personnages vont parler avec toutes les créatures rencontrées, et non pas faire un test mécanique pour voir comment l'intéraction sociale s'est passée. Ça ne veut pas dire que tout le monde joue un rôle à la première personne et une voix rigolote en permanence dans un groupe OSR (même si parfois c'est le cas). L'idée est que que les joueurs trouvent les grandes lignes de ce que leurs personnages veulent dire et de quelle manière. Cela valorise la découverte des personnages, lieux et objets du monde du jeu. Cela permet aussi à chaque joueur de contribuer aux conversations, et pas seulement ceux qui bénéficient de statistiques et attributs avantageux mécaniquement.
 
-### Conceit #4: Game Master Neutrality
+### Concept N°4: Neutralité du Maître de Jeu
 
-Those who run the game for the rest of the players are expected to act as neutral arbiters rather than be "fans of the characters" or "help facilitate great stories". This is difficult for many people to do, so there are various mechanics (see below) in many OSR games that are meant to help facilitate this neutrality. I don't really think true neutrality is possible, for the record, but using mechanics to determine things like how Monsters initially feel about you or when they flee battle go a long way towards achieving it.
+Ceux ou celles qui mènent le jeu pour les autres joueurs sont tenues à un rôle d'arbitre neutre, plutôt que d’être des "fans des personnages" ou des "facilitatrices de grandes histoires". C’est difficile pour la plupart des MJs, c’est pourquoi il existe certaines mécaniques de jeu (voir ci-dessous) dans la plupart des jeux OSR qui sont là pour faciliter cette neutralité. Je ne pense pas qu’une neutralité véritable soit possible, mais utiliser des mécaniques pour déterminer certaines choses comme la disposition initiale des Monstres lorsque les joueurs les rencontrent, ou bien s’ils fuient un combat contribue certainement à la neutralité recherchée.
 
-### Conceit #5 Combat Should be Avoided or Fought Unfairly
 
-A frequent statement that gets touted as a truism in OSR circles is "Combat is a fail state". This is not necessarily true, but it is true that if you can avoid a fight and get the thing you want, you should do that. Generally speaking, combat should only be fought when it seems like the only (or only reasonably expedient) way of getting something you want or need.
+### Concept N°5: Mieux vaux éviter les combats, ou de se battre à la loyale
 
-Even then, combat should be fought as unfairly as possible. Ambush, use fire-bombs, separate foes using false pretenses, etc. In many newer forms of D&D, combat can often seem to be the point of the game. In an OSR game, combat is just one of many methods of overcoming obstacles in the way of character success.
+On lit sans cesse dans les cercles OSR que "si vous combattez, vous avez échoué". Ce n’est pas nécessairement vrai, mais il est certain que si vous pouvez éviter un combat tout en obtenant ce que vous vouliez, c’est préférable. D’une manière générale, un combat ne devrait éclater que si cela semble être la seule manière (ou la plus commode) d’obtenir ce dont vous avez besoin ou que vous désirez.
 
-### Mechanic #1: Roll-Under Attribute Check
+Même dans ce cas, les joueurs doivent utiliser tous les stratagèmes et outils à leur disposition pour mettre toutes les chances de leur côté. Ambuscades, bombes incendiaires, séparer les ennemis par la ruse, etc. Dans les itérations les plus récentes de D&D, les combats semble souvent être la raison d’être du jeu. Dans un jeu OSR, les combats sont une méthode parmi d’autres de surmonter les obstacles sur la voie du succès.
 
-Any time a game or adventure tells you to do a roll-under check, it is telling you to roll a d20 and try to get under (or exactly on) the number the attribute it is tied to. For instance, if a module says that PCs should roll a Strength check, a character with a Strength of 14 would be expected to roll a d20 and try and get a 14 or below. This may seem odd to people used to rolling high and adding modifiers, but it has the benefit of requiring no math and an instant understanding of the results of a roll (you don't have to pause and add or subtract modifiers). There are variations, such as counting a roll of exactly the attribute's number a failure or using xd6 instead of a d20 to modify difficulty, but the basic concept remains the same.
+### Mécanique N°1: Test par lancer sous la valeur d'attribut
 
-### Mechanic #2: X-in-6 Chance
+Quand un jeu ou une aventure vous demande de faire un test sous votre attribut, on vous demande de lancer un d20 et d'obtenir un résulat inférieur ou égal à l’attribut associé.
+Par exemple, si un module vous demande de faire un test de force, un personnage avec une force de 14 doit obtenir 14 ou moins sur un d20. Cela peut sembler étrange à des joueurs habitués à vouloir "lancer haut" et ajouter un modificateur, mais cela a l’avantage de ne réclamer aucun calcul : le résultat peut être interprété immédiatement. Il peut y avoir quelques variations, comme considérer comme succès uniquement un résultat strictement inférieur à l’attribut, ou bien utiliser xd6 plutôt qu’un d20, mais le concept de base reste le même.
 
-Another mechanic that is used frequently in adventures due to its prevalence in B/X D&D and the like. It is a way of letting a dice roll determine something that you don't want to leave purely to Game Master discretion. Essentially, whatever X is determines your chance of success. You would roll a d6 and if it lands within the range described you get a favorable outcome. A 3-in-6 chance, for instance, is essentially a coin flip. Whereas, a 1-in-6 would be very low odds of success and a 5-in-6 very high. I prefer it to have parity with roll-under and consider low results successful, but other people prefer to look at higher rolls more favorably (Cairn's Die of Fate is an example of this). It doesn't really matter as the statistical chance is the same.
+### Mécanique N°2: X-chances-sur-6
 
-In general, this is a great way to try and decide something that would benefit or harm the PCs without violating neutrality. Though, personally, I tend to like 3-in-6 chances like the Die of Fate for such situations because it gives both possibilities even odds.
+Une autre mécanique que l’on retrouve souvent dans les aventures, en raison de son omniprésence dans D&D B/X et consorts. C’est une manière de laisser les dés décider quand vous ne voulez pas qu’un élément soit décidé par la MJ. Ici, X détermine votre probabilité de réussite. Vous lancez un d6, et s'il tombe dans l'intervale déterminé, vous obtenez un résultat favorable. Pour un 3-chances-sur-6, c’est équivalent à un pile ou face, 50/50, tandis qu'un 1-chance-sur-6 donne une faible probabilité de succès et un 5-chances-sur-6 est beaucoup plus probable. Par cohérence avec les jets liés aux attributs qui considèrent un jet "bas" comme un succès, je préfère les utiliser avec un résultat bas comme favorable, mais certains préfèrent ici considérer les jets hauts comme favorables (le Dé du Destin dans Cairn est un exemple de ce retournement). Cela a peu d’importance car les probabilités sont les mêmes.
 
-### Mechanic #3: Reaction Rolls
+D’une manière générale, c’est une bonne manière de déterminer si quelque chose va se révéler favorable ou néfaste pour les joueurs tout en restant un arbitre neutre. Personnellement, je préfère dans ces cas partir sur 3-chances-sur-6, comme le Dé du Destin de Cairn, car les deux issues ont la même probabilité.
 
-I said before that social interactions are never bypassed or sped through via rolling, but a GM typically determines someone's starting disposition by doing a Reaction roll, which is done by rolling 2d6 and comparing the results to a chart. Typically extreme results are less likely both because the most extreme positive and negative Reactions are typically assigned to a single number (12 and 2, respectively) and also because the use of two die will skew the average result towards the middle.
 
-Reaction rolls are really important if you want to show PCs that they don't have to constantly fight anything and everything they encounter. This is important, because parties that fight everything that moves will quickly get in over their head and die horrific deaths.
+### Mécanique N°3: Jets de Réaction
 
-### Mechanic #4: Morale Checks
+J’ai dit plus haut que les interactions sociales ne sont jamais court-circuitées ou abrégées par un jet, mais une MJ détermine généralement la disposition de départ d’un PNJ ou d’une créature par un jet de Réaction, qui est fait en lançant 2d6 et en comparant le résultat à une petite table. Les réactions extrèmes sont les moins probables, car généralement associées aux nombres 2 et 12, qui sont les résultats les moins probables quand on lance 2d6.
 
-Another tool in the "maintaining neutrality" toolkit. NPCs roll these when certain conditions are met. Usually when enough NPCs on their side are defeated, they personally are under threat of death, or a situation created by the PCs is frightening enough to warrant checking to see if they should turn and run. It is typically rolled with 2d6 (though I have seen 1d12) and the result is compared to the NPC's Morale score. The higher the Morale, the less likely that NPC will flee.
+Ces jets de réaction sont vraiment importants si vous voulez montrer aux PJs qu'ils n’ont pas à combattre toutes les créatures qu’ils croisent. Les groupes qui essaient de tuer tout ce qui bouge vont très rapidement être submergés et mourir dans d’affreuses souffrances.
 
-This is a useful mechanic for both saving time (playing out the clean-up part of a battle is pretty boring), fairly deciding enemy behavior, and (perhaps most important of all) modeling the idea of running away being a viable option for PCs.
+
+### Mécanique N°4: Test de Moral
+
+Un autre outil dans votre besace "rester neutre". Les PNJs font ces tests pour vérifier s’ils continuent à se battre ou s’ils fuient / se rendent quand certaines conditions sont remplies. Généralement quand un nombre suffisant de personnages de leur camps sont neutralisés, ou quand leur vie est en danger, ou bien si une situation créée par un PJ peut être conçue comme suffisamment effrayante pour se demander s’ils ne prendraient pas leur jambes à leur cou. Typiquement on lance 2d6 (mais j’ai déjà vu 1d12) et on compare à un score de moral. Plus le score de Moral est élévé, moins l’ennemi a tendance à s’enfuir. (*NdT: dans Cairn, pour ne pas avoir un score de Moral à gérer, c'est un un simple test de Volonté pour les PNJs*).
+
+C’est une mécanique utile à la fois pour gagner du temps (la fin d’une bataille clairement gagnée est plutôt barbante), pour déterminer justement le comportement adverse, et enfin, peut-être le plus important, pour mettre dans la tête des PJs que la fuite est une option viable.
 
 ## Cairn Frequently Asked Questions and Misconceptions
 
