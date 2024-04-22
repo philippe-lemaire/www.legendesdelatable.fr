@@ -1,10 +1,11 @@
 ---
-title: "Cairn Cours Intensif"
+title: "Cairn - Cours Intensif"
 date: 2024-04-21T20:10:05+02:00
 draft: false
 author: Philippe Lemaire
 description:
-featured_image: "/images/book-shelf.jpg"
+featured_image: "https://cairnrpg.com/img/logo.png"
+tags: [NSR, OSR, Cairn]
 ---
 
 *NB : cet article est une traduction par mes soins de l'article [Cairn Crash Course](https://widdershinswanderings.bearblog.dev/cairn-crash-course/) écrit par [Derek B. AKA Neolin](https://widdershinswanderings.bearblog.dev/).*
@@ -41,7 +42,7 @@ Cela signifie que les personnages qui finissent par développer une originalité
 ### Concept N°2: Découverte par les interactions, et pas les dés.
 
 Dans des jeux plus traditionnels, les joueurs font des jets de dés pour déterminer si leurs personnages détectent des pièges, des portes secrètes, ou des ennemis en embuscade.
-C'est plutôt mal vu dans les jeux OSR, car les secrets et la découverte sont un des moteurs du style de jeu. C'est pourquoi on attend des joueuses qu'elles étudient les lieux et les objets d'une aventure en décrivant les actions de leurs personnages, en utilisant une pensée critique et logique pour découvrir des secrets et éviter le danger. Dans certains jeux se concentrant sur d'autres aspects, cela serait considéré comme une perte de temps, mais parfois une absence de mécanique dédiée en dit beaucoup sur les aspects sur lesquels le jeu ou le genre attend que vous passiez du temps.
+C'est plutôt mal vu dans les jeux OSR, car [les secrets et la découverte](https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html) sont un des moteurs du style de jeu. C'est pourquoi on attend des joueuses qu'elles étudient les lieux et les objets d'une aventure en décrivant les actions de leurs personnages, en utilisant une pensée critique et logique pour découvrir des secrets et éviter le danger. Dans certains jeux se concentrant sur d'autres aspects, cela serait considéré comme une perte de temps, mais parfois une absence de mécanique dédiée en dit beaucoup sur les aspects sur lesquels le jeu ou [le genre attend que vous passiez du temps](https://twitter.com/seanmccoy/status/1145172287785787392).
 
 ### Concept N°3: Pas de jet de compétences sociales
 
@@ -87,6 +88,8 @@ C’est une mécanique utile à la fois pour gagner du temps (la fin d’une bat
 
 Voici une liste de questions et de clarifications qui reviennent souvent sur le Discord de Cairn, sur Reddit, etc.
 
+![for use with Cairn](https://i.imgur.com/7KgR3tG.jpg)
+
 ### C’est quoi les PC (*NdT: HP en VO*)?
 
 PC est l'abréviation de Protection des Coups. C'est toute la vigueur, l’habileté et la chance que possède un PJ ou PNJ qui leur permettent d’éviter des dégâts sérieux. Tant qu’il lui reste des PC, un personnage n’a pas subit de dégâts durables. C’est vraiment important à garder en tête pour décrire les combats, pour des raisons esthétiques, mais aussi parce que cela aide à arbitrer des situations à la volée comme le poison, une attaque vampirique au contact, ou bien se faire déchiqueter par un Grizzly.
@@ -124,7 +127,7 @@ Les PNJs suivent les mêmes règles que les PJs, avec quelques exceptions :
 ### Des Sauvegardes, pas des  Tests
 
 Il n’y a pas de Tests de caractéristiques ou de Compétences dans Cairn. Dans Cairn, votre objectif est généralement de surmonter les obstacles par le Travail d’Équipe, la Planification, la Prudence, et la jugeote (vous noterez que les termes avec une majuscule sont dans les Principes pour les Joueurs annoncés en page 2 de Cairn).
-La suite vous aidera à déterminer si une situation justifie de demander un jet de sauvegarde ou pas.
+[Ce billet](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/) vous aidera à déterminer si une situation justifie de demander un jet de sauvegarde ou pas.
 
 S’il n’y a pas de risque, alors il n’y a pas de raison de demander une Sauvegarde. C'est une habitude difficile à tordre pour les MJs habitués à demander un jet dans les situations où le résultat est incertain, mais il n’y a pas vraiment de risque. Si une situation est sans réel danger, attribuez simplement un coût en temps ou ressource qui semble raisonnable (ou bien dites simplement "oui" pour les choses triviales).
 
