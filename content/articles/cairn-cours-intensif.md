@@ -8,7 +8,7 @@ featured_image: "https://cairnrpg.com/img/logo.png"
 tags: [NSR, OSR, Cairn]
 ---
 
-*NB : cet article est une traduction par mes soins de l'article [Cairn Crash Course](https://widdershinswanderings.bearblog.dev/cairn-crash-course/) écrit par [Derek B. AKA Neolin](https://widdershinswanderings.bearblog.dev/). L’anglais étant naturellement plus neutre en terme de genre que le français, j'ai pris le parti d’utiliser les termes désignant les personnes alternativement au masculin et au féminin, un peu au hasard. Si ça vous gêne, passez votre chemin.*
+*NB : cet article est une traduction par mes soins de l'article [Cairn Crash Course](https://widdershinswanderings.bearblog.dev/cairn-crash-course/) écrit par [Derek B. AKA Naeolin](https://widdershinswanderings.bearblog.dev/). L’anglais étant naturellement plus neutre en terme de genre que le français, j'ai pris le parti d’utiliser les termes désignant les personnes alternativement au masculin et au féminin, un peu au hasard. Si ça vous gêne, passez votre chemin.*
 
 ![Cairn Cover](https://i.imgur.com/NbgFm99.png)
 
