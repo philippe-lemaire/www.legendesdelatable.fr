@@ -46,7 +46,7 @@ C'est plutôt mal vu dans les jeux OSR, car [les secrets et la découverte](http
 
 ### Concept N°3: Pas de jet de compétences sociales
 
-Comme dans le concept précédent, on présume que les personnages vont parler avec toutes les créatures rencontrées, et non pas faire un test mécanique pour voir comment l'interaction sociale s'est passée. Ça ne veut pas dire que tout le monde joue un rôle à la première personne et une voix rigolote en permanence dans un groupe OSR (même si parfois c'est le cas). L'idée est que que les joueurs trouvent les grandes lignes de ce que leurs personnages veulent dire et de quelle manière. Cela valorise la découverte des personnages, lieux et objets du monde du jeu. Cela permet aussi à chaque joueur de contribuer aux conversations, et pas seulement ceux qui bénéficient de statistiques et attributs avantageux mécaniquement.
+Comme dans le concept précédent, on présume que les personnages vont parler avec toutes les créatures rencontrées, et non pas faire un test mécanique pour voir comment l'interaction sociale s'est passée. Ça ne veut pas dire que tout le monde joue un rôle à la première personne et une voix rigolote en permanence dans un groupe OSR (même si parfois c'est le cas). L'idée est que que les joueurs trouvent les grandes lignes de ce que leurs personnages veulent dire et de quelle manière. Cela valorise la découverte des personnages, lieux et objets du monde du jeu. Cela permet aussi à chaque joueur de contribuer aux conversations, et pas seulement ceux qui bénéficient de caractéristiques avantageuses mécaniquement.
 
 ### Concept N°4: Neutralité du Maître de Jeu
 
@@ -57,23 +57,24 @@ Ceux ou celles qui mènent le jeu pour les autres joueurs sont tenues à un rôl
 
 On lit sans cesse dans les cercles OSR que "si vous combattez, vous avez échoué". Ce n’est pas nécessairement vrai, mais il est certain que si vous pouvez éviter un combat tout en obtenant ce que vous vouliez, c’est préférable. D’une manière générale, un combat ne devrait éclater que si cela semble être la seule manière (ou la plus commode) d’obtenir ce dont vous avez besoin ou que vous désirez.
 
-Même dans ce cas, les joueurs doivent utiliser tous les stratagèmes et outils à leur disposition pour mettre toutes les chances de leur côté. Embuscades, bombes incendiaires, séparer les ennemis par la ruse, etc. Dans les itérations les plus récentes de D&D, les combats semble souvent être la raison d’être du jeu. Dans un jeu OSR, les combats sont une méthode parmi d’autres de surmonter les obstacles sur la voie du succès.
+Même dans ce cas, les joueurs doivent utiliser tous les stratagèmes et outils à leur disposition pour mettre toutes les chances de leur côté. Embuscades, bombes incendiaires, séparer les ennemis par la ruse, etc. Dans les itérations les plus récentes de D&D, la baston semble être la raison d’être du jeu. Dans un jeu OSR, les combats sont une méthode parmi d’autres de surmonter les obstacles sur la voie du succès.
 
-### Mécanique N°1: Test par lancer sous la valeur d'attribut
+### Mécanique N°1: Test par lancer sous la valeur de caractéristique
 
-Quand un jeu ou une aventure vous demande de faire un test sous votre attribut, on vous demande de lancer un d20 et d'obtenir un résultat inférieur ou égal à l’attribut associé.
-Par exemple, si un module vous demande de faire un test de force, un personnage avec une force de 14 doit obtenir 14 ou moins sur un d20. Cela peut sembler étrange à des joueurs habitués à vouloir "lancer haut" et ajouter un modificateur, mais cela a l’avantage de ne réclamer aucun calcul : le résultat peut être interprété immédiatement. Il peut y avoir quelques variations, comme considérer comme succès uniquement un résultat strictement inférieur à l’attribut, ou bien utiliser xd6 plutôt qu’un d20, mais le concept de base reste le même.
+Quand un jeu ou une aventure vous demande de faire un test de caractéristique, on vous demande de lancer un d20 et d'obtenir un résultat inférieur ou égal à la caractéristique associée.
+
+Par exemple, si un module vous demande de faire un test de force, un personnage avec une force de 14 doit obtenir 14 ou moins sur un d20. Cela peut sembler étrange à des joueurs habitués à vouloir "lancer haut" et ajouter un modificateur, mais cela a l’avantage de ne réclamer aucun calcul : le résultat peut être interprété immédiatement. Il peut y avoir quelques variations, comme considérer comme succès uniquement un résultat strictement inférieur à la caractéristique, ou bien utiliser xd6 plutôt qu’un d20, mais le concept de base reste le même.
 
 ### Mécanique N°2: X-chances-sur-6
 
-Une autre mécanique que l’on retrouve souvent dans les aventures, en raison de son omniprésence dans D&D B/X et consorts. C’est une manière de laisser les dés décider quand vous ne voulez pas qu’un élément soit décidé par la MJ. Ici, X détermine votre probabilité de réussite. Vous lancez un d6, et s'il tombe dans l'intervalle déterminé, vous obtenez un résultat favorable. Pour un 3-chances-sur-6, c’est équivalent à un pile ou face, 50/50, tandis qu'un 1-chance-sur-6 donne une faible probabilité de succès et un 5-chances-sur-6 est beaucoup plus probable. Par cohérence avec les jets liés aux attributs qui considèrent un jet "bas" comme un succès, je préfère les utiliser avec un résultat bas comme favorable, mais certains préfèrent ici considérer les jets hauts comme favorables (le Dé du Destin dans Cairn est un exemple de ce retournement). Cela a peu d’importance car les probabilités sont les mêmes.
+Une autre mécanique que l’on retrouve souvent dans les aventures, en raison de son omniprésence dans D&D B/X et consorts. C’est une manière de laisser les dés décider quand vous ne voulez pas qu’un élément soit décidé par la MJ. Ici, X détermine votre probabilité de réussite. Vous lancez un d6, et s'il tombe dans l'intervalle déterminé, vous obtenez un résultat favorable. Pour un 3-chances-sur-6, c’est équivalent à un pile ou face, 50/50, tandis qu'un 1-chance-sur-6 donne une faible probabilité de succès et un 5-chances-sur-6 est beaucoup plus probable. Par cohérence avec les jets liés aux caractéristiques qui considèrent un jet "bas" comme meilleur, je préfère les utiliser avec un résultat bas espéré, mais certains préfèrent ici considérer les jets hauts comme favorables (le Dé du Destin dans Cairn est un exemple de ce retournement). Cela a peu d’importance car les probabilités sont les mêmes.
 
-D’une manière générale, c’est une bonne manière de déterminer si quelque chose va se révéler favorable ou néfaste pour les joueurs tout en restant un arbitre neutre. Personnellement, je préfère dans ces cas partir sur 3-chances-sur-6, comme le Dé du Destin de Cairn, car les deux issues ont la même probabilité.
+D’une manière générale, c’est une bonne manière de déterminer si quelque chose va se révéler favorable ou néfaste pour les joueuses tout en restant un arbitre neutre. Personnellement, je préfère dans ces cas partir sur 3-chances-sur-6, comme le Dé du Destin de Cairn, car les deux issues ont la même probabilité.
 
 
 ### Mécanique N°3: Jets de Réaction
 
-J’ai dit plus haut que les interactions sociales ne sont jamais court-circuitées ou abrégées par un jet, mais une MJ détermine généralement la disposition de départ d’un PNJ ou d’une créature par un jet de Réaction, qui est fait en lançant 2d6 et en comparant le résultat à une petite table. Les réactions extrêmes sont les moins probables, car généralement associées aux nombres 2 et 12, qui sont les résultats les moins probables quand on lance 2d6.
+J’ai dit plus haut que les interactions sociales ne sont jamais court-circuitées ou abrégées par un jet, mais une MJ détermine généralement la disposition de départ d’un PNJ ou d’une créature par un jet de Réaction, qui est fait en lançant 2d6 et en comparant le résultat à une petite table. Les réactions extrêmes sont les moins probables, car généralement associées aux nombres 2 et 12, qui sont les résultats les plus rares quand on lance 2d6.
 
 Ces jets de réaction sont vraiment importants si vous voulez montrer aux PJs qu'ils n’ont pas à combattre toutes les créatures qu’ils croisent. Les groupes qui essaient de tuer tout ce qui bouge vont très rapidement être submergés et mourir dans d’affreuses souffrances.
 
@@ -92,23 +93,23 @@ Voici une liste de questions et de clarifications qui reviennent souvent sur le 
 
 ### C’est quoi les PC (*NdT: HP en VO*)?
 
-PC est l'abréviation de Protection des Coups. C'est toute la vigueur, l’habileté et la chance que possède un PJ ou PNJ qui leur permettent d’éviter des dégâts sérieux. Tant qu’il lui reste des PC, un personnage n’a pas subit de dégâts durables. C’est vraiment important à garder en tête pour décrire les combats, pour des raisons esthétiques, mais aussi parce que cela aide à arbitrer des situations à la volée comme le poison, une attaque vampirique au contact, ou bien se faire déchiqueter par un Grizzly.
+PC est l'abréviation de Protection des Coups. C'est toute la vigueur, l’habileté et la chance que possède un PJ ou PNJ qui leur permettent d’éviter des dégâts sérieux. Tant qu’il lui reste des PC, un personnage n’a pas subi de dégâts durables. C’est vraiment important à garder en tête pour décrire les combats, pour des raisons esthétiques, mais aussi parce que cela aide à arbitrer des situations à la volée comme le poison, une attaque vampirique au contact, ou bien se faire déchiqueter par un Grizzly.
 
-Une erreur fréquente que je vois avec les PC est dans l'interprétation des pièges. Les pièges réduisent les attributs directement, généralement la Force. Dans la Fiction c’est logique, le piège vous a pris par surprise, mais qui plus est il y a une bonne raison mécanique: les PC se restaurent très facilement dans Cairn, il suffit de se reposer quelques instants. Si les pièges n’infligeaient pas de dégâts directement aux attributs, ils seraient sans mordant.
+Une erreur fréquente que je vois avec les PC est dans l'interprétation des pièges. Les pièges réduisent les attributs directement, généralement la Force. Dans la Fiction c’est logique, le piège vous a pris par surprise, mais qui plus est il y a une bonne raison mécanique: les PC se restaurent très facilement dans Cairn, il suffit de se reposer quelques instants. Si les pièges n’infligeaient pas de dégâts directement aux caractéristiques, ils seraient sans mordant.
 
 ### Le pourquoi et le comment des Dégâts Critiques
 
 Les Dégâts Critiques interviennent quand un PJ ou PNJ a épuisé ses PC et que les dégâts reçus commencent à réduire leur Force. Il est important de se rappeler que quand la Force est réduite ainsi, cela veut dire qu’un coup sérieux a porté, mais cela ne signifie pas que le personnage est mis hors d’état de nuire. Pour le déterminer, un jet de sauvegarde contre les Dégâts Critique doit être fait par la victime, avec son nouveau score de Force réduit.
 
-Un personnage qui réussi ce test a été affaibli, mais n’a pas subit de blessure critique. Ce sont les personnages qui, bien que transpercés par endroits, arrivent à repousser leur adversaire avant que leurs organes vitaux ne soient atteints. Ce sont les PJs qui arrachent le serpent qui vient de mordre avant que le poison ne leur soit injecté dans les veines.
+Un personnage qui réussit ce test a été affaibli, mais n’a pas subit de blessure critique. Ce sont les personnages qui, bien que transpercés par endroits, arrivent à repousser leur adversaire avant que leurs organes vitaux ne soient atteints. Ce sont les PJs qui arrachent le serpent qui vient de mordre avant que le poison ne soit injecté dans leurs veines.
 
-Un échec sur un jet contre les Dégâts Critiques signifie que le corps a lâché. Il est à terre au mieux, et risque la mort ou des conséquences durables selon la situation et la nature de l’adversité.
+Un échec sur un jet contre les Dégâts Critiques signifie que le corps a lâché. Le personnage est à terre au mieux, et risque la mort ou des conséquences durables selon la situation et la nature de l’adversité.
 
 ### Armure : avantages mécaniques et dans la fiction
 
-La première chose à comprendre avec l’armure est que le maximum est 3. C'est important, car même une attaque atténuée (1d4) a la capacité d’infliger des dégâts. Si vous créez un PNJ ou une créature et qu'il vous semble qu’elle devrait avoir plus de 3 Armure, elle devrait probablement plutôt être immunisées aux attaques normales (et cette immunité devrait être clairement télégraphiée aux joueurs).
+La première chose à comprendre avec l’Armure est que le maximum est 3. C'est important, car même une attaque atténuée (1d4) a la capacité d’infliger des dégâts. Si vous créez un PNJ ou une créature et qu'il vous semble qu’elle devrait avoir plus de 3 Armure, elle devrait probablement plutôt être immunisées aux attaques normales (et cette immunité devrait être clairement télégraphiée aux joueuses).
 
-Il n’y a pas de différence mécanique entre différentes sources d’armure, dans la Fiction, le type d’armure utilisé est important. Côte de Mailles + Bouclier offre la même réduction de dégâts que Harnois (Armure 3), mais si vous tombez à l’eau, vous pourrez nager dans un cas et vous vous noierez à coup sûr dans l’autre. Les boucliers peuvent êtres coincés dans les mécanismes des pièges (ou la gueule des monstres), tandis que les casques peuvent protéger de chutes de débris.
+Il n’y a pas de différence mécanique entre différentes sources d’armure, dans la Fiction, le type d’armure utilisé est important. Côte de Mailles + Bouclier (Armure 2 + Armure 1) offre la même réduction de dégâts que Harnois (Armure 3), mais si vous tombez à l’eau, vous pourrez nager dans un cas et vous vous noierez à coup sûr dans l’autre. Les boucliers peuvent êtres coincés dans les mécanismes des pièges (ou la gueule des monstres), tandis que les casques peuvent protéger de chutes de débris.
 
 ### Les Cicatrices
 
