@@ -34,12 +34,12 @@ OSR signifie Old School Revival ou Old School Renaissance, selon à qui on deman
 Il y a beaucoup de débats à propos de ce que c’est, de l’ancienneté réelle de ses principes, de la mort de l’OSR, etc.
 Quelles que soient ses origines et son exacte définition, c’est une manière de jouer très différente, comparée à tout ce que les personnes ayant démarré avec la 3ème Édition de D&D (l'auteur) ou plus récente encore ont pu développer par eux-mêmes. Ceci est une tentative d'explication des concepts clés et des mécaniques particulières de ce style de jeu qui confondent souvent les nouveaux joueurs. Ce n'est pas une liste exhaustive, sinon cela reviendrait à réécrire une introduction complète à l'OSR, comme il en existe déjà.
 
-### Concept N°1: Les Personnages gagnent leur originalité en jeu.
+### Concept N°1: Les Personnages gagnent leur originalité en jeu
 
 Dans un paquet de jeux de rôle traditionnels, vous passez un bon moment à créer un personnage au concept original, en concoctant un historique de longueur variable, en utilisant un système élaboré de création de personnage qui est conçu pour faciliter l’originalité en vous donnant un grand nombre d'options. Un personnage dans un jeu OSR peut au contraire être créé suite à quelques jets de dés et des notes gribouillées sur un bout de papier. Cela a son importance, car le monde n’a que faire de votre précieux personnage dans un jeu OSR. Mauvais choix, ou simple « pas d’chance », et votre personnage va mourir, ce qui fera dérailler toute velleité d’intégrer une origine élaborée dans la narration.
 Cela signifie que les personnages qui finissent par développer une originalité le font en survivant et réussissant leurs aventures, gagnant leur originalité en influençant le monde via leurs actions en jeu.
 
-### Concept N°2: Découverte par les interactions, et pas les dés.
+### Concept N°2: Découverte par les interactions, et pas les dés
 
 Dans des jeux plus traditionnels, les joueurs font des jets de dés pour déterminer si leurs personnages détectent des pièges, des portes secrètes, ou des ennemis en embuscade.
 C'est plutôt mal vu dans les jeux OSR, car [les secrets et la découverte](https://maziriansgarden.blogspot.com/2019/04/pleasures-of-osr-secrecy-and-discovery.html) sont un des moteurs du style de jeu. C'est pourquoi on attend des joueuses qu'elles étudient les lieux et les objets d'une aventure en décrivant les actions de leurs personnages, en utilisant une pensée critique et logique pour découvrir des secrets et éviter le danger. Dans certains jeux se concentrant sur d'autres aspects, cela serait considéré comme une perte de temps, mais parfois une absence de mécanique dédiée en dit beaucoup sur les aspects sur lesquels le jeu ou [le genre attend que vous passiez du temps](https://twitter.com/seanmccoy/status/1145172287785787392).
@@ -53,7 +53,7 @@ Comme dans le concept précédent, on présume que les personnages vont parler a
 Ceux ou celles qui mènent le jeu pour les autres joueurs sont tenues à un rôle d'arbitre neutre, plutôt que d’être des "fans des personnages" ou des "facilitatrices de grandes histoires". C’est difficile pour la plupart des MJs, c’est pourquoi il existe certaines mécaniques de jeu (voir ci-dessous) dans la plupart des jeux OSR qui sont là pour faciliter cette neutralité. Je ne pense pas qu’une neutralité véritable soit possible, mais utiliser des mécaniques pour déterminer certaines choses comme la disposition initiale des Monstres lorsque les joueurs les rencontrent, ou bien s’ils fuient un combat contribue certainement à la neutralité recherchée.
 
 
-### Concept N°5: Mieux vaux éviter les combats, ou de se battre à la loyale
+### Concept N°5: Mieux vaut éviter les combats, ou de se battre à la loyale
 
 On lit sans cesse dans les cercles OSR que "si vous combattez, vous avez échoué". Ce n’est pas nécessairement vrai, mais il est certain que si vous pouvez éviter un combat tout en obtenant ce que vous vouliez, c’est préférable. D’une manière générale, un combat ne devrait éclater que si cela semble être la seule manière (ou la plus commode) d’obtenir ce dont vous avez besoin ou que vous désirez.
 
