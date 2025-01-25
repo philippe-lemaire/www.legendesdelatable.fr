@@ -8,8 +8,6 @@ featured_image: "/images/bw-banner.jpg"
 tags: [Burning Wheel]
 ---
 
-# Burning Wheel : Créer Une Situation
-
 Burning Wheel est un jeu de rôle créé par Luke Crane. Dans Burning Wheel, les mécaniques de jeu sont centrées sur les personnages des joueur·euse·s et leurs croyances à propos du monde et de la situation dans laquelle ils se  sont retrouvés.
 
 Le MJ a pour mission de mettre à l’épreuve les croyances des personnages, de les plonger dans des situations où leurs croyances vont créer des conflits, des dilemmes, révéler qu’elles sont erronées…
