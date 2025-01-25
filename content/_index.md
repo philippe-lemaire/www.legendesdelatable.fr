@@ -2,27 +2,15 @@
 # This title is used as the og:title on Hugo's internal
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Hugo ʕ•ᴥ•ʔ Bear"
+title = "Les Légendes de la Table"
 +++
 
-# A match made in heaven
+# Accueil
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Je m’appelle Philippe Lemaire, je vis à Lyon, et j’essaie de maîtriser une partie toutes les 2 semaines, histoire d’utiliser une petite partie des bouquins de JdR que j'ai pu acheter avec les années.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+Ces quelques pages sont mes élucubrations naïves à propos de mon hobby préféré : lire des livres de règles de jeu de rôle et imaginer ce que ça donnerait avec des joueurs autour de moi.
 
-[Go to the original bear blog](https://bearblog.dev/).
+Parfois je joue vraiment avec des joueurs, mais cela occupe clairement moins de temps que de potasser tous ces bouquins.
 
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+Si vous le souhaitez, vous pouvez me contacter via telegram : @plemaire
