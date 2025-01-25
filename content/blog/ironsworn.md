@@ -1,12 +1,10 @@
----
-title: "Ironsworn - le jeu solo qui affûte l’improvisation"
-date: 2021-01-01T09:24:22+01:00
-draft: false
-author: Philippe Lemaire
-description:
-featured_image: "/images/ironsworn/ironsworn-banner.jpg"
-tags: [Ironsworn, Jdr Solo,]
----
++++
+title = "Ironsworn - le jeu solo qui affûte l’improvisation"
+date = "2021-01-01"
+draft = false
+author = "Philippe Lemaire"
+tags= ["Ironsworn", "Jdr Solo",]
++++
 
 Le jeu de rôle est un délicat exercice d’équilibriste : d’un côté, c’est une forme de narration à la fois libre et guidée, généralement élaborée collectivement, et de l’autre, c’est un jeu avec des règles, des contraintes, la possibilité de choisir entre plusieurs options et d’en choisir la plus favorable, de bien jouer et de mal jouer, de gagner ou de perdre.
 
@@ -85,7 +83,7 @@ Demander à l’Oracle, c’est le petit coup de pouce du destin pour rendre la 
 
 ### Les Atouts
 
-Pour personnaliser votre personnage, vous donner de quoi dépenser votre expérience accumulée, et vous donner un léger ascendant face à l’adversité, vous pourrez choisir lors de la création de votre personnage 3 atouts, qui modifient certains *moves* de base, en vous donnant l’option d’utiliser une stat différente, de gagner un bonus au lancer et plus de momentum en cas de succès, ou de booster vos dégâts si vous cramez votre momentum, comme dans l’exemple ci-dessous : 
+Pour personnaliser votre personnage, vous donner de quoi dépenser votre expérience accumulée, et vous donner un léger ascendant face à l’adversité, vous pourrez choisir lors de la création de votre personnage 3 atouts, qui modifient certains *moves* de base, en vous donnant l’option d’utiliser une stat différente, de gagner un bonus au lancer et plus de momentum en cas de succès, ou de booster vos dégâts si vous cramez votre momentum, comme dans l’exemple ci-dessous :
 
 ![Asset Swordmaster](/images/ironsworn/asset-swordmaster.png)
 
@@ -93,7 +91,7 @@ Lorsque vous faites l’acquisition d’un atout, vous n’obtenez qu’un de 3 
 
 Ces talents représentent des techniques de combat, des rituels mystiques, des animaux alliés, ou des modifications de votre personnage après avoir subi de terribles blessures, avoir fait face à la mort, ou avoir été maudit.
 
-Par exemple, mon personnage actuel est une chasseuse de monstres, mais elle a également un jeune dragon dressé comme atout. Lors de ma première session, elle a subit une blessure terrible, sa main gauche a été arrachée par un serpent géant. Cette blessure m’a débloqué l’accès à l’atout "estropié", qui permet de booster la stat de *Cœur* suite à une blessure grave. Et la stat de *Cœur* est justement celle qui me permet de diriger ma petite troupe de monstres en combat. 
+Par exemple, mon personnage actuel est une chasseuse de monstres, mais elle a également un jeune dragon dressé comme atout. Lors de ma première session, elle a subit une blessure terrible, sa main gauche a été arrachée par un serpent géant. Cette blessure m’a débloqué l’accès à l’atout "estropié", qui permet de booster la stat de *Cœur* suite à une blessure grave. Et la stat de *Cœur* est justement celle qui me permet de diriger ma petite troupe de monstres en combat.
 
 ## L’univers proposé
 
@@ -113,7 +111,7 @@ Au départ j’étais très sceptique sur la capacité du jeu à engendre des hi
 ### Guidé, avec les enfants
 
 J’ai également joué en mode guidé avec mes deux fils.
-Dans le mode guidé, un maître de jeu remplace l’Oracle (même s’il ou elle peut y faire appel en cas de panne d’inspiration). 
+Dans le mode guidé, un maître de jeu remplace l’Oracle (même s’il ou elle peut y faire appel en cas de panne d’inspiration).
 
 Nous avons joué dans l’univers de Pokémon Donjon Mystère. Dans PDM, il n’y a pas d’humains, les Pokémon parlent et les plus héroïques forment des équipes d’exploration ou de sauvetage pour partir à l’aventure. La substitution d’univers se fait super facilement et le reste des *moves* suit très bien, il me suffit juste de déterminer pour eux quels *moves* ils déclenchent dans la fiction, et les mécaniques de dés sont suffisamment simples pour qu’ils déterminent le résultat de leurs actions en autonomie.
 
@@ -139,6 +137,6 @@ Mais attention, pour vraiment apprécier la chose, vous devrez vous forcer à pe
 
 J’ai découvert après avoir écrit cet article qu’il existait une traduction française du jeu. Si vous préférer jouer dans la langue de Molière, allez voir par ici pour [la version française d’Ironsworn](http://ironsworn.pbta.fr/telechargements/).
 
-Il y a également un addenda pour explorer des cavernes et des donjons apparemment, appelé [Ironsworn - Delve](https://www.ironswornrpg.com/product-ironsworn-delve), que j’ai pas encore mais que j’achèterai sûrement lors de mon prochain passage chez Trollune. 
+Il y a également un addenda pour explorer des cavernes et des donjons apparemment, appelé [Ironsworn - Delve](https://www.ironswornrpg.com/product-ironsworn-delve), que j’ai pas encore mais que j’achèterai sûrement lors de mon prochain passage chez Trollune.
 
 Enfin, j’ai appris que le créateur du jeu travaille sur une version futuriste du jeu, Ironsworn Starforged, que je surveillerai de près.
