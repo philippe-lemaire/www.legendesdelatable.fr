@@ -32,7 +32,7 @@ PNJs rencontrés :
 - Bernard, halfelin, propriétaire de la Taverne du Renard Malhabile
 - Père Guillaume, le curé.
 
-### L’aventure 
+### L’aventure
 
 Nos aventuriers débutants sont arrivés à Fort Ambroise car la rumeur court qu’un dragon s’est installé à proximité et qui dit dragon dit gros trésor.
 
@@ -46,7 +46,7 @@ Au petit matin, les PJs, accompagnés de deux suivants recrutés à la taverse, 
 
 Ils tentèrent une ouverture discrète de la porte par le voleur recruté à la taverne, mais c’était un tocard, et il réveilla le géant, qui les chassa de chez lui sans ménagement, les méprenant pour des gobelins.
 
-Reprenant leur route vers le nord-est, ils tombère sur un groupe de 4 gobelins un peu avinés. Les gobelins ont convaincus les PJs de les rejoindre, au nom du grand roi gobelin Hogboon, et de devenir chevaliers d'Hogboon s'ils participaient à la conquête d’une nouvelle place forte pour les Gobelins (le Mausolée).
+Reprenant leur route vers le nord-est, ils tombèrent sur un groupe de 4 gobelins un peu avinés. Les gobelins ont convaincu les PJs de les rejoindre, au nom du grand roi gobelin Hogboon, et de devenir chevaliers d'Hogboon s'ils participaient à la conquête d’une nouvelle place forte pour les Gobelins (le Mausolée).
 
 Une fois dans le mausolée, ils trouvèrent 6 gobelins supplémentaires, complètement épuisés par leur combats contre les revenants du Mausolée. Leur noms étaient :
 
@@ -57,10 +57,9 @@ Une fois dans le mausolée, ils trouvèrent 6 gobelins supplémentaires, complè
 - Bim, et
 - Prout.
 
-Après avoir exploré le Mausolée, découvert les statues représentant les 4 grandes valeurs chevaleresques de la valeur, la piété, la sagesse et le devoir, nos héros ont combattu les anciens compagnons de Saint-Ambroise revenus à la vie. Enfin ils ont surtout laissé les gobelins, supérieurs en nombre, leur régler leur cas, en restant courageusement hors de portée des coups d'épée bâtarde, en sacrifiant stratégiquement 8 gobelins sur les 10 de leur troupe lors du combat mémorable contre une araignée géante, et en faisant tomber astucieusement un squelette sans tête dans un bassin creusé dans le sol qui servait de maison à un gentil slime très acide.
+Après avoir exploré le Mausolée, découvert les statues représentant les 4 grandes valeurs chevaleresques de la gloire, la piété, la sagesse et le devoir, nos héros ont combattu les anciens compagnons de Saint-Ambroise revenus à la vie. Enfin ils ont surtout laissé les gobelins, supérieurs en nombre, leur régler leur cas, en restant courageusement hors de portée des coups d'épée bâtarde, en sacrifiant stratégiquement 8 gobelins sur les 10 de leur troupe lors du combat mémorable contre une araignée géante, et en faisant tomber astucieusement un squelette sans tête dans un bassin creusé dans le sol qui servait de maison à un gentil slime très acide.
 Mais bon, quand on a que 2 PV, il faut se servir de sa tête, c’est de bonne guerre.
 
-Après toutes ces aventures, ils trouvère une statue étrange et télépathe, et répondire de manière satisfaisante à sa question sur la nature d’un chevalier. Là ils trouvère le tombeau de Saint Ambroise, et l’épée légendaire que lui confia une fée il y a 3 siècles.
+Après toutes ces aventures, ils trouvèrent une statue étrange et télépathe, et répondirent de manière satisfaisante à sa question sur la nature d’un chevalier. Là ils trouvèrent le tombeau de Saint Ambroise, et l’épée légendaire que lui confia une fée il y a 3 siècles.
 
-Et on s'est arrêtés là.
-
+Et on s'est arrêtés là pour cette première session.
