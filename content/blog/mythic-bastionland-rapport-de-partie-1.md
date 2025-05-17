@@ -9,7 +9,9 @@ Je joue avec les mêmes trois joueurs en ligne les mardis soirs depuis un moment
 
 # Récapitulatif de la session 1
 
-![Carte du Domaine du point de vue des PJ, à la fin de la session](/images/mythic-bastionland/map_session_1.png)
+![Carte du Domaine du point de vue des PJ, à la fin de la session](/images/mythic-bastionland/map_session_1.png)  
+*Carte du Domaine du point de vue des PJ, à la fin de la session*
+
 Création de persos :
 
 - Steve a obtenu the Talon Knight
