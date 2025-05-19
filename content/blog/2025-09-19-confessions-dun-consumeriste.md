@@ -1,5 +1,5 @@
 +++
-title = "Confessions d’un Consommateur pas toujours raisonnnable"
+title = "Confessions d’un Consommateur pas toujours raisonnable"
 date = "2025-05-19T18:00:09+02:00"
 
 +++
