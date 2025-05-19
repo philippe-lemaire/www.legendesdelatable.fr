@@ -21,8 +21,8 @@ Voici une petite liste probablement non exhaustive de jeux achetés dans un ordr
 1. Mouse Guard
 1. Torchbearer 2e
 1. Pathfinder 2e
-1. Vampire the Masquarade 1. 5e
-1. Legends of the Five Rings 1. 5e
+1. Vampire the Masquarade 5e
+1. Legends of the Five Rings 5e
 1. Blades in the Dark
 1. A_State
 1. Wicked Ones
