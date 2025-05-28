@@ -11,6 +11,8 @@ tags = ["mythic-bastionland"]
 +++
 
 ## Mythic Bastionland Session 2, jouée le 27 mai 2025
+![Carte du Domaine du point de vue des PJ, à la fin de la session 2](/images/mythic-bastionland/map_session_2.png)
+*Carte du Domaine du point de vue des PJ, à la fin de la session 2*
 
 Personnages joueurs :
 
@@ -40,12 +42,12 @@ Une fois arrivés, ils ont découvert un ensemble de cabanes perchées dans les 
 Les villageois étaient très agités : leur chef, **Dorza**, un vieux bûcheron un peu frustre, dirigeait l’ire populaire contre
 la vieille **Litwige**, soi-disant sorcière, qui aurait fait venir le **Sanglier** dans le pays pour qu’il boive leur vin.
 
-Envoyés questionner la sorcière, les trois compagnons, après avoir bravé ses menaces de malédiction et défoncé sa porte, 
+Envoyés questionner la sorcière, les trois compagnons, après avoir bravé ses menaces de malédiction et défoncé sa porte,
 tombent sur une vieille plutôt inofensive mais avec beaucoup de répartie. Elle préconise l’apaisement avec le Sanglier, plutôt que
 la chasse, craignant pour la vie des jeunes face à cette créature.
 
 **Dorza** ne veut pas l’entendre et exorte les Chevaliers à faire leur devoir, sinon il ira demander à un autre chevalier de faire le
-boulot. 
+boulot.
 
 (*Là j’ai tenté de créer une tension entre deux voies possibles, la violence et le danger, pour eux et pour les paysans de leur suite, et une voie plus diplomatique,
 tout en leur faisant comprendre que s’il cherchaient la gloire, ils avaient des concurrents.*)
@@ -83,19 +85,19 @@ le Royaume et ses habitants, ils pourront éviter le pire. (*Ambiance*)
 
 Les Joueurs se postent en surveillance sur les remparts et auprès de la table des hôtes de marque tandis que la fête commence. Le **Sanglier** ne tarde pas à se montrer
 ravageant un petit vignoble entouré d’une muraille blanche, qui appartient au **Glass Knight**. Ce dernier et le **True Knight** se joignent gaiement à la troupe qui va faire face
-à la bête. 
+à la bête.
 
 Ils choisissent de l’encercler, pour éviter d’être tous pris dans une charge du Monstre. Celui ci leur réclame du vin, et du meilleur. Surpris par sa capacité de parole,
 le **Tiger Knight** tente une négociation mais le **Glass Knight** refuse de céder son vin, et le combat commence.
 
 Après 3 rounds et beaucoup de dés lancés par paquets, le **True Knight** est blessé, le **Sanglier** mortellement blessé prend la fuite, et seul le **Tiger Knight** parvient à
-le poursuivre à l'orée du bois. Il se bat en duel contre le terrible **Sanglier**, passe à un point de dégât de se faire lui même mortellement blesser, mais terrase l’animal géant 
+le poursuivre à l'orée du bois. Il se bat en duel contre le terrible **Sanglier**, passe à un point de dégât de se faire lui même mortellement blesser, mais terrase l’animal géant
 et achève le combat dans une mare de sang et de vinasse en cours de digestion.
 
 Les PJs gagnent ainsi leur premier point de **Gloire**.
 
 
-## Ce qui a bien marché 
+## Ce qui a bien marché
 
 - Mes PNJs étaient hauts en couleur. J’en ai introduit beaucoup mais je les avais un peu préparés et ce fut fluide et marquant.
 - La dynamique du combat avec la première phase, la fuite / poursuite, le duel final à mort qui est passé à un cheveu de la catastrophe
@@ -104,5 +106,3 @@ Les PJs gagnent ainsi leur premier point de **Gloire**.
 
 - Les combats avec 3 PJ , 3 montures, 5 PNJs pouvant contribuer au jet de dés, c'est un peu long et le dice roller de Owlbear n'y est pas très adapté. Heureusement que le système
 tend vraiment à faire durer un combat 3 tours et pas plus.
-
-
