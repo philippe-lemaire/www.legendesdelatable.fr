@@ -30,7 +30,7 @@ Voici une petite liste probablement non exhaustive de jeux achetés dans un ordr
 1. Avatar Legends
 1. Comrades
 1. Ironsworn
-1. Legacy 1. Life Among the Ruins
+1. Legacy - Life Among the Ruins
 1. Root
 1. Stonetop
 1. Ryuutama
