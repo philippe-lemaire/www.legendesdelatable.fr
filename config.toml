@@ -5,9 +5,13 @@ theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
 title = "Les Légendes de la Table"
-author = "Philippe Lemaire"
-copyright = "Copyright © 2025, Philippe Lemaire."
+copyright = "Copyright © 2026, Philippe Lemaire."
 languageCode = "fr-FR"
+
+[author]
+    name = "Philippe Lemaire"
+    email = "phil@plemaire.net"
+
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -18,6 +22,14 @@ ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
   blog = "articles/:slug/"
   #tags = "/blog/:slug"
+
+[outputs]
+  home = ['html', 'rss']
+
+[services]
+  [services.rss]
+    limit = 42
+
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
@@ -49,3 +61,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
+
+  [params.author]
+    email = 'phil@plemaire.net'
+    name = 'Philippe Lemaire'
